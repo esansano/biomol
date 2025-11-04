@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cuestionario Biomol</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      body {
+        margin: 0;
+        padding: 1.5rem;
+        background: #f5f5f5;
+        color: #1f1f1f;
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        background: #ffffff;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 12px 24px rgba(15, 23, 42, 0.12);
+      }
+
+      h1 {
+        margin-top: 0;
+        font-size: 1.8rem;
+      }
+
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+        align-items: center;
+      }
+
+      label {
+        font-weight: 600;
+      }
+
+      select,
+      button {
+        padding: 0.6rem 1rem;
+        font-size: 1rem;
+        border-radius: 8px;
+        border: 1px solid #d0d7de;
+        background: #ffffff;
+        color: #1f1f1f;
+        cursor: pointer;
+        transition: background 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      button {
+        background: #2563eb;
+        color: #ffffff;
+        border: none;
+      }
+
+      button:hover {
+        background: #1d4ed8;
+      }
+
+      button.secondary {
+        background: #10b981;
+      }
+
+      button.secondary:hover {
+        background: #059669;
+      }
+
+      .question {
+        border: 1px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 1.2rem;
+        margin-bottom: 1.5rem;
+        background: #f8fafc;
+      }
+
+      .question.correct {
+        border-color: #22c55e;
+        background: #ecfdf3;
+      }
+
+      .question.incorrect {
+        border-color: #ef4444;
+        background: #fef2f2;
+      }
+
+      .question header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin-bottom: 1rem;
+        gap: 1rem;
+      }
+
+      .unit-tag {
+        background: #e0e7ff;
+        color: #3730a3;
+        padding: 0.2rem 0.6rem;
+        border-radius: 999px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+
+      ol {
+        margin: 0 0 1rem 1.25rem;
+      }
+
+      fieldset {
+        border: none;
+        padding: 0;
+        margin: 0.5rem 0 0;
+      }
+
+      .answers label {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding: 0.4rem 0.2rem;
+      }
+
+      .answers input[type="radio"] {
+        transform: scale(1.2);
+      }
+
+      .feedback {
+        margin-top: 1rem;
+        padding-top: 0.8rem;
+        border-top: 1px solid #cbd5f5;
+      }
+
+      .feedback strong {
+        display: block;
+        margin-bottom: 0.3rem;
+      }
+
+      #results {
+        margin: 1rem 0;
+        font-size: 1.1rem;
+        font-weight: 600;
+      }
+
+      .warning {
+        padding: 1rem;
+        border-radius: 10px;
+        background: #fef3c7;
+        border: 1px solid #f59e0b;
+        color: #92400e;
+      }
+
+      @media (max-width: 900px) {
+        body {
+          padding: 1rem;
+        }
+
+        main {
+          padding: 1.5rem;
+        }
+
+        .controls {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .controls > * {
+          width: 100%;
+        }
+
+        button,
+        select {
+          text-align: center;
+        }
+      }
+
+      @media (max-width: 600px) {
+        body {
+          padding: 0.75rem;
+        }
+
+        main {
+          padding: 1.25rem;
+        }
+
+        h1 {
+          font-size: 1.4rem;
+        }
+
+        .question {
+          padding: 1rem;
+        }
+
+        fieldset .answers label {
+          align-items: flex-start;
+        }
+
+        .answers input[type="radio"] {
+          margin-top: 0.2rem;
+        }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background: #0f172a;
+          color: #e2e8f0;
+        }
+
+        main {
+          background: #111827;
+          box-shadow: none;
+        }
+
+        select,
+        button {
+          border-color: #334155;
+          background: #1f2937;
+          color: #e2e8f0;
+        }
+
+        .question {
+          background: #1f2937;
+          border-color: #334155;
+        }
+
+        .question.correct {
+          background: rgba(34, 197, 94, 0.15);
+        }
+
+        .question.incorrect {
+          background: rgba(239, 68, 68, 0.15);
+        }
+
+        .unit-tag {
+          background: rgba(129, 140, 248, 0.25);
+          color: #c7d2fe;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Cuestionario de Bioquímica Molecular</h1>
+      <section class="controls">
+        <label for="unitFilter">Tema:</label>
+        <select id="unitFilter">
+          <option value="all">Todos los temas</option>
+        </select>
+        <button id="reloadTest" class="secondary" type="button">Nuevo test aleatorio</button>
+        <button id="submitAnswers" type="button">Enviar respuestas</button>
+      </section>
+      <div id="results"></div>
+      <section id="questionList"></section>
+      <div id="messages"></div>
+    </main>
+
+    <script>
+      const QUESTIONS_FILE = "preguntes.json";
+      const QUESTIONS_PER_TEST = 10;
+
+      let allQuestions = [];
+      let currentQuestions = [];
+
+      const unitSelect = document.getElementById("unitFilter");
+      const questionList = document.getElementById("questionList");
+      const resultsBox = document.getElementById("results");
+      const messagesBox = document.getElementById("messages");
+      const submitButton = document.getElementById("submitAnswers");
+      const reloadButton = document.getElementById("reloadTest");
+
+      document.addEventListener("DOMContentLoaded", async () => {
+        try {
+          const response = await fetch(QUESTIONS_FILE);
+          if (!response.ok) {
+            throw new Error("No se pudo cargar el archivo de preguntas.");
+          }
+          allQuestions = await response.json();
+          populateUnitOptions(allQuestions);
+          loadNewTest();
+        } catch (error) {
+          showMessage(error.message || "Error inesperado al cargar las preguntas.", "warning");
+          submitButton.disabled = true;
+          reloadButton.disabled = true;
+        }
+      });
+
+      unitSelect.addEventListener("change", () => {
+        loadNewTest();
+      });
+
+      reloadButton.addEventListener("click", () => {
+        loadNewTest();
+      });
+
+      submitButton.addEventListener("click", () => {
+        gradeTest();
+      });
+
+      function populateUnitOptions(questions) {
+        const uniqueUnits = Array.from(
+          new Set(
+            questions
+              .map((q) => q.unit)
+              .filter((unit) => typeof unit === "string" && unit.trim().length > 0)
+          )
+        ).sort((a, b) => a.localeCompare(b, "es"));
+
+        unitSelect.innerHTML = "";
+        const allOption = document.createElement("option");
+        allOption.value = "all";
+        allOption.textContent = "Todos los temas";
+        unitSelect.appendChild(allOption);
+
+        uniqueUnits.forEach((unit) => {
+          const option = document.createElement("option");
+          option.value = unit;
+          option.textContent = unit;
+          unitSelect.appendChild(option);
+        });
+      }
+
+      function loadNewTest() {
+        clearResults();
+        const selectedUnit = unitSelect.value;
+        const filteredQuestions =
+          selectedUnit === "all"
+            ? [...allQuestions]
+            : allQuestions.filter((question) => question.unit === selectedUnit);
+
+        if (filteredQuestions.length === 0) {
+          showMessage(
+            "No hay preguntas disponibles para el tema seleccionado.",
+            "warning"
+          );
+          currentQuestions = [];
+          questionList.innerHTML = "";
+          return;
+        }
+
+        hideMessage();
+        currentQuestions = getRandomSample(
+          filteredQuestions,
+          Math.min(QUESTIONS_PER_TEST, filteredQuestions.length)
+        );
+        renderQuestions(currentQuestions);
+      }
+
+      function renderQuestions(questions) {
+        questionList.innerHTML = "";
+        questions.forEach((question, index) => {
+          const article = document.createElement("article");
+          article.className = "question";
+          article.dataset.questionId = question.id;
+          article.dataset.correctAnswer = question.correct_answer.trim();
+
+          const header = document.createElement("header");
+          const title = document.createElement("h2");
+          title.textContent = `${index + 1}. ${question.question}`;
+          title.style.margin = "0";
+          title.style.fontSize = "1.1rem";
+
+          if (question.unit) {
+            const unitBadge = document.createElement("span");
+            unitBadge.className = "unit-tag";
+            unitBadge.textContent = question.unit;
+            header.append(title, unitBadge);
+          } else {
+            header.append(title);
+          }
+
+          const statementList = document.createElement("ol");
+          statementList.type = "1";
+          question.options.forEach((optionText) => {
+            const item = document.createElement("li");
+            item.textContent = optionText;
+            statementList.appendChild(item);
+          });
+
+          const fieldset = document.createElement("fieldset");
+          fieldset.className = "answers";
+          const legend = document.createElement("legend");
+          legend.textContent = "Selecciona una respuesta:";
+          fieldset.appendChild(legend);
+
+          question.possible_answers.forEach((answerText) => {
+            const answerKey = extractAnswerKey(answerText);
+            const label = document.createElement("label");
+            const radio = document.createElement("input");
+            radio.type = "radio";
+            radio.name = `question-${question.id}`;
+            radio.value = answerKey;
+            label.appendChild(radio);
+            const textNode = document.createElement("span");
+            textNode.textContent = answerText;
+            label.appendChild(textNode);
+            fieldset.appendChild(label);
+          });
+
+          article.append(header, statementList, fieldset);
+          questionList.appendChild(article);
+        });
+      }
+
+      function gradeTest() {
+        if (currentQuestions.length === 0) {
+          showMessage(
+            "No hay preguntas cargadas. Recarga un nuevo test.",
+            "warning"
+          );
+          return;
+        }
+
+        let correctCount = 0;
+
+        Array.from(questionList.querySelectorAll(".question")).forEach((questionEl) => {
+          const selected = questionEl.querySelector("input[type='radio']:checked");
+          const correctAnswer = questionEl.dataset.correctAnswer;
+          const feedback = createFeedbackBlock(questionEl.dataset.questionId);
+
+          if (selected && selected.value === correctAnswer) {
+            correctCount += 1;
+            questionEl.classList.remove("incorrect");
+            questionEl.classList.add("correct");
+            feedback.classList.add("correct");
+          } else {
+            questionEl.classList.remove("correct");
+            questionEl.classList.add("incorrect");
+            feedback.classList.add("incorrect");
+          }
+
+          const questionData = currentQuestions.find(
+            (q) => String(q.id) === String(questionEl.dataset.questionId)
+          );
+
+          if (questionData) {
+            feedback.innerHTML = [
+              `<strong>Respuesta correcta: ${questionData.correct_answer}</strong>`,
+              `<div>${questionData.explanation || "Consulta la documentación para más detalles."}</div>`,
+              questionData.reference
+                ? `<div><em>Referencia:</em> ${questionData.reference}</div>`
+                : ""
+            ].join("");
+          }
+
+          const existingFeedback = questionEl.querySelector(".feedback");
+          if (existingFeedback) {
+            existingFeedback.remove();
+          }
+          questionEl.appendChild(feedback);
+        });
+
+        const totalQuestions = currentQuestions.length;
+        const scoreOverTen =
+          totalQuestions === 0 ? 0 : (correctCount / totalQuestions) * 10;
+        resultsBox.textContent = `Nota: ${scoreOverTen.toFixed(2)} / 10 (${correctCount} de ${totalQuestions} respuestas correctas)`;
+      }
+
+      function createFeedbackBlock(questionId) {
+        const feedback = document.createElement("div");
+        feedback.className = "feedback";
+        feedback.dataset.questionId = questionId;
+        return feedback;
+      }
+
+      function extractAnswerKey(answerText) {
+        if (typeof answerText !== "string") {
+          return "";
+        }
+        const match = answerText.trim().match(/^([A-D])\s*:/i);
+        return match ? match[1].toUpperCase() : answerText.trim();
+      }
+
+      function getRandomSample(source, count) {
+        const copy = [...source];
+        for (let i = copy.length - 1; i > 0; i -= 1) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [copy[i], copy[j]] = [copy[j], copy[i]];
+        }
+        return copy.slice(0, count);
+      }
+
+      function clearResults() {
+        resultsBox.textContent = "";
+        Array.from(questionList.children).forEach((questionEl) => {
+          questionEl.classList.remove("correct", "incorrect");
+          const feedback = questionEl.querySelector(".feedback");
+          if (feedback) {
+            feedback.remove();
+          }
+          const checkedOption = questionEl.querySelector("input[type='radio']:checked");
+          if (checkedOption) {
+            checkedOption.checked = false;
+          }
+        });
+      }
+
+      function showMessage(text, kind = "warning") {
+        messagesBox.innerHTML = `<div class="${kind}">${text}</div>`;
+      }
+
+      function hideMessage() {
+        messagesBox.innerHTML = "";
+      }
+    </script>
+  </body>
+</html>

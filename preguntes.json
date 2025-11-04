@@ -1,0 +1,1002 @@
+[
+{
+"id": 1,
+"unit": "Tema 1",
+"question": "Sobre las vías catabólicas:",
+"options": [
+"Generan ATP y cofactores reducidos como NADH",
+"Convergen mayoritariamente en acetil-CoA",
+"Producen CO2, H2O y NH3 como productos de desecho",
+"Consumen energía neta para sintetizar macromoléculas"
+],
+"possible_answers": [
+"A: 1, 4",
+"B: 2, 3",
+"C: 1, 2, 3",
+"D: todas son correctas"
+],
+"correct_answer": "C",
+"explanation": "El catabolismo obtiene energía (ATP, NADH), suele converger en acetil-CoA y libera CO2/H2O/NH3; el consumo neto de energía es propio del anabolismo. ",
+"reference": "Tema 1, 1.1–1.2 (visión general y necesidad de regulación). "
+},
+{
+"id": 2,
+"unit": "Tema 1",
+"question": "La necesidad de regular las rutas metabólicas se fundamenta en que:",
+"options": [
+"Las vías están interconectadas y ocurren simultáneamente",
+"Cada producto debe obtenerse en cantidad y momento adecuados",
+"El metabolismo debe adaptarse a cambios del entorno celular",
+"Las señales celulares no intervienen en la regulación"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario enfatiza interconexión, ajuste fino de cantidades/tiempo y flexibilidad mediada por señales; negar el papel de señales es incorrecto. ",
+"reference": "Tema 1, 1.2 (necesidad de regulación). "
+},
+{
+"id": 3,
+"unit": "Tema 1",
+"question": "El control de la CANTIDAD de enzima puede lograrse mediante:",
+"options": [
+"Cambios en la velocidad de transcripción",
+"Variación en la velocidad de traducción",
+"Modulación de la estabilidad del ARNm",
+"Fosforilación reversible del centro activo"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: todas son correctas"
+],
+"correct_answer": "A",
+"explanation": "Transcripción, traducción y estabilidad del ARNm controlan la cantidad proteica; la fosforilación regula actividad, no cantidad. ",
+"reference": "Tema 1, 1.3 (A.1–A.3). "
+},
+{
+"id": 4,
+"unit": "Tema 1",
+"question": "El control ALOSTÉRICO de enzimas se caracteriza por:",
+"options": [
+"Unión reversible de moduladores a sitios reguladores",
+"Interconversión entre formas más y menos activas",
+"Posibilidad de que el propio sustrato module la actividad",
+"Necesidad de proteólisis irreversible para activarse"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La alostería implica unión reversible, cambios conformacionales y, a veces, modulación por el sustrato; la proteólisis irreversible corresponde a activación proteolítica. ",
+"reference": "Tema 1, 1.3 (B.1 Control alostérico). "
+},
+{
+"id": 5,
+"unit": "Tema 1",
+"question": "La regulación por fosforilación/desfosforilación de proteínas:",
+"options": [
+"Es un mecanismo reversible",
+"Afecta con frecuencia a residuos Ser/Thr/Tyr",
+"Implica quinasas que añaden fosfato y fosfatasas que lo retiran",
+"Siempre activa a la enzima fosforilada"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Es reversible, se dirige a Ser/Thr/Tyr y depende de quinasas/fosfatasas; la fosforilación puede activar o inhibir según el caso. ",
+"reference": "Tema 1, 1.3 (B.2 Modificación covalente). "
+},
+{
+"id": 6,
+"unit": "Tema 1",
+"question": "Las ISOENZIMAS:",
+"options": [
+"Catalizan la misma reacción con secuencias proteicas distintas",
+"Proceden de genes diferentes",
+"Pueden mostrar parámetros cinéticos y distribución tisular distintos",
+"Siempre se localizan en el mismo compartimento subcelular"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: todas son correctas"
+],
+"correct_answer": "A",
+"explanation": "Isoenzimas: misma reacción, genes y secuencias distintas, con Vmax/Km y localización variables; no es obligado el mismo compartimento. ",
+"reference": "Tema 1, 1.3 (B.3 Isoenzimas). "
+},
+{
+"id": 7,
+"unit": "Tema 1",
+"question": "La ACTIVACIÓN PROTEOLÍTICA de enzimas:",
+"options": [
+"Convierte un zimógeno en enzima activa",
+"Es típicamente irreversible",
+"Participa, por ejemplo, en cascadas de coagulación",
+"Consiste en la unión reversible de un modulador"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La proteólisis activa zimógenos de forma irreversible (p.ej., coagulación); la unión reversible de moduladores es alostería. ",
+"reference": "Tema 1, 1.3 (B.4 Activación proteolítica). "
+},
+{
+"id": 8,
+"unit": "Tema 1",
+"question": "La ACCESIBILIDAD de los sustratos como mecanismo de control incluye:",
+"options": [
+"Compartimentación de rutas y enzimas",
+"Control del flujo de sustratos entre compartimentos",
+"Permeabilidad selectiva y papel regulable de transportadores",
+"Exclusivamente cambios en los factores de transcripción"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Compartimentación y transporte regulan acceso a sustratos; los FT regulan cantidad de enzima, no accesibilidad per se. ",
+"reference": "Tema 1, 1.3 (C.1–C.2). "
+},
+{
+"id": 9,
+"unit": "Tema 1",
+"question": "Beneficios de la COMPARTIMENTACIÓN enzimática en rutas secuenciales:",
+"options": [
+"Reduce la difusión de intermediarios",
+"Disminuye el tiempo de tránsito entre reacciones",
+"Permite simultanear rutas antagónicas en un mismo orgánulo",
+"Impide cualquier regulación por señales"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La proximidad en compartimentos reduce difusión y tiempos, y permite separaciones funcionales; no elimina regulación por señales. ",
+"reference": "Tema 1, 1.3 (C.1). "
+},
+{
+"id": 10,
+"unit": "Tema 1",
+"question": "Ejemplos de control por accesibilidad/transportadores:",
+"options": [
+"Entrada regulada de glucosa por acción de insulina",
+"Transporte de ácidos grasos al interior mitocondrial",
+"Señales que secuestran enzima y sustrato en compartimentos distintos",
+"Exclusivamente regulación transcripcional del receptor"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: todas son correctas"
+],
+"correct_answer": "A",
+"explanation": "El temario cita transporte de AG a mitocondria y control de entrada de glucosa; también el ‘secuestro’ en compartimentos distintos. ",
+"reference": "Tema 1, 1.3 (C.2, ejemplos). "
+},
+{
+"id": 11,
+"unit": "Tema 1",
+"question": "Respecto a la VISIÓN GENERAL del metabolismo:",
+"options": [
+"Una vía metabólica es una secuencia de reacciones catalizadas por enzimas",
+"El producto de una reacción puede ser sustrato de la siguiente",
+"Los metabolitos incluyen sustratos, intermedios y productos",
+"Las vías se definen por reacciones no catalizadas por enzimas"
+],
+"possible_answers": [
+"A: 1, 4",
+"B: 2, 3",
+"C: 1, 2, 3",
+"D: todas son correctas"
+],
+"correct_answer": "C",
+"explanation": "Las vías son secuencias enzimáticas con encadenamiento de metabolitos; no se definen por reacciones no enzimáticas. ",
+"reference": "Tema 1, 1.1 (definiciones). "
+},
+{
+"id": 12,
+"unit": "Tema 1",
+"question": "Sobre COFACTORES del catabolismo:",
+"options": [
+"NADH actúa como portador de electrones",
+"La generación de NADH es central en vías catabólicas",
+"El NADH no se relaciona con la respiración",
+"El ATP no interviene en el metabolismo energético"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "NADH es portador de electrones y se forma en catabolismo; negar su relación con respiración o el papel del ATP es erróneo. ",
+"reference": "Tema 1, 1.1 (NADH). "
+},
+{
+"id": 13,
+"unit": "Tema 1",
+"question": "En la regulación por CANTIDAD de enzima (A.1–A.4):",
+"options": [
+"Factores de transcripción modulan la transcripción",
+"La traducción puede ser un cuello de botella independiente",
+"La estabilidad del ARNm condiciona su concentración",
+"La degradación proteica no influye en la disponibilidad enzimática"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 3, 4",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "FT, traducción y degradación del ARNm afectan a cantidad; el recambio proteico también la condiciona, por lo que 4 es falsa. ",
+"reference": "Tema 1, 1.3 (A.1–A.4). "
+},
+{
+"id": 14,
+"unit": "Tema 1",
+"question": "Acerca de la INHIBICIÓN por retroalimentación (feedback):",
+"options": [
+"El producto final de la vía puede inhibir el primer paso",
+"Es un mecanismo rápido de regulación",
+"Requiere síntesis de nueva proteína",
+"Es típico del control alostérico"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Feedback: producto final inhibe pasos tempranos mediante alostería; es rápido y no depende de síntesis proteica. ",
+"reference": "Tema 1, 1.3 (alostería e inhibición por producto). "
+},
+{
+"id": 15,
+"unit": "Tema 1",
+"question": "Diferencias generales ANABOLISMO vs CATABOLISMO:",
+"options": [
+"El anabolismo consume energía",
+"El catabolismo genera ATP y cofactores reducidos",
+"El catabolismo sintetiza macromoléculas",
+"El anabolismo degrada moléculas complejas"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 3",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "Anabolismo: consumo de energía; catabolismo: obtención de energía. La síntesis de macromoléculas es anabólica. ",
+"reference": "Tema 1, 1.1 (definiciones). "
+},
+{
+"id": 16,
+"unit": "Tema 1",
+"question": "Sobre la MODIFICACIÓN COVALENTE por fosforilación:",
+"options": [
+"La quinasa transfiere un fosfato desde ATP a la proteína",
+"La fosfatasa hidroliza el fosfato para desfosforilar",
+"Siempre ocurre sobre Asp y Glu enzimáticos",
+"Puede existir fosforilación jerárquica"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Residuos típicos son Ser/Thr/Tyr; hay secuencias consenso y casos de fosforilación jerárquica. ",
+"reference": "Tema 1, 1.3 (B.2). "
+},
+{
+"id": 17,
+"unit": "Tema 1",
+"question": "En la regulación por CANTIDAD, es cierto que:",
+"options": [
+"Aumentar ARNm siempre implica más proteína",
+"La estabilidad del ARNm cambia su vida media",
+"Existen mecanismos de corregulación de genes por una misma señal",
+"La traducción no es punto regulatorio"
+],
+"possible_answers": [
+"A: 2, 3",
+"B: 1, 3",
+"C: 1, 4",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "Un aumento de ARNm no siempre se traduce en más proteína; hay corregulación y control de estabilidad. ",
+"reference": "Tema 1, 1.3 (A.1–A.3). "
+},
+{
+"id": 18,
+"unit": "Tema 1",
+"question": "Respecto a TRANSPORTE y regulación metabólica:",
+"options": [
+"Modular el paso de sustratos entre compartimentos regula el flujo",
+"Transportadores pueden ser dianas de regulación",
+"La permeabilidad de membrana es fija e inmutable",
+"El ‘secuestro’ de enzima/sustrato en compartimentos distintos reduce actividad"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Flujo intercompartimental y transportadores regulables modulan accesibilidad; la permeabilidad es selectiva y puede cambiar. ",
+"reference": "Tema 1, 1.3 (C.2). "
+},
+{
+"id": 19,
+"unit": "Tema 1",
+"question": "Elementos definitorios de una VÍA METABÓLICA:",
+"options": [
+"Secuencia de reacciones catalizadas por enzimas",
+"Objetivo de producir un producto específico",
+"Ausencia de intermedios identificables",
+"Interconexión con otras vías del metabolismo"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Las vías producen productos definidos, pasan por intermediarios y se conectan con otras; siempre son enzimáticas. ",
+"reference": "Tema 1, 1.1. "
+},
+{
+"id": 20,
+"unit": "Tema 1",
+"question": "Sobre la FLEXIBILIDAD metabólica:",
+"options": [
+"Permite ajustar la actividad a cambios ambientales",
+"Depende de señales celulares",
+"Es incompatible con la homeostasis",
+"No es necesaria en células diferenciadas"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La flexibilidad ajusta la actividad a señales y entorno; no contradice la homeostasis ni depende del tipo celular. ",
+"reference": "Tema 1, 1.2. "
+},
+{
+"id": 21,
+"unit": "Tema 1",
+"question": "En el CONTROL ENZIMÁTICO (resumen):",
+"options": [
+"Cantidad de enzimas",
+"Actividad catalítica",
+"Accesibilidad de sustratos",
+"Únicamente regulación transcripcional"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario define tres ejes: cantidad, actividad y accesibilidad; limitarse a transcripción es incompleto. ",
+"reference": "Tema 1, 1.3 (a–c). "
+},
+{
+"id": 22,
+"unit": "Tema 1",
+"question": "Características de la REGULACIÓN TRANSCRIPCIONAL (A.1):",
+"options": [
+"Factores de transcripción se unen a elementos de respuesta",
+"Una señal puede corregir varios genes coordinadamente",
+"Siempre aumenta la transcripción",
+"Es un mecanismo que afecta a la cantidad de enzima"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Los FT pueden activar o reprimir; la corregulación coordina varios genes; regula la cantidad de enzima. ",
+"reference": "Tema 1, 1.3 (A.1). "
+},
+{
+"id": 23,
+"unit": "Tema 1",
+"question": "Sobre el CONTROL por TRADUCCIÓN (A.2):",
+"options": [
+"La velocidad de traducción puede limitar la producción proteica",
+"Un aumento de ARNm garantiza más proteína",
+"La traducción es independiente de la regulación",
+"Afecta a la cantidad de enzima disponible"
+],
+"possible_answers": [
+"A: 1, 4",
+"B: 2, 3",
+"C: 1, 2",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario indica que más ARNm no siempre implica más proteína; la traducción es un punto regulable. ",
+"reference": "Tema 1, 1.3 (A.2). "
+},
+{
+"id": 24,
+"unit": "Tema 1",
+"question": "Control por ESTABILIDAD del ARNm (A.3):",
+"options": [
+"La vida media del ARNm condiciona su concentración",
+"El acortamiento de poli-A reduce estabilidad en muchos ARNm",
+"La degradación del ARNm es irrelevante para la expresión",
+"Existen rutas específicas de degradación"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La estabilidad regula [ARNm]; hay degradación general y específica; la cola poli-A influye en vida media. ",
+"reference": "Tema 1 (A.3) y Tema 5 (degradación ARNm). "
+},
+{
+"id": 25,
+"unit": "Tema 1",
+"question": "Control por DEGRADACIÓN PROTEICA (A.4):",
+"options": [
+"El recambio proteico modifica la disponibilidad de enzimas",
+"La ubiquitinación marca proteínas para el proteasoma",
+"La degradación proteica es unidireccional e irreversible",
+"No requiere ATP en ningún paso"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La vía ubiquitina-proteasoma es ATP-dependiente y ajusta la cantidad de enzimas funcionales. ",
+"reference": "Tema 1, 1.3 (A.4) y degradación por ubiquitina/proteasoma. "
+},
+{
+"id": 26,
+"unit": "Tema 1",
+"question": "Sobre la REVERSIBILIDAD de la fosforilación:",
+"options": [
+"Es un requisito para ser un buen mecanismo regulador",
+"Implica sitios múltiples de fosforilación en una misma proteína",
+"Siempre se limita a un único residuo por proteína",
+"Depende de quinasas específicas por secuencias consenso"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Puede haber múltiples sitios y especificidad por secuencias; la reversibilidad asegura control dinámico. ",
+"reference": "Tema 1, 1.3 (B.2 detalles). "
+},
+{
+"id": 27,
+"unit": "Tema 1",
+"question": "Señala lo correcto sobre ‘VÍAS METABÓLICAS’:",
+"options": [
+"Pueden ser catabólicas o anabólicas",
+"En el catabolismo se obtiene acetil-CoA como producto común",
+"Las vías anabólicas generan ATP como producto final",
+"Catabolismo y anabolismo están acoplados energéticamente"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Catabolismo produce acetil-CoA y ATP/NADH; el anabolismo consume ATP, estando acoplados. ",
+"reference": "Tema 1, 1.1. "
+},
+{
+"id": 28,
+"unit": "Tema 1",
+"question": "En la alostería, los moduladores:",
+"options": [
+"Se unen a sitios distintos del activo",
+"Pueden ser activadores o inhibidores",
+"Se unen siempre de forma covalente",
+"Inducen cambios conformacionales"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La unión es reversible (no covalente), con cambios conformacionales que modulan la actividad. ",
+"reference": "Tema 1, 1.3 (B.1). "
+},
+{
+"id": 29,
+"unit": "Tema 1",
+"question": "El PRIMER PASO de muchas vías biosintéticas:",
+"options": [
+"Suele ser una enzima reguladora",
+"Puede estar inhibido por el producto final",
+"Nunca responde a señales celulares",
+"Afecta de forma notable al flujo de toda la vía"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Primeros pasos regulan el flujo y son dianas de inhibición por producto (feedback). ",
+"reference": "Tema 1, 1.3 (B.1). "
+},
+{
+"id": 30,
+"unit": "Tema 1",
+"question": "La ENTRADA de GLUCOSA en células como mecanismo de control:",
+"options": [
+"Puede modularse por hormonas como la insulina",
+"Es un ejemplo de control por accesibilidad de sustratos",
+"No depende de transportadores específicos",
+"Es independiente del estado metabólico tisular"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario cita regulación de entrada de glucosa mediada por insulina como control de accesibilidad. ",
+"reference": "Tema 1, 1.3 (C.2, ejemplos). "
+},
+{
+"id": 31,
+"unit": "Tema 1",
+"question": "Acerca de los PRODUCTOS de desecho del catabolismo:",
+"options": [
+"CO2 puede originarse en la respiración celular",
+"NH3 procede de la degradación de aminoácidos",
+"H2O resulta, entre otros, de oxidaciones",
+"El catabolismo no produce ninguno de ellos"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "CO2, NH3 y H2O se listan como desechos típicos del catabolismo en el temario. ",
+"reference": "Tema 1, 1.1 (descripción general del catabolismo). "
+},
+{
+"id": 32,
+"unit": "Tema 1",
+"question": "Sobre la DEFINICIÓN de metabolismo:",
+"options": [
+"Conjunto de transformaciones catalizadas por enzimas",
+"Incluye procesos que producen y requieren energía",
+"Tiene lugar en células/organismos vivos",
+"Se limita a reacciones no enzimáticas"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La definición subraya el carácter enzimático y la dimensión energética en sistemas vivos. ",
+"reference": "Tema 1, 1.1 (definición). "
+},
+{
+"id": 33,
+"unit": "Tema 1",
+"question": "Acerca de la ORGANIZACIÓN de rutas en un mismo orgánulo:",
+"options": [
+"Pueden coexistir rutas biosintéticas y degradativas",
+"La compartimentación permite procesos antagónicos simultáneos",
+"Siempre se separan por células diferentes",
+"La especialización de orgánulos facilita el control"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario resalta especialización y coexistencia con control espacial; no requiere células distintas. ",
+"reference": "Tema 1, 1.3 (C.1–C.2). "
+},
+{
+"id": 34,
+"unit": "Tema 1",
+"question": "La REGULACIÓN por señales extracelulares en Tema 1:",
+"options": [
+"Puede activar o reprimir transcripción",
+"Constituye una vía para ajustar la cantidad de enzimas",
+"No afecta a la traducción",
+"Es uno de los fundamentos de la necesidad de regulación"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Las señales modulan transcripción y justifican la necesidad de regulación; la traducción también es regulable. ",
+"reference": "Tema 1, 1.2–1.3. "
+},
+{
+"id": 35,
+"unit": "Tema 1",
+"question": "Acerca de la DIRECCIONALIDAD de rutas:",
+"options": [
+"Cada vía produce un producto específico",
+"El flujo de metabolitos puede ajustarse por enzimas reguladoras",
+"La dirección es invariable y no se regula",
+"El primer paso biosintético suele ser objeto de control"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Producto específico, control de flujo y regulación temprana son principios básicos del control metabólico. ",
+"reference": "Tema 1, 1.1 y 1.3 (B.1). "
+},
+{
+"id": 36,
+"unit": "Tema 1",
+"question": "En el CONTROL por accesibilidad, señala lo correcto:",
+"options": [
+"El movimiento de sustratos entre compartimentos es un punto de control",
+"Los transportadores son regulables",
+"La localización cercana de enzimas secuenciales aumenta eficiencia",
+"No afecta al flujo global"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Control espacial y de transporte determinan eficiencia y flujo de rutas. ",
+"reference": "Tema 1, 1.3 (C.1–C.2). "
+},
+{
+"id": 37,
+"unit": "Tema 1",
+"question": "Sobre la RELACIÓN entre ARNm y proteína (A.2–A.3):",
+"options": [
+"Más ARNm siempre implica más proteína",
+"La traducción y la estabilidad del ARNm modulan la cantidad proteica",
+"La degradación del ARNm evita síntesis innecesaria",
+"La velocidad de traducción no se regula"
+],
+"possible_answers": [
+"A: 2, 3",
+"B: 1, 3",
+"C: 1, 4",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario indica control de traducción y degradación de ARNm como mecanismos clave. ",
+"reference": "Tema 1 (A.2–A.3). "
+},
+{
+"id": 38,
+"unit": "Tema 1",
+"question": "Rasgos de las VÍAS METABÓLICAS interconectadas:",
+"options": [
+"Comparten intermediarios y cofactores",
+"La interconexión exige regulación coordinada",
+"Imposibilitan la homeostasis",
+"Permiten acoplar catabolismo y anabolismo"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La coordinación entre vías permite acoplar producción/uso de energía y mantener homeostasis. ",
+"reference": "Tema 1, 1.2. "
+},
+{
+"id": 39,
+"unit": "Tema 1",
+"question": "Sobre los PUNTOS de control en Tema 1:",
+"options": [
+"Transcripción (cantidad de enzima)",
+"Traducción y estabilidad del ARNm",
+"Modificaciones covalentes (actividad)",
+"Únicamente la degradación proteica"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Se destacan múltiples puntos de control; no se limita a degradación. ",
+"reference": "Tema 1, 1.3 (resumen). "
+},
+{
+"id": 40,
+"unit": "Tema 1",
+"question": "Acerca de los RESIDUOS diana de la fosforilación:",
+"options": [
+"Serina (Ser)",
+"Treonina (Thr)",
+"Tirosina (Tyr)",
+"Ácido aspártico (Asp) como único residuo"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Ser/Thr/Tyr son los residuos típicos en regulación; no se restringe a Asp. ",
+"reference": "Tema 1, 1.3 (B.2). "
+},
+{
+"id": 41,
+"unit": "Tema 1",
+"question": "Sobre la EFICIENCIA enzimática por proximidad:",
+"options": [
+"Colocar enzimas secuenciales cercanas mejora eficacia",
+"Disminuye pérdidas por difusión de intermediarios",
+"Aumenta tiempos de tránsito",
+"Puede conseguirse por compartimentación"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La proximidad reduce difusión y tiempos; la compartimentación es una estrategia. ",
+"reference": "Tema 1, 1.3 (C.1). "
+},
+{
+"id": 42,
+"unit": "Tema 1",
+"question": "En la ACTIVACIÓN PROTEOLÍTICA, indica lo falso:",
+"options": [
+"Implica rotura específica de enlaces peptídicos",
+"Activa zimógenos de forma irreversible",
+"Es idéntica a la alostería",
+"Ocurre en enzimas digestivas y coagulación"
+],
+"possible_answers": [
+"A: 3",
+"B: 1",
+"C: 2",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "La activación proteolítica no es alostería; es una rotura irreversible de precursores inactivos. ",
+"reference": "Tema 1, 1.3 (B.4). "
+},
+{
+"id": 43,
+"unit": "Tema 1",
+"question": "Sobre el PAPEL del NADH:",
+"options": [
+"Portador de electrones",
+"Cofactor central en catabolismo",
+"Señal extracelular hormonal",
+"Contribuye a producción de ATP en respiración"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "NADH porta electrones y alimenta la fosforilación oxidativa; no es una señal hormonal. ",
+"reference": "Tema 1, 1.1. "
+},
+{
+"id": 44,
+"unit": "Tema 1",
+"question": "Claves de la REGULACIÓN del metabolismo:",
+"options": [
+"Sistemas coordinados de señales intra y extracelulares",
+"Regulación simultánea de múltiples vías",
+"Rigidez para evitar adaptación",
+"Objetivo de mantener cantidades y tiempos adecuados"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La regulación busca coordinación y adaptación, no rigidez. ",
+"reference": "Tema 1, 1.2. "
+},
+{
+"id": 45,
+"unit": "Tema 1",
+"question": "Sobre la MODULACIÓN por sustrato en alostería:",
+"options": [
+"El propio sustrato puede actuar como modulador",
+"Es incompatible con la regulación por producto final",
+"Es un ejemplo de control rápido",
+"Siempre requiere fosforilación concomitante"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario cita modulación por sustrato e inhibición por producto; no exige fosforilación. ",
+"reference": "Tema 1, 1.3 (B.1). "
+},
+{
+"id": 46,
+"unit": "Tema 1",
+"question": "En el CONTROL por accesibilidad, un ejemplo correcto es:",
+"options": [
+"Regular el transporte de AG a mitocondria",
+"Reubicar enzima y sustrato en compartimentos distintos",
+"Cambiar la secuencia del gen en el genoma",
+"Aumentar permeabilidad selectiva de membrana según señal"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Transporte, compartimentación y permeabilidad regulada son mecanismos de accesibilidad; editar el gen no es un control fisiológico inmediato. ",
+"reference": "Tema 1, 1.3 (C). "
+},
+{
+"id": 47,
+"unit": "Tema 1",
+"question": "Sobre la ENERGÉTICA del metabolismo:",
+"options": [
+"El catabolismo canaliza energía hacia ATP",
+"El anabolismo utiliza ATP del catabolismo",
+"Ninguna vía intercambia energía",
+"Catabolismo y anabolismo están desacoplados"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Las vías están energéticamente acopladas; negar el intercambio de energía es incorrecto. ",
+"reference": "Tema 1, 1.1. "
+},
+{
+"id": 48,
+"unit": "Tema 1",
+"question": "En la regulación por CANTIDAD (A.4), marcar lo correcto:",
+"options": [
+"El tiempo de vida de la proteína determina su disponibilidad",
+"Ubiquitina marca proteínas para su degradación",
+"La degradación proteica es un proceso regulado",
+"No afecta al control metabólico"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Recambio y ubiquitinación son regulables y determinan la cantidad funcional de enzimas. ",
+"reference": "Tema 1, 1.3 (A.4). "
+},
+{
+"id": 49,
+"unit": "Tema 1",
+"question": "En la definición de METABOLITOS:",
+"options": [
+"Incluyen sustratos",
+"Incluyen intermediarios",
+"Incluyen productos finales",
+"Se limitan a cofactores como NADH"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario define metabolitos como sustratos, intermedios y productos de una vía específica. ",
+"reference": "Tema 1, 1.1 (metabolitos). "
+},
+{
+"id": 50,
+"unit": "Tema 1",
+"question": "Resumen de MECANISMOS de control enzimático:",
+"options": [
+"Transcripción/traducción/estabilidad de ARNm (cantidad)",
+"Alostería/fosforilación/isoenzimas/proteólisis (actividad)",
+"Compartimentación/transportadores/permeabilidad (accesibilidad)",
+"Exclusivamente señales extracelulares sin cambios intracelulares"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 1 agrupa el control en cantidad, actividad y accesibilidad; negar cambios intracelulares es erróneo. ",
+"reference": "Tema 1, 1.3 (síntesis). "
+}
+]
