@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 101,
     "unit": "Tema 1",
     "question": "Sobre las vías catabólicas:",
     "options": [
@@ -20,7 +20,7 @@
     "reference": "Tema 1, 1.1–1.2 (visión general y necesidad de regulación). "
   },
   {
-    "id": 2,
+    "id": 102,
     "unit": "Tema 1",
     "question": "La necesidad de regular las rutas metabólicas se fundamenta en que:",
     "options": [
@@ -40,7 +40,7 @@
     "reference": "Tema 1, 1.2 (necesidad de regulación). "
   },
   {
-    "id": 3,
+    "id": 103,
     "unit": "Tema 1",
     "question": "El control de la CANTIDAD de enzima puede lograrse mediante:",
     "options": [
@@ -60,7 +60,7 @@
     "reference": "Tema 1, 1.3 (A.1–A.3). "
   },
   {
-    "id": 4,
+    "id": 104,
     "unit": "Tema 1",
     "question": "El control ALOSTÉRICO de enzimas se caracteriza por:",
     "options": [
@@ -80,7 +80,7 @@
     "reference": "Tema 1, 1.3 (B.1 Control alostérico). "
   },
   {
-    "id": 5,
+    "id": 105,
     "unit": "Tema 1",
     "question": "La regulación por fosforilación/desfosforilación de proteínas:",
     "options": [
@@ -100,7 +100,7 @@
     "reference": "Tema 1, 1.3 (B.2 Modificación covalente). "
   },
   {
-    "id": 6,
+    "id": 106,
     "unit": "Tema 1",
     "question": "Las ISOENZIMAS:",
     "options": [
@@ -120,7 +120,7 @@
     "reference": "Tema 1, 1.3 (B.3 Isoenzimas). "
   },
   {
-    "id": 7,
+    "id": 107,
     "unit": "Tema 1",
     "question": "La ACTIVACIÓN PROTEOLÍTICA de enzimas:",
     "options": [
@@ -140,7 +140,7 @@
     "reference": "Tema 1, 1.3 (B.4 Activación proteolítica). "
   },
   {
-    "id": 8,
+    "id": 108,
     "unit": "Tema 1",
     "question": "La ACCESIBILIDAD de los sustratos como mecanismo de control incluye:",
     "options": [
@@ -160,7 +160,7 @@
     "reference": "Tema 1, 1.3 (C.1–C.2). "
   },
   {
-    "id": 9,
+    "id": 109,
     "unit": "Tema 1",
     "question": "Beneficios de la COMPARTIMENTACIÓN enzimática en rutas secuenciales:",
     "options": [
@@ -180,7 +180,7 @@
     "reference": "Tema 1, 1.3 (C.1). "
   },
   {
-    "id": 10,
+    "id": 110,
     "unit": "Tema 1",
     "question": "Ejemplos de control por accesibilidad/transportadores:",
     "options": [
@@ -200,7 +200,7 @@
     "reference": "Tema 1, 1.3 (C.2, ejemplos). "
   },
   {
-    "id": 11,
+    "id": 111,
     "unit": "Tema 1",
     "question": "Respecto a la VISIÓN GENERAL del metabolismo:",
     "options": [
@@ -220,7 +220,7 @@
     "reference": "Tema 1, 1.1 (definiciones). "
   },
   {
-    "id": 12,
+    "id": 112,
     "unit": "Tema 1",
     "question": "Sobre COFACTORES del catabolismo:",
     "options": [
@@ -240,7 +240,7 @@
     "reference": "Tema 1, 1.1 (NADH). "
   },
   {
-    "id": 13,
+    "id": 113,
     "unit": "Tema 1",
     "question": "En la regulación por CANTIDAD de enzima (A.1–A.4):",
     "options": [
@@ -260,7 +260,7 @@
     "reference": "Tema 1, 1.3 (A.1–A.4). "
   },
   {
-    "id": 14,
+    "id": 114,
     "unit": "Tema 1",
     "question": "Acerca de la INHIBICIÓN por retroalimentación (feedback):",
     "options": [
@@ -280,7 +280,7 @@
     "reference": "Tema 1, 1.3 (alostería e inhibición por producto). "
   },
   {
-    "id": 15,
+    "id": 115,
     "unit": "Tema 1",
     "question": "Diferencias generales ANABOLISMO vs CATABOLISMO:",
     "options": [
@@ -300,7 +300,7 @@
     "reference": "Tema 1, 1.1 (definiciones). "
   },
   {
-    "id": 16,
+    "id": 116,
     "unit": "Tema 1",
     "question": "Sobre la MODIFICACIÓN COVALENTE por fosforilación:",
     "options": [
@@ -320,7 +320,7 @@
     "reference": "Tema 1, 1.3 (B.2). "
   },
   {
-    "id": 17,
+    "id": 117,
     "unit": "Tema 1",
     "question": "En la regulación por CANTIDAD, es cierto que:",
     "options": [
@@ -340,7 +340,7 @@
     "reference": "Tema 1, 1.3 (A.1–A.3). "
   },
   {
-    "id": 18,
+    "id": 118,
     "unit": "Tema 1",
     "question": "Respecto a TRANSPORTE y regulación metabólica:",
     "options": [
@@ -360,7 +360,7 @@
     "reference": "Tema 1, 1.3 (C.2). "
   },
   {
-    "id": 19,
+    "id": 119,
     "unit": "Tema 1",
     "question": "Elementos definitorios de una VÍA METABÓLICA:",
     "options": [
@@ -380,7 +380,7 @@
     "reference": "Tema 1, 1.1. "
   },
   {
-    "id": 20,
+    "id": 120,
     "unit": "Tema 1",
     "question": "Sobre la FLEXIBILIDAD metabólica:",
     "options": [
@@ -400,7 +400,7 @@
     "reference": "Tema 1, 1.2. "
   },
   {
-    "id": 21,
+    "id": 121,
     "unit": "Tema 1",
     "question": "En el CONTROL ENZIMÁTICO (resumen):",
     "options": [
@@ -420,7 +420,7 @@
     "reference": "Tema 1, 1.3 (a–c). "
   },
   {
-    "id": 22,
+    "id": 122,
     "unit": "Tema 1",
     "question": "Características de la REGULACIÓN TRANSCRIPCIONAL (A.1):",
     "options": [
@@ -440,7 +440,7 @@
     "reference": "Tema 1, 1.3 (A.1). "
   },
   {
-    "id": 23,
+    "id": 123,
     "unit": "Tema 1",
     "question": "Sobre el CONTROL por TRADUCCIÓN (A.2):",
     "options": [
@@ -460,7 +460,7 @@
     "reference": "Tema 1, 1.3 (A.2). "
   },
   {
-    "id": 24,
+    "id": 124,
     "unit": "Tema 1",
     "question": "Control por ESTABILIDAD del ARNm (A.3):",
     "options": [
@@ -480,7 +480,7 @@
     "reference": "Tema 1 (A.3) y Tema 5 (degradación ARNm). "
   },
   {
-    "id": 25,
+    "id": 125,
     "unit": "Tema 1",
     "question": "Control por DEGRADACIÓN PROTEICA (A.4):",
     "options": [
@@ -500,7 +500,7 @@
     "reference": "Tema 1, 1.3 (A.4) y degradación por ubiquitina/proteasoma. "
   },
   {
-    "id": 26,
+    "id": 126,
     "unit": "Tema 1",
     "question": "Sobre la REVERSIBILIDAD de la fosforilación:",
     "options": [
@@ -520,7 +520,7 @@
     "reference": "Tema 1, 1.3 (B.2 detalles). "
   },
   {
-    "id": 27,
+    "id": 127,
     "unit": "Tema 1",
     "question": "Señala lo correcto sobre ‘VÍAS METABÓLICAS’:",
     "options": [
@@ -540,7 +540,7 @@
     "reference": "Tema 1, 1.1. "
   },
   {
-    "id": 28,
+    "id": 128,
     "unit": "Tema 1",
     "question": "En la alostería, los moduladores:",
     "options": [
@@ -560,7 +560,7 @@
     "reference": "Tema 1, 1.3 (B.1). "
   },
   {
-    "id": 29,
+    "id": 129,
     "unit": "Tema 1",
     "question": "El PRIMER PASO de muchas vías biosintéticas:",
     "options": [
@@ -580,7 +580,7 @@
     "reference": "Tema 1, 1.3 (B.1). "
   },
   {
-    "id": 30,
+    "id": 130,
     "unit": "Tema 1",
     "question": "La ENTRADA de GLUCOSA en células como mecanismo de control:",
     "options": [
@@ -600,7 +600,7 @@
     "reference": "Tema 1, 1.3 (C.2, ejemplos). "
   },
   {
-    "id": 31,
+    "id": 131,
     "unit": "Tema 1",
     "question": "Acerca de los PRODUCTOS de desecho del catabolismo:",
     "options": [
@@ -620,7 +620,7 @@
     "reference": "Tema 1, 1.1 (descripción general del catabolismo). "
   },
   {
-    "id": 32,
+    "id": 132,
     "unit": "Tema 1",
     "question": "Sobre la DEFINICIÓN de metabolismo:",
     "options": [
@@ -640,7 +640,7 @@
     "reference": "Tema 1, 1.1 (definición). "
   },
   {
-    "id": 33,
+    "id": 133,
     "unit": "Tema 1",
     "question": "Acerca de la ORGANIZACIÓN de rutas en un mismo orgánulo:",
     "options": [
@@ -660,7 +660,7 @@
     "reference": "Tema 1, 1.3 (C.1–C.2). "
   },
   {
-    "id": 34,
+    "id": 134,
     "unit": "Tema 1",
     "question": "La REGULACIÓN por señales extracelulares en Tema 1:",
     "options": [
@@ -680,7 +680,7 @@
     "reference": "Tema 1, 1.2–1.3. "
   },
   {
-    "id": 35,
+    "id": 135,
     "unit": "Tema 1",
     "question": "Acerca de la DIRECCIONALIDAD de rutas:",
     "options": [
@@ -700,7 +700,7 @@
     "reference": "Tema 1, 1.1 y 1.3 (B.1). "
   },
   {
-    "id": 36,
+    "id": 136,
     "unit": "Tema 1",
     "question": "En el CONTROL por accesibilidad, señala lo correcto:",
     "options": [
@@ -720,7 +720,7 @@
     "reference": "Tema 1, 1.3 (C.1–C.2). "
   },
   {
-    "id": 37,
+    "id": 137,
     "unit": "Tema 1",
     "question": "Sobre la RELACIÓN entre ARNm y proteína (A.2–A.3):",
     "options": [
@@ -740,7 +740,7 @@
     "reference": "Tema 1 (A.2–A.3). "
   },
   {
-    "id": 38,
+    "id": 138,
     "unit": "Tema 1",
     "question": "Rasgos de las VÍAS METABÓLICAS interconectadas:",
     "options": [
@@ -760,7 +760,7 @@
     "reference": "Tema 1, 1.2. "
   },
   {
-    "id": 39,
+    "id": 139,
     "unit": "Tema 1",
     "question": "Sobre los PUNTOS de control en Tema 1:",
     "options": [
@@ -780,7 +780,7 @@
     "reference": "Tema 1, 1.3 (resumen). "
   },
   {
-    "id": 40,
+    "id": 140,
     "unit": "Tema 1",
     "question": "Acerca de los RESIDUOS diana de la fosforilación:",
     "options": [
@@ -800,7 +800,7 @@
     "reference": "Tema 1, 1.3 (B.2). "
   },
   {
-    "id": 41,
+    "id": 141,
     "unit": "Tema 1",
     "question": "Sobre la EFICIENCIA enzimática por proximidad:",
     "options": [
@@ -820,7 +820,7 @@
     "reference": "Tema 1, 1.3 (C.1). "
   },
   {
-    "id": 42,
+    "id": 142,
     "unit": "Tema 1",
     "question": "En la ACTIVACIÓN PROTEOLÍTICA, indica lo falso:",
     "options": [
@@ -840,7 +840,7 @@
     "reference": "Tema 1, 1.3 (B.4). "
   },
   {
-    "id": 43,
+    "id": 143,
     "unit": "Tema 1",
     "question": "Sobre el PAPEL del NADH:",
     "options": [
@@ -860,7 +860,7 @@
     "reference": "Tema 1, 1.1. "
   },
   {
-    "id": 44,
+    "id": 144,
     "unit": "Tema 1",
     "question": "Claves de la REGULACIÓN del metabolismo:",
     "options": [
@@ -880,7 +880,7 @@
     "reference": "Tema 1, 1.2. "
   },
   {
-    "id": 45,
+    "id": 145,
     "unit": "Tema 1",
     "question": "Sobre la MODULACIÓN por sustrato en alostería:",
     "options": [
@@ -900,7 +900,7 @@
     "reference": "Tema 1, 1.3 (B.1). "
   },
   {
-    "id": 46,
+    "id": 146,
     "unit": "Tema 1",
     "question": "En el CONTROL por accesibilidad, un ejemplo correcto es:",
     "options": [
@@ -920,7 +920,7 @@
     "reference": "Tema 1, 1.3 (C). "
   },
   {
-    "id": 47,
+    "id": 147,
     "unit": "Tema 1",
     "question": "Sobre la ENERGÉTICA del metabolismo:",
     "options": [
@@ -940,7 +940,7 @@
     "reference": "Tema 1, 1.1. "
   },
   {
-    "id": 48,
+    "id": 148,
     "unit": "Tema 1",
     "question": "En la regulación por CANTIDAD (A.4), marcar lo correcto:",
     "options": [
@@ -960,7 +960,7 @@
     "reference": "Tema 1, 1.3 (A.4). "
   },
   {
-    "id": 49,
+    "id": 149,
     "unit": "Tema 1",
     "question": "En la definición de METABOLITOS:",
     "options": [
@@ -980,7 +980,7 @@
     "reference": "Tema 1, 1.1 (metabolitos). "
   },
   {
-    "id": 50,
+    "id": 150,
     "unit": "Tema 1",
     "question": "Resumen de MECANISMOS de control enzimático:",
     "options": [
@@ -1000,7 +1000,7 @@
     "reference": "Tema 1, 1.3 (síntesis). "
   },
   {
-    "id": 1,
+    "id": 201,
     "unit": "Tema 2",
     "question": "La comunicación intercelular en organismos multicelulares:",
     "options": [
@@ -1020,7 +1020,7 @@
     "reference": "Tema 2 (2.1 Tipos de señales y concepto general). "
   },
   {
-    "id": 2,
+    "id": 202,
     "unit": "Tema 2",
     "question": "Entre los tipos de señales reconocidas por las células se incluyen:",
     "options": [
@@ -1040,7 +1040,7 @@
     "reference": "Tema 2 (2.1 Listado de señales). "
   },
   {
-    "id": 3,
+    "id": 203,
     "unit": "Tema 2",
     "question": "Las hormonas, según Tema 2:",
     "options": [
@@ -1060,7 +1060,7 @@
     "reference": "Tema 2 (Hormonas: definición y función). "
   },
   {
-    "id": 4,
+    "id": 204,
     "unit": "Tema 2",
     "question": "Sobre el óxido nítrico (NO) en el contexto de las hormonas:",
     "options": [
@@ -1080,7 +1080,7 @@
     "reference": "Tema 2 (nota sobre NO) y Receptores guanilil ciclasa. "
   },
   {
-    "id": 5,
+    "id": 205,
     "unit": "Tema 2",
     "question": "Los factores de crecimiento:",
     "options": [
@@ -1100,7 +1100,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 6,
+    "id": 206,
     "unit": "Tema 2",
     "question": "Los neurotransmisores, según la introducción del Tema 2:",
     "options": [
@@ -1120,7 +1120,7 @@
     "reference": "Tema 2 (2.1 Tipos de señales). "
   },
   {
-    "id": 7,
+    "id": 207,
     "unit": "Tema 2",
     "question": "Los ARNs no codificantes (ncRNA) en el contexto de señales:",
     "options": [
@@ -1140,7 +1140,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 8,
+    "id": 208,
     "unit": "Tema 2",
     "question": "Sobre ‘toxinas y mediadores químicos’ en Tema 2:",
     "options": [
@@ -1160,7 +1160,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 9,
+    "id": 209,
     "unit": "Tema 2",
     "question": "Los disruptores endocrinos, de acuerdo con la introducción:",
     "options": [
@@ -1180,7 +1180,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 10,
+    "id": 210,
     "unit": "Tema 2",
     "question": "Las vesículas extracelulares, en el marco de Tema 2:",
     "options": [
@@ -1200,7 +1200,7 @@
     "reference": "Tema 2 (2.1) y ejemplo de test. "
   },
   {
-    "id": 11,
+    "id": 211,
     "unit": "Tema 2",
     "question": "Respecto a los ‘modos de acción’ de señales hormonales en conjunto:",
     "options": [
@@ -1220,7 +1220,7 @@
     "reference": "Tema 2 (visión general) y síntesis posterior de modos de acción. "
   },
   {
-    "id": 12,
+    "id": 212,
     "unit": "Tema 2",
     "question": "Concepto general de ‘segundos mensajeros’ en Tema 2:",
     "options": [
@@ -1240,7 +1240,7 @@
     "reference": "Tema 2 (2.3.3). "
   },
   {
-    "id": 13,
+    "id": 213,
     "unit": "Tema 2",
     "question": "Efectos celulares finales de la transmisión de la información (Tema 2):",
     "options": [
@@ -1260,7 +1260,7 @@
     "reference": "Tema 2 (2.3.4). "
   },
   {
-    "id": 14,
+    "id": 214,
     "unit": "Tema 2",
     "question": "Finalización de la señalización en Tema 2:",
     "options": [
@@ -1280,7 +1280,7 @@
     "reference": "Tema 2 (2.3.5). "
   },
   {
-    "id": 15,
+    "id": 215,
     "unit": "Tema 2",
     "question": "Sobre la amplificación de señal por segundos mensajeros:",
     "options": [
@@ -1300,7 +1300,7 @@
     "reference": "Tema 2 (2.3.3–2.3.4). "
   },
   {
-    "id": 16,
+    "id": 216,
     "unit": "Tema 2",
     "question": "Sobre la existencia de ‘crosstalk’ entre vías de señalización:",
     "options": [
@@ -1320,7 +1320,7 @@
     "reference": "Tema 2 (2.3.3). "
   },
   {
-    "id": 17,
+    "id": 217,
     "unit": "Tema 2",
     "question": "Respecto a los receptores en la membrana plasmática (en la introducción):",
     "options": [
@@ -1340,7 +1340,7 @@
     "reference": "Tema 2 (2.1 y concepto de receptor). "
   },
   {
-    "id": 18,
+    "id": 218,
     "unit": "Tema 2",
     "question": "Los efectos de la señalización sobre la expresión génica, a nivel general:",
     "options": [
@@ -1360,7 +1360,7 @@
     "reference": "Síntesis de modos de acción y convergencia a genes. "
   },
   {
-    "id": 19,
+    "id": 219,
     "unit": "Tema 2",
     "question": "Sobre el tiempo de respuesta de distintas rutas de señalización (visión general):",
     "options": [
@@ -1380,7 +1380,7 @@
     "reference": "Resumen de receptores nucleares vs membrana. "
   },
   {
-    "id": 20,
+    "id": 220,
     "unit": "Tema 2",
     "question": "En la transmisión de la información (Tema 2):",
     "options": [
@@ -1400,7 +1400,7 @@
     "reference": "Tema 2 (2.3.4) y nota sobre Ca2+-calmodulina. "
   },
   {
-    "id": 21,
+    "id": 221,
     "unit": "Tema 2",
     "question": "Objetivo de finalizar la señalización (Tema 2):",
     "options": [
@@ -1420,7 +1420,7 @@
     "reference": "Tema 2 (2.3.5). "
   },
   {
-    "id": 22,
+    "id": 222,
     "unit": "Tema 2",
     "question": "En el repertorio de señales de Tema 2:",
     "options": [
@@ -1440,7 +1440,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 23,
+    "id": 223,
     "unit": "Tema 2",
     "question": "Sobre el papel de la especificidad en la comunicación intercelular:",
     "options": [
@@ -1460,7 +1460,7 @@
     "reference": "Tema 2 (2.1; concepto de receptor). "
   },
   {
-    "id": 24,
+    "id": 224,
     "unit": "Tema 2",
     "question": "Segundo mensajero y quinasas (visión Tema 2):",
     "options": [
@@ -1480,7 +1480,7 @@
     "reference": "Tema 2 (2.3.4). "
   },
   {
-    "id": 25,
+    "id": 225,
     "unit": "Tema 2",
     "question": "Acerca de la difusión de segundos mensajeros:",
     "options": [
@@ -1500,7 +1500,7 @@
     "reference": "Tema 2 (2.3.3). "
   },
   {
-    "id": 26,
+    "id": 226,
     "unit": "Tema 2",
     "question": "En la introducción, un ejemplo de señal y su receptor:",
     "options": [
@@ -1520,7 +1520,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 27,
+    "id": 227,
     "unit": "Tema 2",
     "question": "Sobre la naturaleza química de las hormonas en general:",
     "options": [
@@ -1540,7 +1540,7 @@
     "reference": "Tema 2 (2.1, clases y modos). "
   },
   {
-    "id": 28,
+    "id": 228,
     "unit": "Tema 2",
     "question": "Respecto a los agonistas y antagonistas (nociones generales):",
     "options": [
@@ -1560,7 +1560,7 @@
     "reference": "Actividad S4 (pregunta 10). "
   },
   {
-    "id": 29,
+    "id": 229,
     "unit": "Tema 2",
     "question": "Sobre la relación señal–respuesta a nivel de tejidos:",
     "options": [
@@ -1580,7 +1580,7 @@
     "reference": "Tema 2 (introducción). "
   },
   {
-    "id": 30,
+    "id": 230,
     "unit": "Tema 2",
     "question": "Acerca de vesículas extracelulares como señales (visión general):",
     "options": [
@@ -1600,7 +1600,7 @@
     "reference": "Tema 2 (2.1) y Actividad S4 (p. 2–3). "
   },
   {
-    "id": 31,
+    "id": 231,
     "unit": "Tema 2",
     "question": "Segundo mensajero → quinasa (ejemplo conceptual del temario):",
     "options": [
@@ -1620,7 +1620,7 @@
     "reference": "Tema 2 (2.3.4) y nota Ca2+-calmodulina. "
   },
   {
-    "id": 32,
+    "id": 232,
     "unit": "Tema 2",
     "question": "La terminación de señalización defectuosa:",
     "options": [
@@ -1640,7 +1640,7 @@
     "reference": "Tema 2 (2.3.5). "
   },
   {
-    "id": 33,
+    "id": 233,
     "unit": "Tema 2",
     "question": "En la introducción se menciona que las señales:",
     "options": [
@@ -1660,7 +1660,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 34,
+    "id": 234,
     "unit": "Tema 2",
     "question": "Los segundos mensajeros NO se caracterizan por:",
     "options": [
@@ -1680,7 +1680,7 @@
     "reference": "Tema 2 (2.3.3–2.3.4). "
   },
   {
-    "id": 35,
+    "id": 235,
     "unit": "Tema 2",
     "question": "Con relación a hormonas esteroideas (visión general ligada a Tema 2):",
     "options": [
@@ -1700,7 +1700,7 @@
     "reference": "Síntesis de receptores nucleares. "
   },
   {
-    "id": 36,
+    "id": 236,
     "unit": "Tema 2",
     "question": "‘Vías de transducción de señales’ (concepto introductorio):",
     "options": [
@@ -1720,7 +1720,7 @@
     "reference": "Tema 2 (definición de vías). "
   },
   {
-    "id": 37,
+    "id": 237,
     "unit": "Tema 2",
     "question": "Sobre la naturaleza de los mensajeros intracelulares (Tema 2):",
     "options": [
@@ -1740,7 +1740,7 @@
     "reference": "Tema 2 (2.3.3–2.3.4). "
   },
   {
-    "id": 38,
+    "id": 238,
     "unit": "Tema 2",
     "question": "Comunicación intercelular y ‘división del trabajo’ tisular:",
     "options": [
@@ -1760,7 +1760,7 @@
     "reference": "Tema 2 (introducción). "
   },
   {
-    "id": 39,
+    "id": 239,
     "unit": "Tema 2",
     "question": "Ca2+ como segundo mensajero (marco Tema 2):",
     "options": [
@@ -1780,7 +1780,7 @@
     "reference": "Notas de Ca2+, calmodulina y PKC. "
   },
   {
-    "id": 40,
+    "id": 240,
     "unit": "Tema 2",
     "question": "Sobre la naturaleza de las vías de señalización (visión global):",
     "options": [
@@ -1800,7 +1800,7 @@
     "reference": "Tema 2 (2.3.3). "
   },
   {
-    "id": 41,
+    "id": 241,
     "unit": "Tema 2",
     "question": "Neurotransmisores y su inclusión en Tema 2:",
     "options": [
@@ -1820,7 +1820,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 42,
+    "id": 242,
     "unit": "Tema 2",
     "question": "Factores de crecimiento (visión general en la introducción):",
     "options": [
@@ -1840,7 +1840,7 @@
     "reference": "Tema 2 (introducción). "
   },
   {
-    "id": 43,
+    "id": 243,
     "unit": "Tema 2",
     "question": "Mensajeros intracelulares (resumen de funciones):",
     "options": [
@@ -1860,7 +1860,7 @@
     "reference": "Tema 2 (2.3.3–2.3.4). "
   },
   {
-    "id": 44,
+    "id": 244,
     "unit": "Tema 2",
     "question": "Sobre el papel de fosfatasas en la terminación:",
     "options": [
@@ -1880,7 +1880,7 @@
     "reference": "Tema 2 (2.3.5). "
   },
   {
-    "id": 45,
+    "id": 245,
     "unit": "Tema 2",
     "question": "Relación señal–receptor–respuesta (marco general del Tema 2):",
     "options": [
@@ -1900,7 +1900,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 46,
+    "id": 246,
     "unit": "Tema 2",
     "question": "Señales incluidas y NO incluidas en Tema 2:",
     "options": [
@@ -1920,7 +1920,7 @@
     "reference": "Tema 2 (2.1). "
   },
   {
-    "id": 47,
+    "id": 247,
     "unit": "Tema 2",
     "question": "Efectos posibles de la señalización sobre membranas:",
     "options": [
@@ -1940,7 +1940,7 @@
     "reference": "Tema 2 (2.3.4). "
   },
   {
-    "id": 48,
+    "id": 248,
     "unit": "Tema 2",
     "question": "Acerca de la integración de señales (visión general):",
     "options": [
@@ -1960,7 +1960,7 @@
     "reference": "Tema 2 (2.3.3–2.3.4). "
   },
   {
-    "id": 49,
+    "id": 249,
     "unit": "Tema 2",
     "question": "La ‘división del trabajo’ en tejidos implica que:",
     "options": [
@@ -1980,7 +1980,7 @@
     "reference": "Tema 2 (introducción). "
   },
   {
-    "id": 50,
+    "id": 250,
     "unit": "Tema 2",
     "question": "Resumen de ‘Tema 2 – Introducción a la comunicación intercelular’:",
     "options": [
@@ -2000,7 +2000,7 @@
     "reference": "Tema 2 (2.1 y 2.3.3–2.3.5). "
   },
   {
-    "id": 1,
+    "id": 301,
     "unit": "Tema 3",
     "question": "Los receptores acoplados a proteína G (GPCR) se caracterizan por:",
     "options": [
@@ -2020,7 +2020,7 @@
     "reference": "Tema 3, 3.2.1 GPCR y adenilato ciclasa. "
   },
   {
-    "id": 2,
+    "id": 302,
     "unit": "Tema 3",
     "question": "En el ciclo de activación de una proteína G heterotrimérica:",
     "options": [
@@ -2040,7 +2040,7 @@
     "reference": "Tema 3, 3.2.1 Proteínas G y activación. "
   },
   {
-    "id": 3,
+    "id": 303,
     "unit": "Tema 3",
     "question": "En la vía de la adenilato ciclasa activada por GPCR:",
     "options": [
@@ -2060,7 +2060,7 @@
     "reference": "Tema 3, 3.2.1 (esquema general AC–AMPc–PKA y terminación por PDE). "
   },
   {
-    "id": 4,
+    "id": 304,
     "unit": "Tema 3",
     "question": "La desensibilización del receptor β-adrenérgico incluye:",
     "options": [
@@ -2080,7 +2080,7 @@
     "reference": "Tema 3, desensibilización β-adrenérgico. "
   },
   {
-    "id": 5,
+    "id": 305,
     "unit": "Tema 3",
     "question": "Sobre la PKA dependiente de AMPc:",
     "options": [
@@ -2100,7 +2100,7 @@
     "reference": "Actividad S4, pregunta 6; Tema 3 contexto AMPc–PKA. "
   },
   {
-    "id": 6,
+    "id": 306,
     "unit": "Tema 3",
     "question": "En la vía de los fosfoinosítidos (GPCR–Gαq–PLC):",
     "options": [
@@ -2120,7 +2120,7 @@
     "reference": "Tema 3, 3.2.2 Fosfoinosítidos (PLC, PIP2→DAG+IP3). "
   },
   {
-    "id": 7,
+    "id": 307,
     "unit": "Tema 3",
     "question": "El IP3 en la señalización celular:",
     "options": [
@@ -2140,7 +2140,7 @@
     "reference": "Tema 3, IP3–canales de Ca2+. Actividad S4, p. 3 (preg. 12). "
   },
   {
-    "id": 8,
+    "id": 308,
     "unit": "Tema 3",
     "question": "La terminación de la vía PLC–PIP2–DAG–IP3 puede implicar:",
     "options": [
@@ -2160,7 +2160,7 @@
     "reference": "Tema 3, inactivación de la vía de fosfoinosítidos. "
   },
   {
-    "id": 9,
+    "id": 309,
     "unit": "Tema 3",
     "question": "Calcio–calmodulina:",
     "options": [
@@ -2180,7 +2180,7 @@
     "reference": "Tema 3, Ca2+–calmodulina (EF-hand) y funciones. "
   },
   {
-    "id": 10,
+    "id": 310,
     "unit": "Tema 3",
     "question": "Los receptores con actividad tirosina quinasa intrínseca (RTK):",
     "options": [
@@ -2200,7 +2200,7 @@
     "reference": "Tema 3, 3.2.3 RTK (INSR/EGFR). "
   },
   {
-    "id": 11,
+    "id": 311,
     "unit": "Tema 3",
     "question": "Señala lo correcto sobre el receptor de insulina (INSR):",
     "options": [
@@ -2220,7 +2220,7 @@
     "reference": "Tema 3, INSR→IRS-1→PI3K/GRB2–SOS. "
   },
   {
-    "id": 12,
+    "id": 312,
     "unit": "Tema 3",
     "question": "Ruta PI3K–PIP3–PDK1–AKT en señalización de insulina:",
     "options": [
@@ -2240,7 +2240,7 @@
     "reference": "Tema 3, vía PIP3–AKT y PTEN. "
   },
   {
-    "id": 13,
+    "id": 313,
     "unit": "Tema 3",
     "question": "En la derivación hacia MAPK de la señal de insulina:",
     "options": [
@@ -2260,7 +2260,7 @@
     "reference": "Tema 3, GRB2/SOS→RAS→RAF→MEK→ERK. "
   },
   {
-    "id": 14,
+    "id": 314,
     "unit": "Tema 3",
     "question": "Sobre ERK en la vía MAPK:",
     "options": [
@@ -2280,7 +2280,7 @@
     "reference": "Tema 3, ERK nuclear y ejemplos (EGF/PDGF). "
   },
   {
-    "id": 15,
+    "id": 315,
     "unit": "Tema 3",
     "question": "La señalización mediada por JAK-STAT puede ser activada por:",
     "options": [
@@ -2300,7 +2300,7 @@
     "reference": "Tema 3, receptores ligados a quinasas (JAK2). "
   },
   {
-    "id": 16,
+    "id": 316,
     "unit": "Tema 3",
     "question": "Secuencia canónica en la vía JAK-STAT de leptina:",
     "options": [
@@ -2320,7 +2320,7 @@
     "reference": "Tema 3, vía leptina–JAK–STAT. "
   },
   {
-    "id": 17,
+    "id": 317,
     "unit": "Tema 3",
     "question": "Los receptores guanilil ciclasa:",
     "options": [
@@ -2340,7 +2340,7 @@
     "reference": "Tema 3, 3.2.4 Guanilil ciclasa y NO. "
   },
   {
-    "id": 18,
+    "id": 318,
     "unit": "Tema 3",
     "question": "Entre los tipos de receptores del Tema 3 NO se incluye:",
     "options": [
@@ -2360,7 +2360,7 @@
     "reference": "Tema 3, 3.1 Tipos de receptores. "
   },
   {
-    "id": 19,
+    "id": 319,
     "unit": "Tema 3",
     "question": "Los canales iónicos activados por ligando:",
     "options": [
@@ -2380,7 +2380,7 @@
     "reference": "Tema 3, 3.1 listado de receptores. "
   },
   {
-    "id": 20,
+    "id": 320,
     "unit": "Tema 3",
     "question": "Sobre la finalización de señalización en vías de membrana:",
     "options": [
@@ -2400,7 +2400,7 @@
     "reference": "Tema 3, terminación: GTPasa, PDE, PTEN. "
   },
   {
-    "id": 21,
+    "id": 321,
     "unit": "Tema 3",
     "question": "Respecto a GRB2 en la vía MAPK:",
     "options": [
@@ -2420,7 +2420,7 @@
     "reference": "Tema 3, GRB2–SOS–RAS. "
   },
   {
-    "id": 22,
+    "id": 322,
     "unit": "Tema 3",
     "question": "Señala lo correcto sobre RAS en la cascada MAPK:",
     "options": [
@@ -2440,7 +2440,7 @@
     "reference": "Tema 3, RAS→RAF→MEK→ERK. "
   },
   {
-    "id": 23,
+    "id": 323,
     "unit": "Tema 3",
     "question": "La señalización por receptores nucleares (clase I):",
     "options": [
@@ -2460,7 +2460,7 @@
     "reference": "Tema 3, receptores nucleares clase I. "
   },
   {
-    "id": 24,
+    "id": 324,
     "unit": "Tema 3",
     "question": "Los receptores nucleares clase II se caracterizan por:",
     "options": [
@@ -2480,7 +2480,7 @@
     "reference": "Tema 3, receptores nucleares clase II. "
   },
   {
-    "id": 25,
+    "id": 325,
     "unit": "Tema 3",
     "question": "Comparando receptores de membrana vs nucleares:",
     "options": [
@@ -2500,7 +2500,7 @@
     "reference": "Tema 3, síntesis de modos de acción. "
   },
   {
-    "id": 26,
+    "id": 326,
     "unit": "Tema 3",
     "question": "Señala lo incorrecto sobre GPCR:",
     "options": [
@@ -2520,7 +2520,7 @@
     "reference": "Tema 3, GPCR vs receptores ligados a JAK. "
   },
   {
-    "id": 27,
+    "id": 327,
     "unit": "Tema 3",
     "question": "En la terminación de señalización por insulina:",
     "options": [
@@ -2540,7 +2540,7 @@
     "reference": "Tema 3, apagado de MAPK y PIP3–AKT. "
   },
   {
-    "id": 28,
+    "id": 328,
     "unit": "Tema 3",
     "question": "Sobre los dominios SH2:",
     "options": [
@@ -2560,7 +2560,7 @@
     "reference": "Tema 3, GRB2 (SH2) y ensamblaje de complejos. "
   },
   {
-    "id": 29,
+    "id": 329,
     "unit": "Tema 3",
     "question": "En la vía de fosfoinosítidos, la PKC:",
     "options": [
@@ -2580,7 +2580,7 @@
     "reference": "Tema 3, DAG–PKC y Ca2+. "
   },
   {
-    "id": 30,
+    "id": 330,
     "unit": "Tema 3",
     "question": "Sobre AMPc y su control:",
     "options": [
@@ -2600,7 +2600,7 @@
     "reference": "Tema 3, 3.2.1 AC–AMPc–PKA; terminación por PDE. "
   },
   {
-    "id": 31,
+    "id": 331,
     "unit": "Tema 3",
     "question": "Acerca de los receptores guanilil ciclasa de membrana:",
     "options": [
@@ -2620,7 +2620,7 @@
     "reference": "Tema 3, 3.2.4 (membrana vs soluble). "
   },
   {
-    "id": 32,
+    "id": 332,
     "unit": "Tema 3",
     "question": "La guanilil ciclasa soluble:",
     "options": [
@@ -2640,7 +2640,7 @@
     "reference": "Tema 3, GC soluble y NO. "
   },
   {
-    "id": 33,
+    "id": 333,
     "unit": "Tema 3",
     "question": "Los efectos de la ERK fosforilada incluyen:",
     "options": [
@@ -2660,7 +2660,7 @@
     "reference": "Tema 3, ERK nuclear. "
   },
   {
-    "id": 34,
+    "id": 334,
     "unit": "Tema 3",
     "question": "Sobre STAT en la vía JAK-STAT:",
     "options": [
@@ -2680,7 +2680,7 @@
     "reference": "Tema 3, pasos JAK-STAT. "
   },
   {
-    "id": 35,
+    "id": 335,
     "unit": "Tema 3",
     "question": "Señalización que puede alterar expresión génica de forma indirecta vía receptores de membrana:",
     "options": [
@@ -2700,7 +2700,7 @@
     "reference": "Tema 3, regulación de TFs por vías de membrana. "
   },
   {
-    "id": 36,
+    "id": 336,
     "unit": "Tema 3",
     "question": "Los efectos temporales típicos de receptores nucleares frente a membrana:",
     "options": [
@@ -2720,7 +2720,7 @@
     "reference": "Tema 3, receptores nucleares vs membrana. "
   },
   {
-    "id": 37,
+    "id": 337,
     "unit": "Tema 3",
     "question": "Acerca de β-arrestina en GPCR:",
     "options": [
@@ -2740,7 +2740,7 @@
     "reference": "Tema 3, desensibilización GPCR. "
   },
   {
-    "id": 38,
+    "id": 338,
     "unit": "Tema 3",
     "question": "Sobre PLC en la vía de fosfoinosítidos:",
     "options": [
@@ -2760,7 +2760,7 @@
     "reference": "Tema 3, Gαq–PLC–PIP2. "
   },
   {
-    "id": 39,
+    "id": 339,
     "unit": "Tema 3",
     "question": "En la cascada MAPK, el orden correcto de activación es:",
     "options": [
@@ -2780,7 +2780,7 @@
     "reference": "Tema 3, vía MAPK. "
   },
   {
-    "id": 40,
+    "id": 340,
     "unit": "Tema 3",
     "question": "Sobre la proteína SOS:",
     "options": [
@@ -2800,7 +2800,7 @@
     "reference": "Tema 3, complejo GRB2–SOS. "
   },
   {
-    "id": 41,
+    "id": 341,
     "unit": "Tema 3",
     "question": "En relación con cGMP:",
     "options": [
@@ -2820,7 +2820,7 @@
     "reference": "Tema 3, guanilil ciclasa y PDE de GMPc. "
   },
   {
-    "id": 42,
+    "id": 342,
     "unit": "Tema 3",
     "question": "Sobre el receptor de leptina (LEPR):",
     "options": [
@@ -2840,7 +2840,7 @@
     "reference": "Tema 3, LEPR y JAK-STAT. "
   },
   {
-    "id": 43,
+    "id": 343,
     "unit": "Tema 3",
     "question": "Las hormonas esteroideas:",
     "options": [
@@ -2860,7 +2860,7 @@
     "reference": "Tema 3, receptores nucleares (clase I). "
   },
   {
-    "id": 44,
+    "id": 344,
     "unit": "Tema 3",
     "question": "El factor de transcripción CRE se activa típicamente por:",
     "options": [
@@ -2880,7 +2880,7 @@
     "reference": "Tema 3, vías de membrana regulando TFs (CRE). "
   },
   {
-    "id": 45,
+    "id": 345,
     "unit": "Tema 3",
     "question": "Sobre la especificidad de RTK:",
     "options": [
@@ -2900,7 +2900,7 @@
     "reference": "Tema 3, 3.2.3 INSR/EGFR. "
   },
   {
-    "id": 46,
+    "id": 346,
     "unit": "Tema 3",
     "question": "En la vía de fosfoinosítidos, ¿qué mecanismo NO apaga la señal?",
     "options": [
@@ -2920,7 +2920,7 @@
     "reference": "Tema 3, inactivación de IP3/DAG y Ca2+. "
   },
   {
-    "id": 47,
+    "id": 347,
     "unit": "Tema 3",
     "question": "En la señal de insulina, PTEN:",
     "options": [
@@ -2940,7 +2940,7 @@
     "reference": "Tema 3, PTEN en PIP3–AKT. "
   },
   {
-    "id": 48,
+    "id": 348,
     "unit": "Tema 3",
     "question": "Sobre la activación inicial de INSR por insulina:",
     "options": [
@@ -2960,7 +2960,7 @@
     "reference": "Tema 3, activación del INSR. "
   },
   {
-    "id": 49,
+    "id": 349,
     "unit": "Tema 3",
     "question": "Indica cuáles de estas vías de transducción pueden alterar la expresión génica:",
     "options": [
@@ -2980,7 +2980,7 @@
     "reference": "Tema 3, vías que modulan TFs/genes. "
   },
   {
-    "id": 50,
+    "id": 350,
     "unit": "Tema 3",
     "question": "Resumen integrador del Tema 3:",
     "options": [
@@ -4000,753 +4000,1753 @@
     "reference": "Temario, Tema 4 (no requiere cebador; dirección de síntesis). :contentReference[oaicite:49]{index=49}"
   },
   {
-"id": 501,
-"unit": "Tema 5",
-"question": "Principios generales de la regulación génica:",
+    "id": 501,
+    "unit": "Tema 5",
+    "question": "Principios generales de la regulación génica:",
+    "options": [
+      "No todas las células expresan los mismos genes",
+      "En una misma célula la expresión cambia con el tiempo o estímulos",
+      "La síntesis proteica es costosa y está fuertemente regulada",
+      "Todos los genes se expresan con la misma abundancia"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1, 2",
+      "C: 2, 4",
+      "D: 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La expresión es específica y dinámica; la producción de proteínas se regula por su alto coste; la opción 4 es falsa.",
+    "reference": "Tema 5, 5.1 Principios de regulación génica. "
+  },
+  {
+    "id": 502,
+    "unit": "Tema 5",
+    "question": "Genes constitutivos vs regulados:",
+    "options": [
+      "Los housekeeping se expresan de forma relativamente constante",
+      "Los genes regulados varían su expresión ante señales",
+      "La inducción es aumento de expresión por una señal",
+      "La represión es aumento de expresión por una señal"
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 1, 2, 3",
+      "C: 2, 3",
+      "D: 3, 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Housekeeping: expresión estable; regulados: suben o bajan según señales; inducción aumenta, represión disminuye.",
+    "reference": "Tema 5, 5.1 (constitutivos vs regulados, inducibles/reprimibles). "
+  },
+  {
+    "id": 503,
+    "unit": "Tema 5",
+    "question": "Puntos potenciales de regulación de la expresión génica:",
+    "options": [
+      "Inicio de la transcripción",
+      "Traducción",
+      "Estabilidad/degradación del ARNm",
+      "Transporte/localización del ARNm"
+    ],
+    "possible_answers": [
+      "A: 1, 2",
+      "B: 2, 4",
+      "C: 1, 2, 3, 4",
+      "D: 3, 4"
+    ],
+    "correct_answer": "C",
+    "explanation": "El temario sintetiza múltiples niveles: transcripción, traducción, estabilidad y transporte/localización del ARNm.",
+    "reference": "Tema 5, esquema de posibles puntos de regulación. "
+  },
+  {
+    "id": 504,
+    "unit": "Tema 5",
+    "question": "Represión y activación transcripcional (visión general procariota/eucariota):",
+    "options": [
+      "Represores impiden el acceso de la ARN polimerasa al promotor",
+      "Activadores favorecen la unión de la ARN polimerasa",
+      "La regulación negativa es rara en procariotas",
+      "La regulación positiva es muy común en eucariotas"
+    ],
+    "possible_answers": [
+      "A: 1, 3",
+      "B: 2, 3",
+      "C: 1, 2",
+      "D: 1, 2, 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "1 y 2 son correctas; la regulación negativa es común en procariotas (no rara); la positiva es muy común en eucariotas.",
+    "reference": "Tema 5, 5.1 (represores/activadores; diferencias procariotas/eucariotas). "
+  },
+  {
+    "id": 505,
+    "unit": "Tema 5",
+    "question": "Operón lac (estado con glucosa alta y lactosa baja):",
+    "options": [
+      "Represor unido al operador (represión)",
+      "AMPc bajo, CAP no activa",
+      "Transcripción del operón lac aumentada",
+      "Hay represión por catabolito"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 2, 3",
+      "C: 1, 3",
+      "D: 3, 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Con glucosa alta y lactosa baja hay máxima represión: represor activo, AMPc bajo, sin activación por CAP-cAMP.",
+    "reference": "Tema 5, operón lac y represión por catabolito. "
+  },
+  {
+    "id": 506,
+    "unit": "Tema 5",
+    "question": "Operón lac (estado con lactosa alta y glucosa baja):",
+    "options": [
+      "CAP-AMPc se une y activa",
+      "El inductor inactiva el represor",
+      "No hay efecto de catabolito",
+      "La transcripción del operón es máxima"
+    ],
+    "possible_answers": [
+      "A: 2 y 4",
+      "B: 1, 2, 4",
+      "C: 1 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lactosa alta desactiva al represor; glucosa baja → AMPc alto y CAP activa; se logra máxima transcripción.",
+    "reference": "Tema 5, operón lac (inducción y CAP-AMPc). "
+  },
+  {
+    "id": 507,
+    "unit": "Tema 5",
+    "question": "Regulones (concepto y ejemplos):",
+    "options": [
+      "Un regulón agrupa varios operones/genes bajo un regulador",
+      "Permite cambios coordinados de función",
+      "La respuesta SOS frente a daño en ADN es un ejemplo",
+      "El regulón depende siempre del mismo factor σ"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Regulón coordina múltiples genes; la SOS es ejemplo; no exige el mismo σ en todos los casos.",
+    "reference": "Tema 5, D) Regulones y respuesta SOS. "
+  },
+  {
+    "id": 508,
+    "unit": "Tema 5",
+    "question": "Respuesta SOS por daño en ADN:",
+    "options": [
+      "RecA se activa y reconoce ADN dañado",
+      "RecA degrada LexA (represor) por sí misma",
+      "Se desreprimen genes de reparación",
+      "LexA activa la transcripción de reparación"
+    ],
+    "possible_answers": [
+      "A: 1 y 3",
+      "B: 2 y 4",
+      "C: 1, 2, 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "El daño activa a RecA que promueve la autocleavage de LexA (represor); así se activan genes de reparación.",
+    "reference": "Tema 5, respuesta SOS (RecA/LexA). "
+  },
+  {
+    "id": 509,
+    "unit": "Tema 5",
+    "question": "Particularidades de la regulación transcripcional eucariota:",
+    "options": [
+      "Acceso a promotores restringido por cromatina",
+      "Sistemas proteicos reguladores más complejos",
+      "Separación espacial/temporal de transcripción y traducción",
+      "La ARN pol II inicia sin necesidad de cambios de cromatina"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La cromatina condiciona el acceso; hay gran complejidad reguladora; transcripción en núcleo vs traducción en citoplasma.",
+    "reference": "Tema 5, 5.3 Particularidades eucariotas. "
+  },
+  {
+    "id": 510,
+    "unit": "Tema 5",
+    "question": "Nucleosoma y niveles de compactación:",
+    "options": [
+      "El nucleosoma es un octámero 2x(H2A, H2B, H3, H4) + ADN",
+      "H1 estabiliza la unión del ADN al nucleosoma",
+      "Heterocromatina se asocia con represión transcripcional",
+      "Eucromatina favorece transcripción activa"
+    ],
+    "possible_answers": [
+      "A: 1 y 3",
+      "B: 1, 2, 3, 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Todas son descripciones canónicas: composición del nucleosoma, papel de H1 y relación con actividad transcripcional.",
+    "reference": "Tema 5, A1) Organización del ADN en cromatina. "
+  },
+  {
+    "id": 511,
+    "unit": "Tema 5",
+    "question": "Remodelación de cromatina:",
+    "options": [
+      "Incluye desplazamientos/eliminación de nucleosomas",
+      "Implica modificaciones de histonas",
+      "La realizan complejos remodeladores",
+      "Siempre compacta el ADN"
+    ],
+    "possible_answers": [
+      "A: 1 y 2",
+      "B: 1, 2, 3",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Mover/eliminar nucleosomas y modificar histonas son vías de remodelación mediadas por complejos específicos.",
+    "reference": "Tema 5, A1) Remodelación de cromatina. "
+  },
+  {
+    "id": 512,
+    "unit": "Tema 5",
+    "question": "Acetilación de histonas:",
+    "options": [
+      "Neutraliza cargas positivas de Lys en histonas",
+      "Reduce afinidad histona–ADN y descompacta cromatina",
+      "Es reversible (HAT/HDAC)",
+      "Siempre reprime la transcripción"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La acetilación suele activar la transcripción; es reversible por HAT/HDAC y favorece accesibilidad.",
+    "reference": "Tema 5, A2) Acetilación de histonas. "
+  },
+  {
+    "id": 513,
+    "unit": "Tema 5",
+    "question": "Hipótesis del código de histonas:",
+    "options": [
+      "Las modificaciones postraduccionales de histonas regulan transcripción",
+      "Patrones de marcas pueden heredarse",
+      "Es un mecanismo epigenético",
+      "Implica cambios en la secuencia de bases del ADN"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "C",
+    "explanation": "1 y 4 no son ambas correctas: sí hay regulación por marcas y son epigenéticas (no cambian la secuencia).",
+    "reference": "Tema 5, A2) Código de histonas y epigenética. "
+  },
+  {
+    "id": 514,
+    "unit": "Tema 5",
+    "question": "Metilación del ADN en eucariotas:",
+    "options": [
+      "Afecta a citosinas en islas CpG",
+      "La catalizan DNMT usando SAM",
+      "Suele correlacionar con represión de transcripción",
+      "Es irreversible"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "1–3 son correctas salvo la irreversibilidad: existe desmetilación; por tanto 3 y 4 no son correctas juntas.",
+    "reference": "Tema 5, A3) Metilación del ADN (DNMT, SAM, reversibilidad). "
+  },
+  {
+    "id": 515,
+    "unit": "Tema 5",
+    "question": "Efectos funcionales de la metilación del ADN:",
+    "options": [
+      "Puede impedir la unión de TF activadores/inhibidores",
+      "Favorecer el reclutamiento de represores",
+      "Promover compactación vía desacetilación de histonas",
+      "Aumentar siempre la transcripción"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Las 1–3 son mecanismos descritos; la metilación no aumenta de forma general la transcripción.",
+    "reference": "Tema 5, A3) Consecuencias de la metilación. "
+  },
+  {
+    "id": 516,
+    "unit": "Tema 5",
+    "question": "Metilación y cáncer:",
+    "options": [
+      "Hipermetilación de islas CpG puede silenciar supresores tumorales",
+      "Hipometilación global se asocia a inestabilidad genómica",
+      "Ambos patrones pueden contribuir a la oncogénesis",
+      "La metilación no está implicada en enfermedad"
+    ],
+    "possible_answers": [
+      "A: 1 y 2",
+      "B: 1, 2, 3",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "1–3 son verdaderas según el temario; la negación en 4 es falsa.",
+    "reference": "Tema 5, Metilación alterada en cáncer. "
+  },
+  {
+    "id": 517,
+    "unit": "Tema 5",
+    "question": "Epigenética (visión general):",
+    "options": [
+      "Cambios en expresión/ fenotipo sin alterar la secuencia de ADN",
+      "Mecanismos: modificación de histonas, metilación de ADN, ncRNA",
+      "Puede relacionarse con programación fetal del riesgo metabólico",
+      "Requiere cambios de bases en el ADN"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La epigenética no implica mutaciones; abarca histonas, metilación y ncRNAs; hay ejemplos de programación fetal.",
+    "reference": "Tema 5, Epigenética y programación metabólica. "
+  },
+  {
+    "id": 518,
+    "unit": "Tema 5",
+    "question": "Elementos cis en eucariotas:",
+    "options": [
+      "Promotores (TATA, GC/Islas CpG, CCAAT)",
+      "Enhancers (potenciadores) que pueden estar alejados",
+      "Silencers (secuencias inhibidoras)",
+      "Elementos de respuesta (p.e., HRE, VDRE)"
+    ],
+    "possible_answers": [
+      "A: 1 y 2",
+      "B: 1, 2, 3, 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "El temario lista estos cuatro tipos de elementos cis reguladores.",
+    "reference": "Tema 5, B1) Elementos cis. "
+  },
+  {
+    "id": 519,
+    "unit": "Tema 5",
+    "question": "Elementos trans (factores de transcripción):",
+    "options": [
+      "Dominio de unión a ADN",
+      "Dominio de activación",
+      "Dominios de dimerización",
+      "Un dominio catalítico de DNMT obligatorio"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Los TF presentan DBD, dominio activador y pueden dimerizar; no requieren un dominio DNMT.",
+    "reference": "Tema 5, B2) Factores de transcripción (dominios típicos). "
+  },
+  {
+    "id": 520,
+    "unit": "Tema 5",
+    "question": "Factores generales de transcripción (basales) y coactivadores:",
+    "options": [
+      "Los FT basales forman el complejo de preiniciación",
+      "Los coactivadores conectan activadores con ARN pol II/FT basales",
+      "Los coactivadores deben unirse directamente al ADN",
+      "El promotor debe ser accesible (cromatina abierta)"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Los coactivadores suelen mediar proteína–proteína, sin necesidad de unión directa a ADN; la accesibilidad es crítica.",
+    "reference": "Tema 5, B2) FT basales y coactivadores. "
+  },
+  {
+    "id": 521,
+    "unit": "Tema 5",
+    "question": "Reguladores arquitectónicos y enhancers:",
+    "options": [
+      "Facilitan el looping del ADN",
+      "Aproximan enhancers al sitio de inicio",
+      "Permiten cooperación entre múltiples factores",
+      "Siempre están dentro de ±50 pb del TSS"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Los enhancers pueden estar lejanos; los reguladores arquitectónicos facilitan el bucle y la cooperación entre TF.",
+    "reference": "Tema 5, Reguladores arquitectónicos y enhancers. "
+  },
+  {
+    "id": 522,
+    "unit": "Tema 5",
+    "question": "Represores en regulación eucariota:",
+    "options": [
+      "Interfieren la conexión activador–coactivador",
+      "Pueden ser proteínas o ARNlnc",
+      "Siempre se unen al operador del operón",
+      "Dificultan el ensamblaje con el complejo basal"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "En eucariotas no hay 'operones' como tal; sí pueden impedir interacciones clave y el ensamblaje basal.",
+    "reference": "Tema 5, Proteínas represoras y ARNlnc. "
+  },
+  {
+    "id": 523,
+    "unit": "Tema 5",
+    "question": "Promotores para ARN pol II:",
+    "options": [
+      "Caja TATA (~−30)",
+      "Elemento iniciador (Inr, alrededor de +1)",
+      "Cajas GC/Islas CpG y CCAAT corriente arriba",
+      "Siempre carecen de elementos adicionales aguas arriba"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "TATA, Inr y motivos upstream (GC/CCAAT) son frecuentes; pueden existir elementos adicionales aguas arriba.",
+    "reference": "Tema 5, Secuencias promotoras ARN pol II. "
+  },
+  {
+    "id": 524,
+    "unit": "Tema 5",
+    "question": "Enhancers y silencers:",
+    "options": [
+      "Enhancers: aumentan frecuencia de transcripción",
+      "Silencers: disminuyen la transcripción",
+      "Enhancers pueden actuar a larga distancia",
+      "Silencers solo actúan si están inmediatamente adyacentes al promotor"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "C",
+    "explanation": "1 y 4 no son ambas correctas: 1 y 3 sí; los silencers también pueden actuar alejados.",
+    "reference": "Tema 5, B1) Potenciadores y silencers. "
+  },
+  {
+    "id": 525,
+    "unit": "Tema 5",
+    "question": "Elementos de respuesta (ejemplos):",
+    "options": [
+      "HRE para receptores nucleares",
+      "VDRE para receptor de vitamina D",
+      "Se localizan solo a −10 del TSS",
+      "Unen factores específicos dependientes de ligando"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "HRE/VDRE son ejemplos; su localización puede ser distante; unen complejos receptor–ligando.",
+    "reference": "Tema 5, Elementos de respuesta (HRE/VDRE). "
+  },
+  {
+    "id": 526,
+    "unit": "Tema 5",
+    "question": "Señales que modulan TF (vías de transducción):",
+    "options": [
+      "Receptores nucleares (esteroideas/tiroideas, retinoides, Vit D)",
+      "Vía MAPK",
+      "Vía JAK-STAT",
+      "AMPc/PKA"
+    ],
+    "possible_answers": [
+      "A: 1, 2",
+      "B: 1, 2, 3, 4",
+      "C: 2, 3",
+      "D: 3, 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "El temario recoge estas vías como moduladoras de TF y, por tanto, de la transcripción.",
+    "reference": "Tema 5, Señales moleculares que activan TF. "
+  },
+  {
+    "id": 527,
+    "unit": "Tema 5",
+    "question": "Regulación post-transcripcional (visión del temario):",
+    "options": [
+      "Splicing alternativo",
+      "Transporte nuclear–citoplasmático del ARNm",
+      "Estabilidad/degradación del ARNm",
+      "Inicio de la traducción"
+    ],
+    "possible_answers": [
+      "A: 1, 2",
+      "B: 1, 2, 3, 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "C",
+    "explanation": "El Tema 5 incluye explícitamente splicing alternativo, transporte, estabilidad y control de traducción como control post-transcripcional.",
+    "reference": "Tema 5, C) Regulación post-transcripcional. "
+  },
+  {
+    "id": 528,
+    "unit": "Tema 5",
+    "question": "Vías de degradación del ARNm:",
+    "options": [
+      "Exonucleasas 5'→3' o 3'→5'",
+      "Endonucleasas específicas",
+      "Deadenilación (acortamiento de poli(A)) afecta vida media",
+      "El ARNm no se degrada en células eucariotas"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "1–3 son verdaderas; la opción 4 es falsa.",
+    "reference": "Tema 5, Degradación del ARNm (exonucleasas, P-bodies, poli(A)). "
+  },
+  {
+    "id": 529,
+    "unit": "Tema 5",
+    "question": "P-bodies:",
+    "options": [
+      "Gránulos con maquinaria de degradación de ARNm",
+      "Participan en control de estabilidad",
+      "Sitios de almacenamiento y/o decaimiento",
+      "Complejos exclusivos del núcleo"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Los P-bodies son citoplásmicos y contienen componentes para degradación o almacenamiento de ARNm.",
+    "reference": "Tema 5, P-bodies. "
+  },
+  {
+    "id": 530,
+    "unit": "Tema 5",
+    "question": "Factores que influyen en la concentración de ARNm ([ARNm]):",
+    "options": [
+      "Velocidad de síntesis (transcripción)",
+      "Velocidad de degradación",
+      "Longitud de la cola poli(A)",
+      "No depende de la degradación"
+    ],
+    "possible_answers": [
+      "A: 1 y 2",
+      "B: 1, 2, 3",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "La [ARNm] depende de síntesis y degradación; la poli(A) influye en estabilidad/degradación.",
+    "reference": "Tema 5, Control de [ARNm]. "
+  },
+  {
+    "id": 531,
+    "unit": "Tema 5",
+    "question": "Splicing alternativo y diversidad proteica:",
+    "options": [
+      "Un gen puede originar múltiples polipéptidos",
+      "Depende de la inclusión/exclusión de exones",
+      "No afecta a la regulación de la expresión",
+      "Es un proceso nuclear"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El splicing alternativo aumenta la diversidad y ocurre en el núcleo; sí afecta regulación.",
+    "reference": "Tema 5, C) Splicing alternativo (resumen). "
+  },
+  {
+    "id": 532,
+    "unit": "Tema 5",
+    "question": "Exportación del ARNm maduro:",
+    "options": [
+      "Ocurre vía poro nuclear (nucleoporinas)",
+      "Es un proceso regulado",
+      "Requiere energía",
+      "Se realiza antes del procesamiento"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El transporte es activo/regulado y ocurre tras la maduración nuclear.",
+    "reference": "Tema 5, Transporte núcleo→citoplasma del ARNm. "
+  },
+  {
+    "id": 533,
+    "unit": "Tema 5",
+    "question": "Biogénesis de microARN (miARN):",
+    "options": [
+      "Transcripción por ARN pol II (algunos por pol III)",
+      "Procesamiento nuclear por Drosha",
+      "Exportación de pre-miARN por exportina-5",
+      "Procesamiento citosólico por Dicer"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1, 2, 3, 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "La ruta canónica incluye Pol II/III, Drosha, exportina-5 y Dicer en citosol.",
+    "reference": "Tema 5, miARN: biogénesis. "
+  },
+  {
+    "id": 534,
+    "unit": "Tema 5",
+    "question": "Acción de los miARN:",
+    "options": [
+      "Se cargan en RISC (Argonauta)",
+      "Reconocen dianas en 3'UTR por complementariedad parcial",
+      "Pueden bloquear inicio de traducción",
+      "Pueden promover degradación del ARNm diana"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1, 2, 3, 4",
+      "C: 2 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "El temario recoge bloqueo del inicio y/o degradación tras unión a 3'UTR vía RISC.",
+    "reference": "Tema 5, miARN: mecanismos de silenciamiento. "
+  },
+  {
+    "id": 535,
+    "unit": "Tema 5",
+    "question": "Efecto de la abundancia de miARN en la traducción:",
+    "options": [
+      "Más miARN, menor traducción del ARNm diana",
+      "Menos miARN, mayor traducción del ARNm diana",
+      "Los miARN siempre aumentan traducción",
+      "Un miARN puede tener múltiples dianas"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El miARN reprime traducción; puede actuar sobre múltiples ARNm diana.",
+    "reference": "Tema 5, miARN: relación dosis-efecto y multiespecificidad. "
+  },
+  {
+    "id": 536,
+    "unit": "Tema 5",
+    "question": "Control del inicio de la traducción (visión del temario):",
+    "options": [
+      "Forma parte de la regulación post-transcripcional",
+      "Afecta la producción proteica sin cambiar [ARNm]",
+      "No pertenece al control de la expresión génica",
+      "Puede estar modulado por miARN"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "El inicio de traducción se incluye como control post-transcripcional y puede ser modulado por miARN.",
+    "reference": "Tema 5, C) Post-transcripcional (inicio traducción, miARN). "
+  },
+  {
+    "id": 537,
+    "unit": "Tema 5",
+    "question": "Localización del ARNm y expresión génica:",
+    "options": [
+      "El transporte a regiones celulares específicas modula traducción local",
+      "Es un mecanismo de control post-transcripcional",
+      "No requiere proteínas mediadoras",
+      "Puede coordinarse con la estabilidad del ARNm"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El temario incluye localización/transporte; este control suele implicar proteínas y coordinarse con estabilidad.",
+    "reference": "Tema 5, Control de localización/transporte del ARNm. "
+  },
+  {
+    "id": 538,
+    "unit": "Tema 5",
+    "question": "Separación espacial/temporal en eucariotas:",
+    "options": [
+      "Transcripción y procesamiento en núcleo",
+      "Traducción en citoplasma",
+      "Facilita acoplar transcripción–traducción",
+      "Permite un control post-transcripcional extenso"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "La separación impide acoplamiento inmediato y favorece múltiples controles post-transcripcionales.",
+    "reference": "Tema 5, Separación nuclear/citoplasmática. "
+  },
+  {
+    "id": 539,
+    "unit": "Tema 5",
+    "question": "Actinomicina D y transcripción:",
+    "options": [
+      "Se intercala en el ADN",
+      "Impide el avance de la ARN polimerasa",
+      "Inhibe transcripción en eucariotas",
+      "Activa la transcripción en procariotas"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El temario menciona su acción intercalante e inhibidora de la transcripción.",
+    "reference": "Tema 5 (fin Tema 4): Actinomicina D. "
+  },
+  {
+    "id": 540,
+    "unit": "Tema 5",
+    "question": "Cajas promotoras frecuentes:",
+    "options": [
+      "TATA",
+      "GC (islas CpG)",
+      "CCAAT",
+      "Solo aparecen en procariotas"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 1 y 4",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "D",
+    "explanation": "1–3 son correctas; son rasgos eucariotas citados; 'solo en procariotas' es falso.",
+    "reference": "Tema 5, Secuencias promotoras. "
+  },
+  {
+    "id": 541,
+    "unit": "Tema 5",
+    "question": "Cooperación de factores en el inicio eucariota:",
+    "options": [
+      "Requiere interacción de FT basales y activadores",
+      "Los coactivadores integran señales de enhancers al complejo basal",
+      "La cromatina abierta es irrelevante para el inicio",
+      "Reguladores arquitectónicos favorecen el looping"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La accesibilidad cromatínica sí es relevante; el looping facilita el contacto enhancer–promotor.",
+    "reference": "Tema 5, Cooperación de factores y cromatina. "
+  },
+  {
+    "id": 542,
+    "unit": "Tema 5",
+    "question": "Silencers (secuencias inhibidoras):",
+    "options": [
+      "Son elementos cis",
+      "Unen proteínas represoras",
+      "Disminuyen la frecuencia de transcripción",
+      "Solo se localizan aguas abajo"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "1–3 son verdaderas; su localización puede variar (no solo aguas abajo).",
+    "reference": "Tema 5, B1) Silencers. "
+  },
+  {
+    "id": 543,
+    "unit": "Tema 5",
+    "question": "Receptores nucleares clase I (resumen funcional):",
+    "options": [
+      "Forman homodímeros hormona–receptor",
+      "Se unen a HRE",
+      "Reclutan coactivadores y ARN pol II",
+      "No influyen en la transcripción"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El complejo hormona–receptor se une a HRE y activa transcripción con coactivadores.",
+    "reference": "Tema 5, Señales a través de receptores nucleares. "
+  },
+  {
+    "id": 544,
+    "unit": "Tema 5",
+    "question": "Relación metilación–expresión:",
+    "options": [
+      "↑Metilación en promotores → ↓Expresión",
+      "La metilación puede reclutar HDACs vía proteínas lectoras",
+      "La metilación es una marca epigenética heredable",
+      "Siempre aumenta la expresión de oncogenes"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "1–3 están recogidas; la última es incorrecta como generalización.",
+    "reference": "Tema 5, A3) Metilación (efectos y herencia). "
+  },
+  {
+    "id": 545,
+    "unit": "Tema 5",
+    "question": "Islas CpG:",
+    "options": [
+      "Regiones ricas en CG en promotores/reguladores",
+      "Sitio común de metilación",
+      "Se asocian a cajas GC en promotores",
+      "Son exclusivas de procariotas"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "Islas CpG están en regiones reguladoras eucariotas, con papel en metilación y cajas GC.",
+    "reference": "Tema 5, A3) Metilación; promotores GC/Islas CpG. "
+  },
+  {
+    "id": 546,
+    "unit": "Tema 5",
+    "question": "HDAC vs HAT:",
+    "options": [
+      "HAT acetilan histonas",
+      "HDAC desacetilan histonas",
+      "La acetilación suele correlacionar con activación",
+      "La desacetilación suele correlacionar con represión"
+    ],
+    "possible_answers": [
+      "A: 1, 2",
+      "B: 1, 2, 3, 4",
+      "C: 2, 3",
+      "D: 3, 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "El temario lo resume como un equilibrio HAT/HDAC que modula accesibilidad y expresión.",
+    "reference": "Tema 5, A2) HAT/HDAC. "
+  },
+  {
+    "id": 547,
+    "unit": "Tema 5",
+    "question": "Mediación de enhancers sin contacto directo con ARN pol II:",
+    "options": [
+      "Puede implicar remodeladores de cromatina",
+      "Puede implicar coactivadores",
+      "Siempre requiere contacto directo enhancer–pol II",
+      "Es compatible con acción a larga distancia"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "El temario indica que enhancers pueden actuar a distancia sin interacción directa, vía cofactores/remodeladores.",
+    "reference": "Tema 5, B1) Notas sobre enhancers. "
+  },
+  {
+    "id": 548,
+    "unit": "Tema 5",
+    "question": "MiARN y destino del ARNm diana:",
+    "options": [
+      "Represión del inicio de traducción",
+      "Degradación mediada por RISC",
+      "Unión típica a 3'UTR",
+      "Aumento de la poliadenilación"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 3",
+      "B: 2 y 4",
+      "C: 1 y 4",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "1–3 verdaderas; los miARN no aumentan poliadenilación como mecanismo estándar.",
+    "reference": "Tema 5, miARN: dianas y efectos. "
+  },
+  {
+    "id": 549,
+    "unit": "Tema 5",
+    "question": "Regulación por estabilidad del ARNm:",
+    "options": [
+      "El acortamiento de poli(A) reduce la vida media",
+      "Existen endonucleasas específicas",
+      "La estabilidad no afecta a la concentración de ARNm",
+      "Existen mecanismos especializados de degradación de ciertos ARNm"
+    ],
+    "possible_answers": [
+      "A: 1, 2, 4",
+      "B: 1 y 3",
+      "C: 2 y 3",
+      "D: 3 y 4"
+    ],
+    "correct_answer": "A",
+    "explanation": "La [ARNm] depende de su vida media; se describen vías generales y específicas de degradación.",
+    "reference": "Tema 5, Estabilidad y degradación del ARNm. "
+  },
+  {
+    "id": 550,
+    "unit": "Tema 5",
+    "question": "Resumen integrador de control post-transcripcional:",
+    "options": [
+      "Splicing alternativo",
+      "Transporte nuclear–citoplasmático",
+      "Localización y estabilidad del ARNm",
+      "Control del inicio de la traducción (incl. miARN)"
+    ],
+    "possible_answers": [
+      "A: 1, 2",
+      "B: 1, 2, 3",
+      "C: 1, 2, 3, 4",
+      "D: 2, 4"
+    ],
+    "correct_answer": "C",
+    "explanation": "El tema 5 resume estos cuatro ejes como control del destino y uso del ARNm.",
+    "reference": "Tema 5, C) Procesamiento, localización y estabilidad del ARNm. "
+  },
+  {
+"id": 601,
+"unit": "Tema 6",
+"question": "Componentes clave necesarios para la traducción:",
 "options": [
-"No todas las células expresan los mismos genes",
-"En una misma célula la expresión cambia con el tiempo o estímulos",
-"La síntesis proteica es costosa y está fuertemente regulada",
-"Todos los genes se expresan con la misma abundancia"
+"Código genético",
+"ARNm",
+"ARNt y aminoacil-ARNt sintetasas",
+"Ribosomas (ARNr + proteínas)"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1, 2", "C: 2, 4", "D: 4"],
+"possible_answers": ["A: 1, 2, 3, 4", "B: 1, 2", "C: 3, 4", "D: 2, 4"],
 "correct_answer": "A",
-"explanation": "La expresión es específica y dinámica; la producción de proteínas se regula por su alto coste; la opción 4 es falsa.",
-"reference": "Tema 5, 5.1 Principios de regulación génica. "
+"explanation": "El temario lista explícitamente estos cuatro bloques como imprescindibles en traducción.",
+"reference": "Tema 6, 6.1 Componentes clave. "
 },
 {
-"id": 502,
-"unit": "Tema 5",
-"question": "Genes constitutivos vs regulados:",
+"id": 602,
+"unit": "Tema 6",
+"question": "Características del código genético:",
 "options": [
-"Los housekeeping se expresan de forma relativamente constante",
-"Los genes regulados varían su expresión ante señales",
-"La inducción es aumento de expresión por una señal",
-"La represión es aumento de expresión por una señal"
+"Se lee en sentido 5’→3’ del ARNm",
+"Es no solapado",
+"Es degenerado",
+"AUG es codón de parada"
 ],
 "possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 3", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "Housekeeping: expresión estable; regulados: suben o bajan según señales; inducción aumenta, represión disminuye.",
-"reference": "Tema 5, 5.1 (constitutivos vs regulados, inducibles/reprimibles). "
+"explanation": "Se lee 5’→3’, es no solapado y degenerado; AUG es inicio, no parada.",
+"reference": "Tema 6, 6.1.A Código genético. "
 },
 {
-"id": 503,
-"unit": "Tema 5",
-"question": "Puntos potenciales de regulación de la expresión génica:",
+"id": 603,
+"unit": "Tema 6",
+"question": "Codones especiales y universalidad:",
 "options": [
-"Inicio de la transcripción",
-"Traducción",
-"Estabilidad/degradación del ARNm",
-"Transporte/localización del ARNm"
+"UAA, UAG y UGA son codones de stop",
+"AUG codifica Met e inicia la traducción",
+"Trp y Met están codificados por un único codón",
+"El código es idéntico en todos los organismos sin excepción"
 ],
-"possible_answers": ["A: 1, 2", "B: 2, 4", "C: 1, 2, 3, 4", "D: 3, 4"],
+"possible_answers": ["A: 1, 3", "B: 2, 4", "C: 1, 2, 3", "D: 4"],
 "correct_answer": "C",
-"explanation": "El temario sintetiza múltiples niveles: transcripción, traducción, estabilidad y transporte/localización del ARNm.",
-"reference": "Tema 5, esquema de posibles puntos de regulación. "
+"explanation": "Stop: UAA/UAG/UGA; AUG inicia y codifica Met; Trp y Met son únicos; casi universal, con excepciones.",
+"reference": "Tema 6, 6.1.A (codones stop, AUG, degeneración). "
 },
 {
-"id": 504,
-"unit": "Tema 5",
-"question": "Represión y activación transcripcional (visión general procariota/eucariota):",
+"id": 604,
+"unit": "Tema 6",
+"question": "Relación codón–anticodón en ARNt:",
 "options": [
-"Represores impiden el acceso de la ARN polimerasa al promotor",
-"Activadores favorecen la unión de la ARN polimerasa",
-"La regulación negativa es rara en procariotas",
-"La regulación positiva es muy común en eucariotas"
+"Se aparean en paralelo",
+"El anticodón se orienta antiparalelo al codón",
+"Existe posición de balanceo (wobble)",
+"El ARNm se lee en 3’→5’"
 ],
-"possible_answers": ["A: 1, 3", "B: 2, 3", "C: 1, 2", "D: 1, 2, 4"],
-"correct_answer": "D",
-"explanation": "1 y 2 son correctas; la regulación negativa es común en procariotas (no rara); la positiva es muy común en eucariotas.",
-"reference": "Tema 5, 5.1 (represores/activadores; diferencias procariotas/eucariotas). "
-},
-{
-"id": 505,
-"unit": "Tema 5",
-"question": "Operón lac (estado con glucosa alta y lactosa baja):",
-"options": [
-"Represor unido al operador (represión)",
-"AMPc bajo, CAP no activa",
-"Transcripción del operón lac aumentada",
-"Hay represión por catabolito"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 2, 3", "C: 1, 3", "D: 3, 4"],
+"possible_answers": ["A: 2, 3", "B: 1, 4", "C: 1, 3", "D: 2, 4"],
 "correct_answer": "A",
-"explanation": "Con glucosa alta y lactosa baja hay máxima represión: represor activo, AMPc bajo, sin activación por CAP-cAMP.",
-"reference": "Tema 5, operón lac y represión por catabolito. "
+"explanation": "Codón–anticodón se aparean antiparalelos y hay wobble; el ARNm se lee 5’→3’.",
+"reference": "Tema 6, 6.1.C ARNt (antiparalelo y wobble). "
 },
 {
-"id": 506,
-"unit": "Tema 5",
-"question": "Operón lac (estado con lactosa alta y glucosa baja):",
+"id": 605,
+"unit": "Tema 6",
+"question": "Aminoacil-ARNt sintetasas:",
 "options": [
-"CAP-AMPc se une y activa",
-"El inductor inactiva el represor",
-"No hay efecto de catabolito",
-"La transcripción del operón es máxima"
+"Unen cada aa a su ARNt usando ATP",
+"Son 20, específicas por aminoácido",
+"Realizan corrección de errores (proofreading)",
+"La identidad del aa se verifica en el ribosoma"
 ],
-"possible_answers": ["A: 2 y 4", "B: 1, 2, 4", "C: 1 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 3", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "Lactosa alta desactiva al represor; glucosa baja → AMPc alto y CAP activa; se logra máxima transcripción.",
-"reference": "Tema 5, operón lac (inducción y CAP-AMPc). "
+"explanation": "Catalizan AA+ARNt+ATP→aminoacil-ARNt; hay 20 y poseen proofreading; el ribosoma no verifica el aa.",
+"reference": "Tema 6, 6.1.D Aminoacil-ARNt sintetasas. "
 },
 {
-"id": 507,
-"unit": "Tema 5",
-"question": "Regulones (concepto y ejemplos):",
+"id": 606,
+"unit": "Tema 6",
+"question": "Ribosomas y sitios de unión de ARNt:",
 "options": [
-"Un regulón agrupa varios operones/genes bajo un regulador",
-"Permite cambios coordinados de función",
-"La respuesta SOS frente a daño en ADN es un ejemplo",
-"El regulón depende siempre del mismo factor σ"
+"Sitio A: aminoacil",
+"Sitio P: peptidil",
+"Sitio E: salida",
+"Los sitios A, P y E pertenecen solo a procariotas"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "Regulón coordina múltiples genes; la SOS es ejemplo; no exige el mismo σ en todos los casos.",
-"reference": "Tema 5, D) Regulones y respuesta SOS. "
+"explanation": "A, P y E son sitios universales del ribosoma y no exclusivos de procariotas.",
+"reference": "Tema 6, 6.1.E Ribosomas (sitios A/P/E). "
 },
 {
-"id": 508,
-"unit": "Tema 5",
-"question": "Respuesta SOS por daño en ADN:",
+"id": 607,
+"unit": "Tema 6",
+"question": "Activación de aminoácidos (Etapa 1):",
 "options": [
-"RecA se activa y reconoce ADN dañado",
-"RecA degrada LexA (represor) por sí misma",
-"Se desreprimen genes de reparación",
-"LexA activa la transcripción de reparación"
+"Ocurre fuera del ribosoma",
+"Consume ATP (AA activado como aminoacil-ARNt)",
+"No requiere aminoacil-ARNt sintetasas",
+"Activa el grupo carboxilo del aa"
 ],
-"possible_answers": ["A: 1 y 3", "B: 2 y 4", "C: 1, 2, 3", "D: 3 y 4"],
-"correct_answer": "D",
-"explanation": "El daño activa a RecA que promueve la autocleavage de LexA (represor); así se activan genes de reparación.",
-"reference": "Tema 5, respuesta SOS (RecA/LexA). "
-},
-{
-"id": 509,
-"unit": "Tema 5",
-"question": "Particularidades de la regulación transcripcional eucariota:",
-"options": [
-"Acceso a promotores restringido por cromatina",
-"Sistemas proteicos reguladores más complejos",
-"Separación espacial/temporal de transcripción y traducción",
-"La ARN pol II inicia sin necesidad de cambios de cromatina"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "La cromatina condiciona el acceso; hay gran complejidad reguladora; transcripción en núcleo vs traducción en citoplasma.",
-"reference": "Tema 5, 5.3 Particularidades eucariotas. "
-},
-{
-"id": 510,
-"unit": "Tema 5",
-"question": "Nucleosoma y niveles de compactación:",
-"options": [
-"El nucleosoma es un octámero 2x(H2A, H2B, H3, H4) + ADN",
-"H1 estabiliza la unión del ADN al nucleosoma",
-"Heterocromatina se asocia con represión transcripcional",
-"Eucromatina favorece transcripción activa"
-],
-"possible_answers": ["A: 1 y 3", "B: 1, 2, 3, 4", "C: 2 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 3", "B: 1, 2, 4", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "Todas son descripciones canónicas: composición del nucleosoma, papel de H1 y relación con actividad transcripcional.",
-"reference": "Tema 5, A1) Organización del ADN en cromatina. "
+"explanation": "Se realiza por aminoacil-ARNt sintetasas en citosol, con consumo de ATP y activación del grupo carboxilo.",
+"reference": "Tema 6, 6.2 Etapa 1 Activación. "
 },
 {
-"id": 511,
-"unit": "Tema 5",
-"question": "Remodelación de cromatina:",
+"id": 608,
+"unit": "Tema 6",
+"question": "Iniciación eucariota (visión general):",
 "options": [
-"Incluye desplazamientos/eliminación de nucleosomas",
-"Implica modificaciones de histonas",
-"La realizan complejos remodeladores",
-"Siempre compacta el ADN"
+"El ARNm circulariza mediado por eIF4F y PABP",
+"El complejo de preiniciación se ensambla en la subunidad menor",
+"Se posiciona el Met-ARNt iniciador en AUG",
+"La subunidad mayor se une antes de localizar AUG"
 ],
-"possible_answers": ["A: 1 y 2", "B: 1, 2, 3", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "Mover/eliminar nucleosomas y modificar histonas son vías de remodelación mediadas por complejos específicos.",
-"reference": "Tema 5, A1) Remodelación de cromatina. "
-},
-{
-"id": 512,
-"unit": "Tema 5",
-"question": "Acetilación de histonas:",
-"options": [
-"Neutraliza cargas positivas de Lys en histonas",
-"Reduce afinidad histona–ADN y descompacta cromatina",
-"Es reversible (HAT/HDAC)",
-"Siempre reprime la transcripción"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "La acetilación suele activar la transcripción; es reversible por HAT/HDAC y favorece accesibilidad.",
-"reference": "Tema 5, A2) Acetilación de histonas. "
-},
-{
-"id": 513,
-"unit": "Tema 5",
-"question": "Hipótesis del código de histonas:",
-"options": [
-"Las modificaciones postraduccionales de histonas regulan transcripción",
-"Patrones de marcas pueden heredarse",
-"Es un mecanismo epigenético",
-"Implica cambios en la secuencia de bases del ADN"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 4", "B: 2, 3", "C: 1, 2, 3", "D: 3, 4"],
 "correct_answer": "C",
-"explanation": "1 y 4 no son ambas correctas: sí hay regulación por marcas y son epigenéticas (no cambian la secuencia).",
-"reference": "Tema 5, A2) Código de histonas y epigenética. "
+"explanation": "Circularización eIF4F-PABP, ensamblaje en 40S y localización de AUG antes de unirse la mayor.",
+"reference": "Tema 6, 6.2 Etapa 2 Iniciación. "
 },
 {
-"id": 514,
-"unit": "Tema 5",
-"question": "Metilación del ADN en eucariotas:",
+"id": 609,
+"unit": "Tema 6",
+"question": "Aminoácido iniciador según dominio:",
 "options": [
-"Afecta a citosinas en islas CpG",
-"La catalizan DNMT usando SAM",
-"Suele correlacionar con represión de transcripción",
-"Es irreversible"
+"Eucariotas: Met",
+"Procariotas: N-formilmetionina",
+"Eucariotas: N-formilmetionina",
+"Procariotas: Met sin formilar"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "D",
-"explanation": "1–3 son correctas salvo la irreversibilidad: existe desmetilación; por tanto 3 y 4 no son correctas juntas.",
-"reference": "Tema 5, A3) Metilación del ADN (DNMT, SAM, reversibilidad). "
-},
-{
-"id": 515,
-"unit": "Tema 5",
-"question": "Efectos funcionales de la metilación del ADN:",
-"options": [
-"Puede impedir la unión de TF activadores/inhibidores",
-"Favorecer el reclutamiento de represores",
-"Promover compactación vía desacetilación de histonas",
-"Aumentar siempre la transcripción"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "Las 1–3 son mecanismos descritos; la metilación no aumenta de forma general la transcripción.",
-"reference": "Tema 5, A3) Consecuencias de la metilación. "
+"explanation": "AUG codifica Met en eucariotas y fMet en procariotas.",
+"reference": "Tema 6, 6.2 Iniciación (AUG y Met/fMet). "
 },
 {
-"id": 516,
-"unit": "Tema 5",
-"question": "Metilación y cáncer:",
+"id": 610,
+"unit": "Tema 6",
+"question": "Elongación (pasos canónicos):",
 "options": [
-"Hipermetilación de islas CpG puede silenciar supresores tumorales",
-"Hipometilación global se asocia a inestabilidad genómica",
-"Ambos patrones pueden contribuir a la oncogénesis",
-"La metilación no está implicada en enfermedad",
+"Unión del aminoacil-ARNt entrante",
+"Formación del enlace peptídico (actividad peptidil transferasa)",
+"Translocación",
+"Quitación de la cofia 5’"
 ],
-"possible_answers": ["A: 1 y 2", "B: 1, 2, 3", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "D",
-"explanation": "1–3 son verdaderas según el temario; la negación en 4 es falsa.",
-"reference": "Tema 5, Metilación alterada en cáncer. "
-},
-{
-"id": 517,
-"unit": "Tema 5",
-"question": "Epigenética (visión general):",
-"options": [
-"Cambios en expresión/ fenotipo sin alterar la secuencia de ADN",
-"Mecanismos: modificación de histonas, metilación de ADN, ncRNA",
-"Puede relacionarse con programación fetal del riesgo metabólico",
-"Requiere cambios de bases en el ADN"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "La epigenética no implica mutaciones; abarca histonas, metilación y ncRNAs; hay ejemplos de programación fetal.",
-"reference": "Tema 5, Epigenética y programación metabólica. "
-},
-{
-"id": 518,
-"unit": "Tema 5",
-"question": "Elementos cis en eucariotas:",
-"options": [
-"Promotores (TATA, GC/Islas CpG, CCAAT)",
-"Enhancers (potenciadores) que pueden estar alejados",
-"Silencers (secuencias inhibidoras)",
-"Elementos de respuesta (p.e., HRE, VDRE)"
-],
-"possible_answers": ["A: 1 y 2", "B: 1, 2, 3, 4", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 3", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "El temario lista estos cuatro tipos de elementos cis reguladores.",
-"reference": "Tema 5, B1) Elementos cis. "
+"explanation": "Los tres pasos definen elongación; la cofia 5’ no participa en esta fase.",
+"reference": "Tema 6, 6.2 Etapa 3 Elongación. "
 },
 {
-"id": 519,
-"unit": "Tema 5",
-"question": "Elementos trans (factores de transcripción):",
+"id": 611,
+"unit": "Tema 6",
+"question": "Naturaleza catalítica del centro peptidil-transferasa:",
 "options": [
-"Dominio de unión a ADN",
-"Dominio de activación",
-"Dominios de dimerización",
-"Un dominio catalítico de DNMT obligatorio"
+"Es una ribozima del ARNr 23S/28S",
+"Es una actividad proteica del ribosoma",
+"Forma el enlace peptídico en sitio P/A",
+"No requiere GTP para ninguna etapa de elongación"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 3", "B: 2, 4", "C: 1", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "Los TF presentan DBD, dominio activador y pueden dimerizar; no requieren un dominio DNMT.",
-"reference": "Tema 5, B2) Factores de transcripción (dominios típicos). "
+"explanation": "La catálisis reside en ARNr (23S bacteriano, 28S eucariota); la elongación usa GTP en varios pasos.",
+"reference": "Tema 6, 6.2 Elongación (ribozima 23S/28S, gasto GTP). "
 },
 {
-"id": 520,
-"unit": "Tema 5",
-"question": "Factores generales de transcripción (basales) y coactivadores:",
+"id": 612,
+"unit": "Tema 6",
+"question": "Direccionalidad de la traducción:",
 "options": [
-"Los FT basales forman el complejo de preiniciación",
-"Los coactivadores conectan activadores con ARN pol II/FT basales",
-"Los coactivadores deben unirse directamente al ADN",
-"El promotor debe ser accesible (cromatina abierta)"
+"El ribosoma se desplaza hacia el extremo 3’ del ARNm",
+"El ARNm se lee 5’→3’",
+"Los ARNt avanzan A→P→E",
+"Se acopla a síntesis 3’→5’ del ARNm"
 ],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "Los coactivadores suelen mediar proteína–proteína, sin necesidad de unión directa a ADN; la accesibilidad es crítica.",
-"reference": "Tema 5, B2) FT basales y coactivadores. "
+"explanation": "Lectura 5’→3’, desplazamiento hacia 3’ y tránsito A-P-E.",
+"reference": "Tema 6, 6.2 Elongación (translocación y sitios). "
 },
 {
-"id": 521,
-"unit": "Tema 5",
-"question": "Reguladores arquitectónicos y enhancers:",
+"id": 613,
+"unit": "Tema 6",
+"question": "Terminación de la traducción:",
 "options": [
-"Facilitan el looping del ADN",
-"Aproximan enhancers al sitio de inicio",
-"Permiten cooperación entre múltiples factores",
-"Siempre están dentro de ±50 pb del TSS"
+"Ocurre cuando el sitio A encuentra un codón stop",
+"Participan factores de liberación",
+"En eucariotas requiere hidrólisis de GTP",
+"Se reutilizan subunidades ribosomales"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "Los enhancers pueden estar lejanos; los reguladores arquitectónicos facilitan el bucle y la cooperación entre TF.",
-"reference": "Tema 5, Reguladores arquitectónicos y enhancers. "
-},
-{
-"id": 522,
-"unit": "Tema 5",
-"question": "Represores en regulación eucariota:",
-"options": [
-"Interfieren la conexión activador–coactivador",
-"Pueden ser proteínas o ARNlnc",
-"Siempre se unen al operador del operón",
-"Dificultan el ensamblaje con el complejo basal"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 2, 3", "B: 1, 2, 3, 4", "C: 1, 4", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "En eucariotas no hay 'operones' como tal; sí pueden impedir interacciones clave y el ensamblaje basal.",
-"reference": "Tema 5, Proteínas represoras y ARNlnc. "
+"explanation": "Terminación en UAA/UAG/UGA con eRF y GTP, y reciclaje de subunidades.",
+"reference": "Tema 6, 6.2 Etapa 4 Terminación y reciclaje. "
 },
 {
-"id": 523,
-"unit": "Tema 5",
-"question": "Promotores para ARN pol II:",
+"id": 614,
+"unit": "Tema 6",
+"question": "Coste energético aproximado de la traducción:",
 "options": [
-"Caja TATA (~−30)",
-"Elemento iniciador (Inr, alrededor de +1)",
-"Cajas GC/Islas CpG y CCAAT corriente arriba",
-"Siempre carecen de elementos adicionales aguas arriba"
+"Carga del ARNt consume ATP→AMP (2 enlaces de alta energía)",
+"Iniciación consume GTP (eIF2)",
+"Elongación consume GTP (eEF1α y eEF2)",
+"Terminación no consume nucleótidos"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "TATA, Inr y motivos upstream (GC/CCAAT) son frecuentes; pueden existir elementos adicionales aguas arriba.",
-"reference": "Tema 5, Secuencias promotoras ARN pol II. "
-},
-{
-"id": 524,
-"unit": "Tema 5",
-"question": "Enhancers y silencers:",
-"options": [
-"Enhancers: aumentan frecuencia de transcripción",
-"Silencers: disminuyen la transcripción",
-"Enhancers pueden actuar a larga distancia",
-"Silencers solo actúan si están inmediatamente adyacentes al promotor"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 4", "B: 2, 3", "C: 1, 2, 3", "D: 3, 4"],
 "correct_answer": "C",
-"explanation": "1 y 4 no son ambas correctas: 1 y 3 sí; los silencers también pueden actuar alejados.",
-"reference": "Tema 5, B1) Potenciadores y silencers. "
+"explanation": "Carga con ATP→AMP; iniciación y elongación usan GTP; terminación también usa GTP.",
+"reference": "Tema 6, Coste energético de traducción. "
 },
 {
-"id": 525,
-"unit": "Tema 5",
-"question": "Elementos de respuesta (ejemplos):",
+"id": 615,
+"unit": "Tema 6",
+"question": "Polirribosomas y acoplamiento transcripción-traducción:",
 "options": [
-"HRE para receptores nucleares",
-"VDRE para receptor de vitamina D",
-"Se localizan solo a −10 del TSS",
-"Unen factores específicos dependientes de ligando"
+"Los polisomas son múltiples ribosomas traduciendo el mismo ARNm",
+"En procariotas hay acoplamiento transcripción-traducción",
+"Los polisomas solo existen en eucariotas",
+"En procariotas transcripción y traducción ocurren separadas espacialmente"
 ],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "HRE/VDRE son ejemplos; su localización puede ser distante; unen complejos receptor–ligando.",
-"reference": "Tema 5, Elementos de respuesta (HRE/VDRE). "
+"explanation": "Polisomas y acoplamiento son característicos en procariotas; no exclusivos de eucariotas.",
+"reference": "Tema 6, 6.1.E (polisomas y acoplamiento). "
 },
 {
-"id": 526,
-"unit": "Tema 5",
-"question": "Señales que modulan TF (vías de transducción):",
+"id": 616,
+"unit": "Tema 6",
+"question": "Regulación de la traducción por fosforilación:",
 "options": [
-"Receptores nucleares (esteroideas/tiroideas, retinoides, Vit D)",
-"Vía MAPK",
-"Vía JAK-STAT",
-"AMPc/PKA"
+"Factores de iniciación pueden fosforilarse",
+"La fosforilación suele reducir su actividad",
+"Conduce a menor tasa de traducción",
+"Es un mecanismo exclusivo de procariotas"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "En eucariotas, la fosforilación de eIFs suele inhibir y reducir la traducción.",
+"reference": "Tema 6, 6.3 Regulación (fosforilación de eIFs). "
+},
+{
+"id": 617,
+"unit": "Tema 6",
+"question": "Proteínas represoras que se unen al ARNm:",
+"options": [
+"Suelen unirse a 3’UTR",
+"Interfieren con 40S/eIFs",
+"Favorecen el inicio de la traducción",
+"Impedir el inicio es un efecto típico"
+],
+"possible_answers": ["A: 1, 2, 4", "B: 1, 3", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Unión a 3’UTR para bloquear el ensamblaje de iniciación e impedir el inicio.",
+"reference": "Tema 6, 6.3 Regulación (represores en 3’UTR). "
+},
+{
+"id": 618,
+"unit": "Tema 6",
+"question": "Complejo eIF4F, eIF4E y eIF4G:",
+"options": [
+"eIF4E reconoce la cofia 5’",
+"eIF4G conecta con PABP (circularización)",
+"4E-BP impide la interacción eIF4E-eIF4G",
+"Fosforilar 4E-BP favorece su unión a eIF4E"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "eIF4E cap-binding, eIF4G puente con PABP; 4E-BP bloquea esa unión y su fosforilación la alivia.",
+"reference": "Tema 6, 6.2 (eIF4F/PABP) y 6.3 (4E-BP). "
+},
+{
+"id": 619,
+"unit": "Tema 6",
+"question": "Señales proliferativas y traducción:",
+"options": [
+"Factores de crecimiento pueden inactivar 4E-BP por fosforilación",
+"Al inactivar 4E-BP aumenta la traducción",
+"La fosforilación de 4E-BP aumenta su afinidad por eIF4E",
+"En crecimiento lento, 4E-BP suele estar activo"
+],
+"possible_answers": ["A: 1, 3", "B: 1, 2, 4", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Las señales de crecimiento fosforilan 4E-BP, lo inactivan y liberan eIF4E, aumentando traducción; en crecimiento lento, activo.",
+"reference": "Tema 6, 6.3 Regulación (4E-BP y crecimiento). "
+},
+{
+"id": 620,
+"unit": "Tema 6",
+"question": "miARN y control traduccional:",
+"options": [
+"Se generan por Drosha y Dicer",
+"Se cargan en RISC/Argonauta",
+"Se unen típicamente a 3’UTR con complementariedad parcial",
+"Siempre aumentan la traducción"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Biogénesis Drosha/Dicer, carga en RISC y unión a 3’UTR para reprimir o degradar.",
+"reference": "Tema 6, 6.3 Regulación (miARN). "
+},
+{
+"id": 621,
+"unit": "Tema 6",
+"question": "Efectos funcionales de miARN sobre el ARNm diana:",
+"options": [
+"Represión del inicio de la traducción",
+"Degradación del ARNm diana",
+"Un miARN puede tener múltiples dianas",
+"Requieren complementariedad perfecta en eucariotas"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 2, 4", "C: 1, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Pueden bloquear el inicio o promover degradación; la complementariedad no ha de ser perfecta.",
+"reference": "Tema 6, 6.3 (mecanismos de silenciamiento). "
+},
+{
+"id": 622,
+"unit": "Tema 6",
+"question": "Toxinas y antibióticos que afectan a traducción:",
+"options": [
+"Toxina diftérica inactiva eEF2",
+"Ricina inactiva la subunidad 60S",
+"Ambas inhiben síntesis proteica",
+"Actúan estimulando eIF4F"
+],
+"possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Diftérica modifica eEF2 e impide elongación; ricina ataca 60S; ambas inhiben la traducción.",
+"reference": "Tema 6, Notas sobre inhibidores de traducción. "
+},
+{
+"id": 623,
+"unit": "Tema 6",
+"question": "Circularización del ARNm:",
+"options": [
+"Favorece la iniciación eficiente",
+"Implica interacción eIF4E–eIF4G y PABP",
+"Evita el reciclaje de ribosomas",
+"Se observa en eucariotas"
+],
+"possible_answers": ["A: 1, 2, 4", "B: 1, 3", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "La unión cap-eIF4E y cola-PABP, vía eIF4G, promueve iniciación y favorece reciclaje.",
+"reference": "Tema 6, 6.2 Iniciación (circularización). "
+},
+{
+"id": 624,
+"unit": "Tema 6",
+"question": "Selección del AUG iniciador:",
+"options": [
+"Intervienen eIFs para guiar el Met-ARNt iniciador al codón AUG",
+"La subunidad mayor se une antes de formar el complejo de preiniciación",
+"El complejo completo eucariota es de 80S",
+"El ARNm nunca se asocia a la subunidad menor"
+],
+"possible_answers": ["A: 1, 3", "B: 1, 4", "C: 2, 3", "D: 2, 4"],
+"correct_answer": "A",
+"explanation": "eIFs posicionan Met-ARNt y luego se une la subunidad mayor para formar 80S.",
+"reference": "Tema 6, 6.2 Iniciación (formación del 80S). "
+},
+{
+"id": 625,
+"unit": "Tema 6",
+"question": "Degeneración del código y mutaciones puntuales:",
+"options": [
+"Mutaciones silenciosas suelen afectar la 3ª base de codones sinónimos",
+"Las de sentido erróneo cambian el aminoácido",
+"Las sin sentido crean o eliminan un stop",
+"Todas las mutaciones de marco son inocuas"
+],
+"possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Silenciosa, missense y nonsense se describen así; los desplazamientos de marco suelen ser graves.",
+"reference": "Tema 6, 6.1.A Mutaciones y código. "
+},
+{
+"id": 626,
+"unit": "Tema 6",
+"question": "Fidelidad de la traducción:",
+"options": [
+"Depende en gran medida de la especificidad de las aminoacil-ARNt sintetasas",
+"El ribosoma comprueba el aminoácido unido al ARNt",
+"Existen elementos de identidad en el ARNt para la sintetasa",
+"El error en carga de ARNt produce errores de traducción"
+],
+"possible_answers": ["A: 1, 3, 4", "B: 1, 2", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "La identidad se reconoce por la sintetasa; el ribosoma no valida el aa; un error de carga induce errores.",
+"reference": "Tema 6, 6.1.D (identidad ARNt/proofreading). "
+},
+{
+"id": 627,
+"unit": "Tema 6",
+"question": "Gasto de GTP durante la elongación:",
+"options": [
+"Entrada del aminoacil-ARNt correcto",
+"Translocación",
+"Formación del enlace peptídico",
+"Salida del ARNt por el sitio E"
+],
+"possible_answers": ["A: 1, 2", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "eEF1α y eEF2 consumen GTP en colocación y translocación; la catálisis peptídica es ribozimática.",
+"reference": "Tema 6, 6.2 Elongación (consumo de GTP). "
+},
+{
+"id": 628,
+"unit": "Tema 6",
+"question": "Lectura del ARNm y desplazamiento del ribosoma:",
+"options": [
+"El ribosoma avanza un codón por ciclo",
+"Se mueve 3 nucleótidos hacia 3’",
+"La lectura es en 5’→3’",
+"Se mueve en sentido 3’→5’ del ARNm"
+],
+"possible_answers": ["A: 1, 4", "B: 1, 2, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Transloca un codón (3 nt) hacia 3’ leyendo 5’→3’.",
+"reference": "Tema 6, 6.2 Elongación (translocación). "
+},
+{
+"id": 629,
+"unit": "Tema 6",
+"question": "Localización de ribosomas eucariotas según destino proteico:",
+"options": [
+"Libres: proteínas citosólicas, nucleares, mitocondriales",
+"Unidos a RER: secretadas o de membrana",
+"Los de RER sintetizan proteínas lisosomales",
+"Los ribosomas libres sintetizan proteínas para exportación"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 2", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Libres: citosol/núcleo/mitocondria; RER: secretadas/mb/RE/Golgi/lisosomas.",
+"reference": "Tema 6, 6.1.E Localización de ribosomas. "
+},
+{
+"id": 630,
+"unit": "Tema 6",
+"question": "Casi universalidad del código:",
+"options": [
+"La mayoría de organismos comparten el mismo código",
+"Existen excepciones",
+"Por eso se dice “casi universal”",
+"No hay ninguna excepción conocida"
+],
+"possible_answers": ["A: 1, 4", "B: 2, 3", "C: 1, 3", "D: 1, 2, 3"],
+"correct_answer": "D",
+"explanation": "Es ampliamente conservado pero con excepciones; hence ‘casi universal’.",
+"reference": "Tema 6, 6.1.A Universalidad. "
+},
+{
+"id": 631,
+"unit": "Tema 6",
+"question": "Formación del complejo de iniciación completo:",
+"options": [
+"Se libera la mayoría de eIFs",
+"Se une la subunidad mayor",
+"Resulta el ribosoma 80S listo para elongación",
+"Ocurre después de la translocación inicial"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 4", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Unión de subunidad mayor y liberación de eIFs forman el 80S activo.",
+"reference": "Tema 6, 6.2 Iniciación (complejo de iniciación completo). "
+},
+{
+"id": 632,
+"unit": "Tema 6",
+"question": "Componentes necesarios para la elongación:",
+"options": [
+"Complejo de iniciación",
+"Aminoacil-ARNt",
+"Factores de elongación",
+"GTP"
 ],
 "possible_answers": ["A: 1, 2", "B: 1, 2, 3, 4", "C: 2, 3", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "El temario recoge estas vías como moduladoras de TF y, por tanto, de la transcripción.",
-"reference": "Tema 5, Señales moleculares que activan TF. "
+"explanation": "El temario cita explícitamente estos cuatro requerimientos para elongar.",
+"reference": "Tema 6, 6.2 Elongación (requisitos). "
 },
 {
-"id": 527,
-"unit": "Tema 5",
-"question": "Regulación post-transcripcional (visión del temario):",
+"id": 633,
+"unit": "Tema 6",
+"question": "Sitios ribosomales durante un ciclo de elongación:",
 "options": [
-"Splicing alternativo",
-"Transporte nuclear–citoplasmático del ARNm",
-"Estabilidad/degradación del ARNm",
-"Inicio de la traducción"
+"El peptidil-ARNt pasa de A a P tras el enlace",
+"El ARNt descargado sale por E",
+"El nuevo aminoacil-ARNt entra por P",
+"El sitio A recibe el aminoacil-ARNt entrante"
 ],
-"possible_answers": ["A: 1, 2", "B: 1, 2, 3, 4", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2", "B: 1, 3", "C: 1, 2, 4", "D: 3, 4"],
 "correct_answer": "C",
-"explanation": "El Tema 5 incluye explícitamente splicing alternativo, transporte, estabilidad y control de traducción como control post-transcripcional.",
-"reference": "Tema 5, C) Regulación post-transcripcional. "
+"explanation": "Entrada por A, formación del enlace y translocación mueven el peptidil a P y el ARNt descargado a E.",
+"reference": "Tema 6, 6.2 Elongación (dinámica A/P/E). "
 },
 {
-"id": 528,
-"unit": "Tema 5",
-"question": "Vías de degradación del ARNm:",
+"id": 634,
+"unit": "Tema 6",
+"question": "Señales en el ARNm relevantes para traducción:",
 "options": [
-"Exonucleasas 5'→3' o 3'→5'",
-"Endonucleasas específicas",
-"Deadenilación (acortamiento de poli(A)) afecta vida media",
-"El ARNm no se degrada en células eucariotas"
+"Codón de inicio AUG",
+"Codones de stop UAA/UAG/UGA",
+"UTR 5’ con cofia",
+"UTR 3’ con cola poli(A)"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2", "B: 3, 4", "C: 1, 2, 3", "D: 1, 2, 3, 4"],
 "correct_answer": "D",
-"explanation": "1–3 son verdaderas; la opción 4 es falsa.",
-"reference": "Tema 5, Degradación del ARNm (exonucleasas, P-bodies, poli(A)). "
+"explanation": "El ARNm contiene AUG, stop y las UTR con cap y poli(A) que modulan traducción.",
+"reference": "Tema 6, 6.1.B ARNm (señales y UTR). "
 },
 {
-"id": 529,
-"unit": "Tema 5",
-"question": "P-bodies:",
+"id": 635,
+"unit": "Tema 6",
+"question": "Ribosomas en procariotas vs eucariotas (información explícita del temario):",
 "options": [
-"Gránulos con maquinaria de degradación de ARNm",
-"Participan en control de estabilidad",
-"Sitios de almacenamiento y/o decaimiento",
-"Complejos exclusivos del núcleo",
+"El complejo de iniciación eucariota es 80S",
+"El centro peptidil-transferasa lo aporta el ARNr 23S en bacterias",
+"El centro catalítico lo aporta el 28S en eucariotas",
+"En procariotas no existen polisomas"
 ],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 3", "D: 3 y 4"],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
 "correct_answer": "A",
-"explanation": "Los P-bodies son citoplásmicos y contienen componentes para degradación o almacenamiento de ARNm.",
-"reference": "Tema 5, P-bodies. "
+"explanation": "80S en eucariotas; peptidil-transferasa reside en 23S (bacterias) y 28S (eucariotas); hay polisomas en procariotas.",
+"reference": "Tema 6, 6.2 Iniciación y 6.2 Elongación. "
 },
 {
-"id": 530,
-"unit": "Tema 5",
-"question": "Factores que influyen en la concentración de ARNm ([ARNm]):",
+"id": 636,
+"unit": "Tema 6",
+"question": "Consecuencias de aumentar miARN específicos en una célula:",
 "options": [
-"Velocidad de síntesis (transcripción)",
-"Velocidad de degradación",
-"Longitud de la cola poli(A)",
-"No depende de la degradación"
+"Disminuye la traducción de sus dianas",
+"Puede aumentar la degradación de ARNm diana",
+"Aumenta la traducción global de dianas",
+"El efecto depende de complementariedad y contexto 3’UTR"
 ],
-"possible_answers": ["A: 1 y 2", "B: 1, 2, 3", "C: 2 y 4", "D: 3 y 4"],
+"possible_answers": ["A: 1, 3", "B: 1, 2, 4", "C: 2, 3", "D: 3, 4"],
 "correct_answer": "B",
-"explanation": "La [ARNm] depende de síntesis y degradación; la poli(A) influye en estabilidad/degradación.",
-"reference": "Tema 5, Control de [ARNm]. "
+"explanation": "Más miARN → más represión o degradación; el efecto depende de la diana y complementariedad.",
+"reference": "Tema 6, 6.3 miARN (dosis-efecto). "
 },
 {
-"id": 531,
-"unit": "Tema 5",
-"question": "Splicing alternativo y diversidad proteica:",
+"id": 637,
+"unit": "Tema 6",
+"question": "Comparativa inicio en procariotas y eucariotas (según temario):",
 "options": [
-"Un gen puede originar múltiples polipéptidos",
-"Depende de la inclusión/exclusión de exones",
-"No afecta a la regulación de la expresión",
-"Es un proceso nuclear",
+"Ambos usan un ARNt iniciador específico",
+"En procariotas el iniciador es fMet",
+"En eucariotas es Met",
+"En eucariotas el mRNA se dirige por eIF4F/PABP"
 ],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El splicing alternativo aumenta la diversidad y ocurre en el núcleo; sí afecta regulación.",
-"reference": "Tema 5, C) Splicing alternativo (resumen). "
-},
-{
-"id": 532,
-"unit": "Tema 5",
-"question": "Exportación del ARNm maduro:",
-"options": [
-"Ocurre vía poro nuclear (nucleoporinas)",
-"Es un proceso regulado",
-"Requiere energía",
-"Se realiza antes del procesamiento"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El transporte es activo/regulado y ocurre tras la maduración nuclear.",
-"reference": "Tema 5, Transporte núcleo→citoplasma del ARNm. "
-},
-{
-"id": 533,
-"unit": "Tema 5",
-"question": "Biogénesis de microARN (miARN):",
-"options": [
-"Transcripción por ARN pol II (algunos por pol III)",
-"Procesamiento nuclear por Drosha",
-"Exportación de pre-miARN por exportina-5",
-"Procesamiento citosólico por Dicer"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1, 2, 3, 4", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "La ruta canónica incluye Pol II/III, Drosha, exportina-5 y Dicer en citosol.",
-"reference": "Tema 5, miARN: biogénesis. "
-},
-{
-"id": 534,
-"unit": "Tema 5",
-"question": "Acción de los miARN:",
-"options": [
-"Se cargan en RISC (Argonauta)",
-"Reconocen dianas en 3'UTR por complementariedad parcial",
-"Pueden bloquear inicio de traducción",
-"Pueden promover degradación del ARNm diana"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 1, 2, 3, 4", "C: 2 y 4", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "El temario recoge bloqueo del inicio y/o degradación tras unión a 3'UTR vía RISC.",
-"reference": "Tema 5, miARN: mecanismos de silenciamiento. "
-},
-{
-"id": 535,
-"unit": "Tema 5",
-"question": "Efecto de la abundancia de miARN en la traducción:",
-"options": [
-"Más miARN, menor traducción del ARNm diana",
-"Menos miARN, mayor traducción del ARNm diana",
-"Los miARN siempre aumentan traducción",
-"Un miARN puede tener múltiples dianas"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El miARN reprime traducción; puede actuar sobre múltiples ARNm diana.",
-"reference": "Tema 5, miARN: relación dosis-efecto y multiespecificidad. "
-},
-{
-"id": 536,
-"unit": "Tema 5",
-"question": "Control del inicio de la traducción (visión del temario):",
-"options": [
-"Forma parte de la regulación post-transcripcional",
-"Afecta la producción proteica sin cambiar [ARNm]",
-"No pertenece al control de la expresión génica",
-"Puede estar modulado por miARN",
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "El inicio de traducción se incluye como control post-transcripcional y puede ser modulado por miARN.",
-"reference": "Tema 5, C) Post-transcripcional (inicio traducción, miARN). "
-},
-{
-"id": 537,
-"unit": "Tema 5",
-"question": "Localización del ARNm y expresión génica:",
-"options": [
-"El transporte a regiones celulares específicas modula traducción local",
-"Es un mecanismo de control post-transcripcional",
-"No requiere proteínas mediadoras",
-"Puede coordinarse con la estabilidad del ARNm"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El temario incluye localización/transporte; este control suele implicar proteínas y coordinarse con estabilidad.",
-"reference": "Tema 5, Control de localización/transporte del ARNm. "
-},
-{
-"id": 538,
-"unit": "Tema 5",
-"question": "Separación espacial/temporal en eucariotas:",
-"options": [
-"Transcripción y procesamiento en núcleo",
-"Traducción en citoplasma",
-"Facilita acoplar transcripción–traducción",
-"Permite un control post-transcripcional extenso"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "La separación impide acoplamiento inmediato y favorece múltiples controles post-transcripcionales.",
-"reference": "Tema 5, Separación nuclear/citoplasmática. "
-},
-{
-"id": 539,
-"unit": "Tema 5",
-"question": "Actinomicina D y transcripción:",
-"options": [
-"Se intercala en el ADN",
-"Impide el avance de la ARN polimerasa",
-"Inhibe transcripción en eucariotas",
-"Activa la transcripción en procariotas"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El temario menciona su acción intercalante e inhibidora de la transcripción.",
-"reference": "Tema 5 (fin Tema 4): Actinomicina D. "
-},
-{
-"id": 540,
-"unit": "Tema 5",
-"question": "Cajas promotoras frecuentes:",
-"options": [
-"TATA",
-"GC (islas CpG)",
-"CCAAT",
-"Solo aparecen en procariotas"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 1 y 4", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "D",
-"explanation": "1–3 son correctas; son rasgos eucariotas citados; 'solo en procariotas' es falso.",
-"reference": "Tema 5, Secuencias promotoras. "
-},
-{
-"id": 541,
-"unit": "Tema 5",
-"question": "Cooperación de factores en el inicio eucariota:",
-"options": [
-"Requiere interacción de FT basales y activadores",
-"Los coactivadores integran señales de enhancers al complejo basal",
-"La cromatina abierta es irrelevante para el inicio",
-"Reguladores arquitectónicos favorecen el looping"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "La accesibilidad cromatínica sí es relevante; el looping facilita el contacto enhancer–promotor.",
-"reference": "Tema 5, Cooperación de factores y cromatina. "
-},
-{
-"id": 542,
-"unit": "Tema 5",
-"question": "Silencers (secuencias inhibidoras):",
-"options": [
-"Son elementos cis",
-"Unen proteínas represoras",
-"Disminuyen la frecuencia de transcripción",
-"Solo se localizan aguas abajo"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "1–3 son verdaderas; su localización puede variar (no solo aguas abajo).",
-"reference": "Tema 5, B1) Silencers. "
-},
-{
-"id": 543,
-"unit": "Tema 5",
-"question": "Receptores nucleares clase I (resumen funcional):",
-"options": [
-"Forman homodímeros hormona–receptor",
-"Se unen a HRE",
-"Reclutan coactivadores y ARN pol II",
-"No influyen en la transcripción"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El complejo hormona–receptor se une a HRE y activa transcripción con coactivadores.",
-"reference": "Tema 5, Señales a través de receptores nucleares. "
-},
-{
-"id": 544,
-"unit": "Tema 5",
-"question": "Relación metilación–expresión:",
-"options": [
-"↑Metilación en promotores → ↓Expresión",
-"La metilación puede reclutar HDACs vía proteínas lectoras",
-"La metilación es una marca epigenética heredable",
-"Siempre aumenta la expresión de oncogenes"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "1–3 están recogidas; la última es incorrecta como generalización.",
-"reference": "Tema 5, A3) Metilación (efectos y herencia). "
-},
-{
-"id": 545,
-"unit": "Tema 5",
-"question": "Islas CpG:",
-"options": [
-"Regiones ricas en CG en promotores/reguladores",
-"Sitio común de metilación",
-"Se asocian a cajas GC en promotores",
-"Son exclusivas de procariotas"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "Islas CpG están en regiones reguladoras eucariotas, con papel en metilación y cajas GC.",
-"reference": "Tema 5, A3) Metilación; promotores GC/Islas CpG. "
-},
-{
-"id": 546,
-"unit": "Tema 5",
-"question": "HDAC vs HAT:",
-"options": [
-"HAT acetilan histonas",
-"HDAC desacetilan histonas",
-"La acetilación suele correlacionar con activación",
-"La desacetilación suele correlacionar con represión"
-],
-"possible_answers": ["A: 1, 2", "B: 1, 2, 3, 4", "C: 2, 3", "D: 3, 4"],
-"correct_answer": "B",
-"explanation": "El temario lo resume como un equilibrio HAT/HDAC que modula accesibilidad y expresión.",
-"reference": "Tema 5, A2) HAT/HDAC. "
-},
-{
-"id": 547,
-"unit": "Tema 5",
-"question": "Mediación de enhancers sin contacto directo con ARN pol II:",
-"options": [
-"Puede implicar remodeladores de cromatina",
-"Puede implicar coactivadores",
-"Siempre requiere contacto directo enhancer–pol II",
-"Es compatible con acción a larga distancia"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "El temario indica que enhancers pueden actuar a distancia sin interacción directa, vía cofactores/remodeladores.",
-"reference": "Tema 5, B1) Notas sobre enhancers. "
-},
-{
-"id": 548,
-"unit": "Tema 5",
-"question": "MiARN y destino del ARNm diana:",
-"options": [
-"Represión del inicio de traducción",
-"Degradación mediada por RISC",
-"Unión típica a 3'UTR",
-"Aumento de la poliadenilación"
-],
-"possible_answers": ["A: 1, 2, 3", "B: 2 y 4", "C: 1 y 4", "D: 3 y 4"],
-"correct_answer": "B",
-"explanation": "1–3 verdaderas; los miARN no aumentan poliadenilación como mecanismo estándar.",
-"reference": "Tema 5, miARN: dianas y efectos. "
-},
-{
-"id": 549,
-"unit": "Tema 5",
-"question": "Regulación por estabilidad del ARNm:",
-"options": [
-"El acortamiento de poli(A) reduce la vida media",
-"Existen endonucleasas específicas",
-"La estabilidad no afecta a la concentración de ARNm",
-"Existen mecanismos especializados de degradación de ciertos ARNm"
-],
-"possible_answers": ["A: 1, 2, 4", "B: 1 y 3", "C: 2 y 3", "D: 3 y 4"],
-"correct_answer": "A",
-"explanation": "La [ARNm] depende de su vida media; se describen vías generales y específicas de degradación.",
-"reference": "Tema 5, Estabilidad y degradación del ARNm. "
-},
-{
-"id": 550,
-"unit": "Tema 5",
-"question": "Resumen integrador de control post-transcripcional:",
-"options": [
-"Splicing alternativo",
-"Transporte nuclear–citoplasmático",
-"Localización y estabilidad del ARNm",
-"Control del inicio de la traducción (incl. miARN)"
-],
-"possible_answers": ["A: 1, 2", "B: 1, 2, 3", "C: 1, 2, 3, 4", "D: 2, 4"],
+"possible_answers": ["A: 1, 4", "B: 2, 3, 4", "C: 1, 2, 3, 4", "D: 2, 4"],
 "correct_answer": "C",
-"explanation": "El tema 5 resume estos cuatro ejes como control del destino y uso del ARNm.",
-"reference": "Tema 5, C) Procesamiento, localización y estabilidad del ARNm. "
+"explanation": "El temario destaca fMet en procariotas, Met en eucariotas y papel de eIF4F/PABP en eucariotas.",
+"reference": "Tema 6, 6.2 Iniciación (comparativa). "
+},
+{
+"id": 638,
+"unit": "Tema 6",
+"question": "Elementos del ribosoma relevantes para traducción:",
+"options": [
+"El ARNr es estructural y catalítico",
+"Coordina ARNm y ARNt",
+"Solo está compuesto por proteínas",
+"Contiene sitios A, P y E"
+],
+"possible_answers": ["A: 1, 2", "B: 1, 4", "C: 2, 3", "D: 1, 2, 4"],
+"correct_answer": "D",
+"explanation": "El ARNr tiene papel estructural/catalítico; coordina ARNm/ARNt y posee sitios A, P, E.",
+"reference": "Tema 6, 6.1.E Ribosomas. "
+},
+{
+"id": 639,
+"unit": "Tema 6",
+"question": "Secuencia de eventos en un ciclo de elongación:",
+"options": [
+"Entrada del aminoacil-ARNt al sitio A (con GTP)",
+"Formación del enlace peptídico",
+"Translocación (con GTP)",
+"Liberación del ARNt descargado por sitio E"
+],
+"possible_answers": ["A: 1, 3", "B: 2, 4", "C: 1, 2, 3", "D: 1, 2, 3, 4"],
+"correct_answer": "D",
+"explanation": "Los cuatro pasos ocurren en ese orden durante cada ciclo de elongación.",
+"reference": "Tema 6, 6.2 Elongación (3 pasos y tránsito E). "
+},
+{
+"id": 640,
+"unit": "Tema 6",
+"question": "Señales negativas sobre traducción en eucariotas:",
+"options": [
+"Fosforilación de eIFs",
+"Proteínas represoras en 3’UTR",
+"4E-BP activo uniéndose a eIF4E",
+"Aumento de eIF4F por 4E-BP activo"
+],
+"possible_answers": ["A: 1, 2", "B: 2, 4", "C: 1, 3", "D: 1, 2, 3"],
+"correct_answer": "D",
+"explanation": "Las tres primeras reducen inicio; 4E-BP activo no aumenta eIF4F, lo bloquea.",
+"reference": "Tema 6, 6.3 Regulación de la traducción. "
+},
+{
+"id": 641,
+"unit": "Tema 6",
+"question": "Reconocimiento del ARNm por el ribosoma eucariota:",
+"options": [
+"Requiere interacción con eIF4F",
+"Implica cap-binding por eIF4E",
+"La subunidad menor se une antes que la mayor",
+"No necesita PABP"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "eIF4F (eIF4E/eIF4G) y PABP favorecen el reclutamiento de la 40S antes de unirse la mayor.",
+"reference": "Tema 6, 6.2 Iniciación (eIF4F/PABP). "
+},
+{
+"id": 642,
+"unit": "Tema 6",
+"question": "Selección de la pauta de lectura correcta:",
+"options": [
+"La lectura del código es no solapada",
+"El inicio en AUG define la pauta",
+"Las deleciones/insertions de 1 nt pueden desfasar",
+"El ribosoma corrige automáticamente frameshifts"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Inicio en AUG fija la pauta; frameshifts alteran la lectura; el ribosoma no corrige el marco.",
+"reference": "Tema 6, 6.1.A (no solapado y mutaciones). "
+},
+{
+"id": 643,
+"unit": "Tema 6",
+"question": "Diferencias clave en traducción procariota según el temario:",
+"options": [
+"fMet como iniciador",
+"Transcripción y traducción acopladas",
+"Ausencia de polisomas",
+"Uso de eIFs idénticos a eucariotas"
+],
+"possible_answers": ["A: 1, 2", "B: 2, 3", "C: 1, 3", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "El temario destaca fMet y acoplamiento; los polisomas existen y los factores difieren.",
+"reference": "Tema 6, 6.2 (fMet) y 6.1.E (acoplamiento/polisomas). "
+},
+{
+"id": 644,
+"unit": "Tema 6",
+"question": "Resultado final de la terminación:",
+"options": [
+"Liberación de la cadena polipeptídica",
+"Separación y reciclaje de subunidades",
+"Consumo de GTP por eRF",
+"Formación de un nuevo enlace peptídico"
+],
+"possible_answers": ["A: 1, 4", "B: 2, 3", "C: 1, 2, 3", "D: 1, 2"],
+"correct_answer": "C",
+"explanation": "Se libera el polipéptido, se reciclan subunidades y hay consumo de GTP; no hay nuevo enlace peptídico.",
+"reference": "Tema 6, 6.2 Terminación. "
+},
+{
+"id": 645,
+"unit": "Tema 6",
+"question": "Efectos de 4E-BP activo:",
+"options": [
+"Secuestra eIF4E",
+"Reduce la interacción eIF4E–eIF4G",
+"Disminuye la iniciación de traducción",
+"Aumenta la circularización del ARNm"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "4E-BP unido a eIF4E impide el ensamblaje con eIF4G y reduce el inicio.",
+"reference": "Tema 6, 6.3 Regulación (4E-BP). "
+},
+{
+"id": 646,
+"unit": "Tema 6",
+"question": "Selección correcta de afirmaciones sobre ARNt:",
+"options": [
+"Estructura de trébol y forma de L",
+"Contiene anticodón y sitio de unión al aa",
+"Su orientación es antiparalela al codón",
+"Es traducido a proteína antes de cargar aa"
+],
+"possible_answers": ["A: 1, 3", "B: 1, 2, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "El ARNt posee tres características clave: estructura, anticodón, sitio de aa y antiparalelismo.",
+"reference": "Tema 6, 6.1.C ARNt. "
+},
+{
+"id": 647,
+"unit": "Tema 6",
+"question": "Identifica lo correcto sobre eIFs durante la iniciación:",
+"options": [
+"eIF2 hidroliza GTP",
+"La mayoría de eIFs se liberan al unirse la subunidad mayor",
+"eIF4E reconoce la cofia 5’",
+"eIF4G se une directamente al anticodón"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 1, 3", "C: 2, 4", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "eIF2 usa GTP; la unión de la subunidad mayor libera eIFs; eIF4E reconoce la cap; eIF4G no reconoce anticodón.",
+"reference": "Tema 6, 6.2 Iniciación (eIF2, eIF4F). "
+},
+{
+"id": 648,
+"unit": "Tema 6",
+"question": "Efectos de la ricina y la toxina diftérica (según temario):",
+"options": [
+"Ricina daña 60S eucariota",
+"Toxina diftérica afecta eEF2",
+"Ambas bloquean la síntesis proteica",
+"La diftérica activa la elongación"
+],
+"possible_answers": ["A: 1, 2, 3", "B: 2, 3", "C: 1, 3", "D: 3, 4"],
+"correct_answer": "A",
+"explanation": "Ambas son inhibidores potentes; la diftérica no activa elongación, la bloquea.",
+"reference": "Tema 6, Inhibidores de traducción. "
+},
+{
+"id": 649,
+"unit": "Tema 6",
+"question": "Elección de afirmaciones verdaderas sobre polisomas:",
+"options": [
+"Permiten traducir simultáneamente un ARNm por varios ribosomas",
+"Existen en procariotas",
+"No se observan en eucariotas",
+"Se asocian a una mayor eficiencia de traducción"
+],
+"possible_answers": ["A: 1, 3", "B: 1, 2, 4", "C: 2, 3", "D: 3, 4"],
+"correct_answer": "B",
+"explanation": "Polisomas aumentan eficiencia; aparecen en procariotas (y también en eucariotas).",
+"reference": "Tema 6, 6.1.E Polisomas. "
+},
+{
+"id": 650,
+"unit": "Tema 6",
+"question": "Resumen integrador de control traduccional (eucariotas):",
+"options": [
+"Fosforilación de factores de iniciación",
+"Proteínas de unión a 3’UTR que reprimen inicio",
+"Modulación del complejo eIF4E–eIF4G por 4E-BP",
+"Estimulación de traducción por activación de 4E-BP"
+],
+"possible_answers": ["A: 1, 2", "B: 1, 3", "C: 1, 2, 3", "D: 2, 4"],
+"correct_answer": "C",
+"explanation": "Las tres primeras constituyen mecanismos centrales de regulación de la iniciación.",
+"reference": "Tema 6, 6.3 Regulación de la traducción. "
 }
 ]
