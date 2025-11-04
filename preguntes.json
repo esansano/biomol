@@ -17,7 +17,7 @@
     ],
     "correct_answer": "C",
     "explanation": "El catabolismo obtiene energía (ATP, NADH), suele converger en acetil-CoA y libera CO2/H2O/NH3; el consumo neto de energía es propio del anabolismo. ",
-    "reference": "Tema 1, 1.1–1.2 (visión general y necesidad de regulación). "
+    "reference": "Tema 1, 1.1-1.2 (visión general y necesidad de regulación). "
   },
   {
     "id": 102,
@@ -57,7 +57,7 @@
     ],
     "correct_answer": "B",
     "explanation": "Transcripción, traducción y estabilidad del ARNm controlan la cantidad proteica; la fosforilación regula actividad, no cantidad. ",
-    "reference": "Tema 1, 1.3 (A.1–A.3). "
+    "reference": "Tema 1, 1.3 (A.1-A.3). "
   },
   {
     "id": 104,
@@ -157,7 +157,7 @@
     ],
     "correct_answer": "B",
     "explanation": "Compartimentación y transporte regulan acceso a sustratos; los FT regulan cantidad de enzima, no accesibilidad per se. ",
-    "reference": "Tema 1, 1.3 (C.1–C.2). "
+    "reference": "Tema 1, 1.3 (C.1-C.2). "
   },
   {
     "id": 109,
@@ -242,7 +242,7 @@
   {
     "id": 113,
     "unit": "Tema 1",
-    "question": "En la regulación por CANTIDAD de enzima (A.1–A.4):",
+    "question": "En la regulación por CANTIDAD de enzima (A.1-A.4):",
     "options": [
       "Factores de transcripción modulan la transcripción",
       "La traducción puede ser un cuello de botella independiente",
@@ -257,7 +257,7 @@
     ],
     "correct_answer": "B",
     "explanation": "FT, traducción y degradación del ARNm afectan a cantidad; el recambio proteico también la condiciona, por lo que 4 es falsa. ",
-    "reference": "Tema 1, 1.3 (A.1–A.4). "
+    "reference": "Tema 1, 1.3 (A.1-A.4). "
   },
   {
     "id": 114,
@@ -337,7 +337,7 @@
     ],
     "correct_answer": "B",
     "explanation": "Un aumento de ARNm no siempre se traduce en más proteína; hay corregulación y control de estabilidad. ",
-    "reference": "Tema 1, 1.3 (A.1–A.3). "
+    "reference": "Tema 1, 1.3 (A.1-A.3). "
   },
   {
     "id": 118,
@@ -417,7 +417,7 @@
     ],
     "correct_answer": "B",
     "explanation": "El temario define tres ejes: cantidad, actividad y accesibilidad; limitarse a transcripción es incompleto. ",
-    "reference": "Tema 1, 1.3 (a–c). "
+    "reference": "Tema 1, 1.3 (a-c). "
   },
   {
     "id": 122,
@@ -657,7 +657,7 @@
     ],
     "correct_answer": "C",
     "explanation": "El temario resalta especialización y coexistencia con control espacial; no requiere células distintas. ",
-    "reference": "Tema 1, 1.3 (C.1–C.2). "
+    "reference": "Tema 1, 1.3 (C.1-C.2). "
   },
   {
     "id": 134,
@@ -677,7 +677,7 @@
     ],
     "correct_answer": "C",
     "explanation": "Las señales modulan transcripción y justifican la necesidad de regulación; la traducción también es regulable. ",
-    "reference": "Tema 1, 1.2–1.3. "
+    "reference": "Tema 1, 1.2-1.3. "
   },
   {
     "id": 135,
@@ -717,12 +717,12 @@
     ],
     "correct_answer": "C",
     "explanation": "Control espacial y de transporte determinan eficiencia y flujo de rutas. ",
-    "reference": "Tema 1, 1.3 (C.1–C.2). "
+    "reference": "Tema 1, 1.3 (C.1-C.2). "
   },
   {
     "id": 137,
     "unit": "Tema 1",
-    "question": "Sobre la RELACIÓN entre ARNm y proteína (A.2–A.3):",
+    "question": "Sobre la RELACIÓN entre ARNm y proteína (A.2-A.3):",
     "options": [
       "Más ARNm siempre implica más proteína",
       "La traducción y la estabilidad del ARNm modulan la cantidad proteica",
@@ -737,7 +737,7 @@
     ],
     "correct_answer": "C",
     "explanation": "El temario indica control de traducción y degradación de ARNm como mecanismos clave. ",
-    "reference": "Tema 1 (A.2–A.3). "
+    "reference": "Tema 1 (A.2-A.3). "
   },
   {
     "id": 138,
@@ -1106,7 +1106,7 @@
     "options": [
       "Son un tipo de señal reconocido por receptores",
       "Actúan únicamente mediante receptores nucleares",
-      "Participan en comunicación célula–célula",
+      "Participan en comunicación célula-célula",
       "No intervienen en vías de transducción de señales"
     ],
     "possible_answers": [
@@ -1297,7 +1297,7 @@
     ],
     "correct_answer": "C",
     "explanation": "Tema 2 destaca amplificación, regulación de quinasas y difusión; no están ‘siempre’ confinados a membrana.",
-    "reference": "Tema 2 (2.3.3–2.3.4). "
+    "reference": "Tema 2 (2.3.3-2.3.4). "
   },
   {
     "id": 216,
@@ -1325,8 +1325,8 @@
     "question": "Respecto a los receptores en la membrana plasmática (en la introducción):",
     "options": [
       "Las células expresan receptores específicos para las señales",
-      "La unión señal–receptor inicia procesos de transducción",
-      "No se requiere especificidad para la unión ligando–receptor",
+      "La unión señal-receptor inicia procesos de transducción",
+      "No se requiere especificidad para la unión ligando-receptor",
       "Pueden existir familias de receptores con funciones diversas"
     ],
     "possible_answers": [
@@ -1562,7 +1562,7 @@
   {
     "id": 229,
     "unit": "Tema 2",
-    "question": "Sobre la relación señal–respuesta a nivel de tejidos:",
+    "question": "Sobre la relación señal-respuesta a nivel de tejidos:",
     "options": [
       "La diferenciación celular implica especialización de respuestas",
       "La ‘división del trabajo’ requiere coordinación por señales",
@@ -1597,7 +1597,7 @@
     ],
     "correct_answer": "D",
     "explanation": "Tema 2 las enumera como señales; el ejemplo de examen concreta su contenido y funciones.",
-    "reference": "Tema 2 (2.1) y Actividad S4 (p. 2–3). "
+    "reference": "Tema 2 (2.1) y Actividad S4 (p. 2-3). "
   },
   {
     "id": 231,
@@ -1677,7 +1677,7 @@
     ],
     "correct_answer": "D",
     "explanation": "El temario subraya la posibilidad de comunicación cruzada; por ello, ‘restricción absoluta’ es incorrecta.",
-    "reference": "Tema 2 (2.3.3–2.3.4). "
+    "reference": "Tema 2 (2.3.3-2.3.4). "
   },
   {
     "id": 235,
@@ -1705,7 +1705,7 @@
     "question": "‘Vías de transducción de señales’ (concepto introductorio):",
     "options": [
       "Son series de procesos químicos intracelulares",
-      "Se activan tras la unión señal–receptor",
+      "Se activan tras la unión señal-receptor",
       "No pueden modular el metabolismo",
       "Convergen a veces en cambios de expresión génica"
     ],
@@ -1737,7 +1737,7 @@
     ],
     "correct_answer": "D",
     "explanation": "El temario ilustra AMPc/PKA y Ca2+-calmodulina como ejes representativos.",
-    "reference": "Tema 2 (2.3.3–2.3.4). "
+    "reference": "Tema 2 (2.3.3-2.3.4). "
   },
   {
     "id": 238,
@@ -1857,7 +1857,7 @@
     ],
     "correct_answer": "D",
     "explanation": "Tema 2 presenta su papel como ‘traductores’ y amplificadores, con impacto en TFs y enzimas.",
-    "reference": "Tema 2 (2.3.3–2.3.4). "
+    "reference": "Tema 2 (2.3.3-2.3.4). "
   },
   {
     "id": 244,
@@ -1882,7 +1882,7 @@
   {
     "id": 245,
     "unit": "Tema 2",
-    "question": "Relación señal–receptor–respuesta (marco general del Tema 2):",
+    "question": "Relación señal-receptor-respuesta (marco general del Tema 2):",
     "options": [
       "La unión al receptor inicia procesos químicos intracelulares",
       "Sin receptores no hay reconocimiento de señal",
@@ -1957,7 +1957,7 @@
     ],
     "correct_answer": "D",
     "explanation": "La idea de crosstalk y múltiples efectos se enuncia en el temario.",
-    "reference": "Tema 2 (2.3.3–2.3.4). "
+    "reference": "Tema 2 (2.3.3-2.3.4). "
   },
   {
     "id": 249,
@@ -1982,7 +1982,7 @@
   {
     "id": 250,
     "unit": "Tema 2",
-    "question": "Resumen de ‘Tema 2 – Introducción a la comunicación intercelular’:",
+    "question": "Resumen de ‘Tema 2 - Introducción a la comunicación intercelular’:",
     "options": [
       "Catálogo amplio de señales (hormonas, factores, NT, toxinas, disruptores, ncRNA, EVs)",
       "Concepto de receptores específicos y vías de transducción",
@@ -1997,7 +1997,7 @@
     ],
     "correct_answer": "D",
     "explanation": "Este conjunto sintetiza los pilares del Tema 2: señales, receptores, 2º mensajeros y terminación adecuada.",
-    "reference": "Tema 2 (2.1 y 2.3.3–2.3.5). "
+    "reference": "Tema 2 (2.1 y 2.3.3-2.3.5). "
   },
   {
     "id": 301,
@@ -2057,7 +2057,7 @@
     ],
     "correct_answer": "D",
     "explanation": "AMPc activa PKA y es degradado por PDE; la liberación de Ca2+ del RE no es por AMPc directo.",
-    "reference": "Tema 3, 3.2.1 (esquema general AC–AMPc–PKA y terminación por PDE). "
+    "reference": "Tema 3, 3.2.1 (esquema general AC-AMPc-PKA y terminación por PDE). "
   },
   {
     "id": 304,
@@ -2066,7 +2066,7 @@
     "options": [
       "Fosforilación del receptor",
       "Reclutamiento de β-arrestina",
-      "Endocitosis del complejo receptor–β-arrestina",
+      "Endocitosis del complejo receptor-β-arrestina",
       "Activación directa de DNA polimerasa"
     ],
     "possible_answers": [
@@ -2097,12 +2097,12 @@
     ],
     "correct_answer": "D",
     "explanation": "La PKA es tetramérica regulada por AMPc y regula enzimas y TFs; no fosforila ADN.",
-    "reference": "Actividad S4, pregunta 6; Tema 3 contexto AMPc–PKA. "
+    "reference": "Actividad S4, pregunta 6; Tema 3 contexto AMPc-PKA. "
   },
   {
     "id": 306,
     "unit": "Tema 3",
-    "question": "En la vía de los fosfoinosítidos (GPCR–Gαq–PLC):",
+    "question": "En la vía de los fosfoinosítidos (GPCR-Gαq-PLC):",
     "options": [
       "La PLC hidroliza PIP2",
       "Se generan DAG e IP3 como segundos mensajeros",
@@ -2137,12 +2137,12 @@
     ],
     "correct_answer": "D",
     "explanation": "IP3 es soluble, libera Ca2+ del RE; PKA no es su efector directo.",
-    "reference": "Tema 3, IP3–canales de Ca2+. Actividad S4, p. 3 (preg. 12). "
+    "reference": "Tema 3, IP3-canales de Ca2+. Actividad S4, p. 3 (preg. 12). "
   },
   {
     "id": 308,
     "unit": "Tema 3",
-    "question": "La terminación de la vía PLC–PIP2–DAG–IP3 puede implicar:",
+    "question": "La terminación de la vía PLC-PIP2-DAG-IP3 puede implicar:",
     "options": [
       "Desfosforilación de IP3",
       "Hidrolizar DAG o fosforilarlo a ácido fosfatídico",
@@ -2162,7 +2162,7 @@
   {
     "id": 309,
     "unit": "Tema 3",
-    "question": "Calcio–calmodulina:",
+    "question": "Calcio-calmodulina:",
     "options": [
       "Calmodulina es un sensor de Ca2+",
       "Activa quinasas dependientes de calmodulina (CaMK)",
@@ -2176,8 +2176,8 @@
       "D: 1, 2, 3"
     ],
     "correct_answer": "D",
-    "explanation": "La pareja Ca2+–calmodulina regula CaMK y procesos como contracción y exocitosis.",
-    "reference": "Tema 3, Ca2+–calmodulina (EF-hand) y funciones. "
+    "explanation": "La pareja Ca2+-calmodulina regula CaMK y procesos como contracción y exocitosis.",
+    "reference": "Tema 3, Ca2+-calmodulina (EF-hand) y funciones. "
   },
   {
     "id": 310,
@@ -2216,13 +2216,13 @@
       "D: 1, 2, 3"
     ],
     "correct_answer": "D",
-    "explanation": "INSR se activa por autofosforilación y señaliza vía PI3K–AKT y MAPK; no es JAK-STAT.",
-    "reference": "Tema 3, INSR→IRS-1→PI3K/GRB2–SOS. "
+    "explanation": "INSR se activa por autofosforilación y señaliza vía PI3K-AKT y MAPK; no es JAK-STAT.",
+    "reference": "Tema 3, INSR→IRS-1→PI3K/GRB2-SOS. "
   },
   {
     "id": 312,
     "unit": "Tema 3",
-    "question": "Ruta PI3K–PIP3–PDK1–AKT en señalización de insulina:",
+    "question": "Ruta PI3K-PIP3-PDK1-AKT en señalización de insulina:",
     "options": [
       "IRS-1 activado recluta PI3K",
       "PI3K convierte PIP2 en PIP3",
@@ -2236,8 +2236,8 @@
       "D: 1, 2, 3, 4"
     ],
     "correct_answer": "D",
-    "explanation": "Todos los pasos forman la vía PIP3–AKT, con PTEN apagándola.",
-    "reference": "Tema 3, vía PIP3–AKT y PTEN. "
+    "explanation": "Todos los pasos forman la vía PIP3-AKT, con PTEN apagándola.",
+    "reference": "Tema 3, vía PIP3-AKT y PTEN. "
   },
   {
     "id": 313,
@@ -2317,7 +2317,7 @@
     ],
     "correct_answer": "D",
     "explanation": "STAT dimeriza y se une a sitios específicos en ADN (no HRE, que es de receptores nucleares).",
-    "reference": "Tema 3, vía leptina–JAK–STAT. "
+    "reference": "Tema 3, vía leptina-JAK-STAT. "
   },
   {
     "id": 317,
@@ -2417,7 +2417,7 @@
     ],
     "correct_answer": "A",
     "explanation": "GRB2 es adaptadora (no GEF); recluta SOS (GEF) para activar RAS.",
-    "reference": "Tema 3, GRB2–SOS–RAS. "
+    "reference": "Tema 3, GRB2-SOS-RAS. "
   },
   {
     "id": 322,
@@ -2445,7 +2445,7 @@
     "question": "La señalización por receptores nucleares (clase I):",
     "options": [
       "Implica hormonas esteroideas hidrofóbicas",
-      "Forman homodímeros hormona–receptor",
+      "Forman homodímeros hormona-receptor",
       "Se unen a elementos de respuesta a hormonas (HRE)",
       "Actúan típicamente con efectos más duraderos"
     ],
@@ -2537,7 +2537,7 @@
     ],
     "correct_answer": "A",
     "explanation": "La vía se apaga por fosfatasas, GTPasa de RAS y PTEN; no por aumentar PIP3.",
-    "reference": "Tema 3, apagado de MAPK y PIP3–AKT. "
+    "reference": "Tema 3, apagado de MAPK y PIP3-AKT. "
   },
   {
     "id": 328,
@@ -2577,7 +2577,7 @@
     ],
     "correct_answer": "A",
     "explanation": "PKC es quinasa activada por DAG y Ca2+; no es GTPasa.",
-    "reference": "Tema 3, DAG–PKC y Ca2+. "
+    "reference": "Tema 3, DAG-PKC y Ca2+. "
   },
   {
     "id": 330,
@@ -2597,7 +2597,7 @@
     ],
     "correct_answer": "A",
     "explanation": "AMPc activa PKA y es degradado por PDE; no abre canales IP3.",
-    "reference": "Tema 3, 3.2.1 AC–AMPc–PKA; terminación por PDE. "
+    "reference": "Tema 3, 3.2.1 AC-AMPc-PKA; terminación por PDE. "
   },
   {
     "id": 331,
@@ -2757,7 +2757,7 @@
     ],
     "correct_answer": "A",
     "explanation": "PLC hidroliza PIP2 en DAG e IP3; PIP3 lo genera PI3K, no PLC.",
-    "reference": "Tema 3, Gαq–PLC–PIP2. "
+    "reference": "Tema 3, Gαq-PLC-PIP2. "
   },
   {
     "id": 339,
@@ -2797,7 +2797,7 @@
     ],
     "correct_answer": "A",
     "explanation": "SOS es GEF reclutada por GRB2; RAF lo activa RAS-GTP, no SOS por fosforilación.",
-    "reference": "Tema 3, complejo GRB2–SOS. "
+    "reference": "Tema 3, complejo GRB2-SOS. "
   },
   {
     "id": 341,
@@ -2876,7 +2876,7 @@
       "D: 3, 4"
     ],
     "correct_answer": "A",
-    "explanation": "AMPc–PKA fosforila TF como CREB; GPCR no se une a ADN.",
+    "explanation": "AMPc-PKA fosforila TF como CREB; GPCR no se une a ADN.",
     "reference": "Tema 3, vías de membrana regulando TFs (CRE). "
   },
   {
@@ -2926,7 +2926,7 @@
     "options": [
       "Es una fosfatasa de lípidos",
       "Convierte PIP3 en PIP2",
-      "Contribuye a finalizar la vía PIP3–AKT",
+      "Contribuye a finalizar la vía PIP3-AKT",
       "Activa MEK por fosforilación"
     ],
     "possible_answers": [
@@ -2937,7 +2937,7 @@
     ],
     "correct_answer": "A",
     "explanation": "PTEN apaga la rama PI3K-AKT; no activa MEK.",
-    "reference": "Tema 3, PTEN en PIP3–AKT. "
+    "reference": "Tema 3, PTEN en PIP3-AKT. "
   },
   {
     "id": 348,
@@ -2966,7 +2966,7 @@
     "options": [
       "MAPK",
       "JAK-STAT",
-      "PIP3–AKT",
+      "PIP3-AKT",
       "Ninguna"
     ],
     "possible_answers": [
@@ -2985,7 +2985,7 @@
     "question": "Resumen integrador del Tema 3:",
     "options": [
       "GPCR→AMPc/PKA y PLC→DAG/IP3/Ca2+",
-      "RTK (INSR/EGFR)→PI3K–AKT y MAPK",
+      "RTK (INSR/EGFR)→PI3K-AKT y MAPK",
       "Receptores guanilil ciclasa→GMPc (NO en forma soluble)",
       "Receptores nucleares→HRE; efectos más duraderos"
     ],
@@ -2997,7 +2997,7 @@
     ],
     "correct_answer": "A",
     "explanation": "Las cuatro líneas resumen tipos de receptores y vías centrales del tema.",
-    "reference": "Tema 3, 3.1–3.3 (síntesis de vías). "
+    "reference": "Tema 3, 3.1-3.3 (síntesis de vías). "
   },
   {
     "id": 401,
@@ -3184,7 +3184,7 @@
     "unit": "Tema 4",
     "question": "Cofia (cap) del ARNm eucariota:",
     "options": [
-      "Es una 7-metilguanosina unida por enlace 5'–5' trifosfato",
+      "Es una 7-metilguanosina unida por enlace 5'-5' trifosfato",
       "Se añade cuando el transcrito naciente tiene ~30 nucleótidos",
       "Protege frente a ribonucleasas",
       "Ocurre exclusivamente en procariotas"
@@ -3196,7 +3196,7 @@
       "D: todas son correctas"
     ],
     "correct_answer": "C",
-    "explanation": "La cofia es 7mG con enlace 5'–5', se añade co-transcripcionalmente y protege de la degradación.",
+    "explanation": "La cofia es 7mG con enlace 5'-5', se añade co-transcripcionalmente y protege de la degradación.",
     "reference": "Temario, Tema 4, 4.4 (capping). :contentReference[oaicite:9]{index=9}"
   },
   {
@@ -3204,7 +3204,7 @@
     "unit": "Tema 4",
     "question": "Cola poli(A) del ARNm eucariota:",
     "options": [
-      "Tiene típicamente entre 80–250 adeninas",
+      "Tiene típicamente entre 80-250 adeninas",
       "Se añade tanto en procariotas como eucariotas",
       "Favorece la unión de proteínas que protegen y regulan",
       "La señal AAUAAA está corriente abajo del sitio de corte"
@@ -3437,15 +3437,15 @@
     ],
     "correct_answer": "C",
     "explanation": "σ es transitoria, permite el reconocimiento de promotores; hay familias de σ para distintos conjuntos génicos.",
-    "reference": "Temario, Tema 4–5 (σ y promotores; repaso del Tema 4). "
+    "reference": "Temario, Tema 4-5 (σ y promotores; repaso del Tema 4). "
   },
   {
     "id": 423,
     "unit": "Tema 4",
     "question": "Señales alrededor del sitio de corte 3' para poliadenilación:",
     "options": [
-      "AAUAAA se localiza 10–30 nt corriente arriba del sitio de corte",
-      "Una región rica en G y U aparece 20–40 nt corriente abajo",
+      "AAUAAA se localiza 10-30 nt corriente arriba del sitio de corte",
+      "Una región rica en G y U aparece 20-40 nt corriente abajo",
       "La poli(A) polimerasa actúa tras generarse el nuevo extremo 3'",
       "La cofia se añade en el extremo 3'"
     ],
@@ -3577,7 +3577,7 @@
     ],
     "correct_answer": "B",
     "explanation": "La concentración de ARNm depende de síntesis y degradación; poli(A) influye en la estabilidad.",
-    "reference": "Temario, Tema 4–5 (estabilidad del ARNm, P-bodies). :contentReference[oaicite:28]{index=28}"
+    "reference": "Temario, Tema 4-5 (estabilidad del ARNm, P-bodies). :contentReference[oaicite:28]{index=28}"
   },
   {
     "id": 430,
@@ -3666,7 +3666,7 @@
     "options": [
       "Se añade tras completar la transcripción",
       "Se añade cuando el transcrito tiene ~30 nt",
-      "Forma un enlace 5'–5' trifosfato",
+      "Forma un enlace 5'-5' trifosfato",
       "Confiere estabilidad frente a RNasas"
     ],
     "possible_answers": [
@@ -3676,7 +3676,7 @@
       "D: ninguna"
     ],
     "correct_answer": "B",
-    "explanation": "El capping es co-transcripcional (≈30 nt), con enlace 5'–5' y función protectora.",
+    "explanation": "El capping es co-transcripcional (≈30 nt), con enlace 5'-5' y función protectora.",
     "reference": "Temario, Tema 4, 4.4 (capping). :contentReference[oaicite:33]{index=33}"
   },
   {
@@ -3687,7 +3687,7 @@
       "Favorece exportación y eficiencia translacional mediante unión de proteínas",
       "Protege frente a degradación enzimática",
       "Es añadida por la ADN polimerasa",
-      "Suele medir entre 80–250 A"
+      "Suele medir entre 80-250 A"
     ],
     "possible_answers": [
       "A: 1 y 2",
@@ -4225,7 +4225,7 @@
     "question": "Acetilación de histonas:",
     "options": [
       "Neutraliza cargas positivas de Lys en histonas",
-      "Reduce afinidad histona–ADN y descompacta cromatina",
+      "Reduce afinidad histona-ADN y descompacta cromatina",
       "Es reversible (HAT/HDAC)",
       "Siempre reprime la transcripción"
     ],
@@ -4276,7 +4276,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "D",
-    "explanation": "1–3 son correctas salvo la irreversibilidad: existe desmetilación; por tanto 3 y 4 no son correctas juntas.",
+    "explanation": "1-3 son correctas salvo la irreversibilidad: existe desmetilación; por tanto 3 y 4 no son correctas juntas.",
     "reference": "Tema 5, A3) Metilación del ADN (DNMT, SAM, reversibilidad). "
   },
   {
@@ -4296,7 +4296,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "Las 1–3 son mecanismos descritos; la metilación no aumenta de forma general la transcripción.",
+    "explanation": "Las 1-3 son mecanismos descritos; la metilación no aumenta de forma general la transcripción.",
     "reference": "Tema 5, A3) Consecuencias de la metilación. "
   },
   {
@@ -4316,7 +4316,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "D",
-    "explanation": "1–3 son verdaderas según el temario; la negación en 4 es falsa.",
+    "explanation": "1-3 son verdaderas según el temario; la negación en 4 es falsa.",
     "reference": "Tema 5, Metilación alterada en cáncer. "
   },
   {
@@ -4396,7 +4396,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "Los coactivadores suelen mediar proteína–proteína, sin necesidad de unión directa a ADN; la accesibilidad es crítica.",
+    "explanation": "Los coactivadores suelen mediar proteína-proteína, sin necesidad de unión directa a ADN; la accesibilidad es crítica.",
     "reference": "Tema 5, B2) FT basales y coactivadores. "
   },
   {
@@ -4424,7 +4424,7 @@
     "unit": "Tema 5",
     "question": "Represores en regulación eucariota:",
     "options": [
-      "Interfieren la conexión activador–coactivador",
+      "Interfieren la conexión activador-coactivador",
       "Pueden ser proteínas o ARNlnc",
       "Siempre se unen al operador del operón",
       "Dificultan el ensamblaje con el complejo basal"
@@ -4496,7 +4496,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "HRE/VDRE son ejemplos; su localización puede ser distante; unen complejos receptor–ligando.",
+    "explanation": "HRE/VDRE son ejemplos; su localización puede ser distante; unen complejos receptor-ligando.",
     "reference": "Tema 5, Elementos de respuesta (HRE/VDRE). "
   },
   {
@@ -4525,7 +4525,7 @@
     "question": "Regulación post-transcripcional (visión del temario):",
     "options": [
       "Splicing alternativo",
-      "Transporte nuclear–citoplasmático del ARNm",
+      "Transporte nuclear-citoplasmático del ARNm",
       "Estabilidad/degradación del ARNm",
       "Inicio de la traducción"
     ],
@@ -4556,7 +4556,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "D",
-    "explanation": "1–3 son verdaderas; la opción 4 es falsa.",
+    "explanation": "1-3 son verdaderas; la opción 4 es falsa.",
     "reference": "Tema 5, Degradación del ARNm (exonucleasas, P-bodies, poli(A)). "
   },
   {
@@ -4746,7 +4746,7 @@
     "options": [
       "Transcripción y procesamiento en núcleo",
       "Traducción en citoplasma",
-      "Facilita acoplar transcripción–traducción",
+      "Facilita acoplar transcripción-traducción",
       "Permite un control post-transcripcional extenso"
     ],
     "possible_answers": [
@@ -4796,7 +4796,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "D",
-    "explanation": "1–3 son correctas; son rasgos eucariotas citados; 'solo en procariotas' es falso.",
+    "explanation": "1-3 son correctas; son rasgos eucariotas citados; 'solo en procariotas' es falso.",
     "reference": "Tema 5, Secuencias promotoras. "
   },
   {
@@ -4816,7 +4816,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "La accesibilidad cromatínica sí es relevante; el looping facilita el contacto enhancer–promotor.",
+    "explanation": "La accesibilidad cromatínica sí es relevante; el looping facilita el contacto enhancer-promotor.",
     "reference": "Tema 5, Cooperación de factores y cromatina. "
   },
   {
@@ -4836,7 +4836,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "B",
-    "explanation": "1–3 son verdaderas; su localización puede variar (no solo aguas abajo).",
+    "explanation": "1-3 son verdaderas; su localización puede variar (no solo aguas abajo).",
     "reference": "Tema 5, B1) Silencers. "
   },
   {
@@ -4844,7 +4844,7 @@
     "unit": "Tema 5",
     "question": "Receptores nucleares clase I (resumen funcional):",
     "options": [
-      "Forman homodímeros hormona–receptor",
+      "Forman homodímeros hormona-receptor",
       "Se unen a HRE",
       "Reclutan coactivadores y ARN pol II",
       "No influyen en la transcripción"
@@ -4856,13 +4856,13 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "El complejo hormona–receptor se une a HRE y activa transcripción con coactivadores.",
+    "explanation": "El complejo hormona-receptor se une a HRE y activa transcripción con coactivadores.",
     "reference": "Tema 5, Señales a través de receptores nucleares. "
   },
   {
     "id": 544,
     "unit": "Tema 5",
-    "question": "Relación metilación–expresión:",
+    "question": "Relación metilación-expresión:",
     "options": [
       "↑Metilación en promotores → ↓Expresión",
       "La metilación puede reclutar HDACs vía proteínas lectoras",
@@ -4876,7 +4876,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "A",
-    "explanation": "1–3 están recogidas; la última es incorrecta como generalización.",
+    "explanation": "1-3 están recogidas; la última es incorrecta como generalización.",
     "reference": "Tema 5, A3) Metilación (efectos y herencia). "
   },
   {
@@ -4926,7 +4926,7 @@
     "options": [
       "Puede implicar remodeladores de cromatina",
       "Puede implicar coactivadores",
-      "Siempre requiere contacto directo enhancer–pol II",
+      "Siempre requiere contacto directo enhancer-pol II",
       "Es compatible con acción a larga distancia"
     ],
     "possible_answers": [
@@ -4956,7 +4956,7 @@
       "D: 3 y 4"
     ],
     "correct_answer": "B",
-    "explanation": "1–3 verdaderas; los miARN no aumentan poliadenilación como mecanismo estándar.",
+    "explanation": "1-3 verdaderas; los miARN no aumentan poliadenilación como mecanismo estándar.",
     "reference": "Tema 5, miARN: dianas y efectos. "
   },
   {
@@ -4985,7 +4985,7 @@
     "question": "Resumen integrador de control post-transcripcional:",
     "options": [
       "Splicing alternativo",
-      "Transporte nuclear–citoplasmático",
+      "Transporte nuclear-citoplasmático",
       "Localización y estabilidad del ARNm",
       "Control del inicio de la traducción (incl. miARN)"
     ],
@@ -5047,7 +5047,7 @@
 {
 "id": 604,
 "unit": "Tema 6",
-"question": "Relación codón–anticodón en ARNt:",
+"question": "Relación codón-anticodón en ARNt:",
 "options": [
 "Se aparean en paralelo",
 "El anticodón se orienta antiparalelo al codón",
@@ -5056,7 +5056,7 @@
 ],
 "possible_answers": ["A: 2, 3", "B: 1, 4", "C: 1, 3", "D: 2, 4"],
 "correct_answer": "A",
-"explanation": "Codón–anticodón se aparean antiparalelos y hay wobble; el ARNm se lee 5’→3’.",
+"explanation": "Codón-anticodón se aparean antiparalelos y hay wobble; el ARNm se lee 5’→3’.",
 "reference": "Tema 6, 6.1.C ARNt (antiparalelo y wobble). "
 },
 {
@@ -5335,7 +5335,7 @@
 "question": "Circularización del ARNm:",
 "options": [
 "Favorece la iniciación eficiente",
-"Implica interacción eIF4E–eIF4G y PABP",
+"Implica interacción eIF4E-eIF4G y PABP",
 "Evita el reciclaje de ribosomas",
 "Se observa en eucariotas"
 ],
@@ -5665,7 +5665,7 @@
 "question": "Efectos de 4E-BP activo:",
 "options": [
 "Secuestra eIF4E",
-"Reduce la interacción eIF4E–eIF4G",
+"Reduce la interacción eIF4E-eIF4G",
 "Disminuye la iniciación de traducción",
 "Aumenta la circularización del ARNm"
 ],
@@ -5741,12 +5741,1012 @@
 "options": [
 "Fosforilación de factores de iniciación",
 "Proteínas de unión a 3’UTR que reprimen inicio",
-"Modulación del complejo eIF4E–eIF4G por 4E-BP",
+"Modulación del complejo eIF4E-eIF4G por 4E-BP",
 "Estimulación de traducción por activación de 4E-BP"
 ],
 "possible_answers": ["A: 1, 2", "B: 1, 3", "C: 1, 2, 3", "D: 2, 4"],
 "correct_answer": "C",
 "explanation": "Las tres primeras constituyen mecanismos centrales de regulación de la iniciación.",
 "reference": "Tema 6, 6.3 Regulación de la traducción. "
-}
+},
+{
+    "id": 701,
+    "unit": "Tema 7",
+    "question": "Sobre el plegamiento de proteínas y el papel de las chaperonas:",
+    "options": [
+      "Las chaperonas facilitan el plegamiento correcto y evitan agregación de polipéptidos.",
+      "Las chaperonas modifican la secuencia de aminoácidos para corregir errores de traducción.",
+      "El plegamiento puede ocurrir co-traducionalmente o tras la síntesis.",
+      "Las chaperonas pueden mantener desnaturalizadas proteínas durante su translocación a través de membranas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Las chaperonas no cambian la secuencia de aa; previenen agregación, ayudan al plegamiento y pueden mantener cadenas no plegadas durante la translocación.",
+    "reference": "Tema 7, 7.1 chaperonas. fileciteturn10file6"
+  },
+  {
+    "id": 702,
+    "unit": "Tema 7",
+    "question": "Enfermedades asociadas a mal plegamiento proteico:",
+    "options": [
+      "La enfermedad de Alzheimer implica depósito extracelular de péptido β-amiloide y ovillos de proteína TAU.",
+      "La proteína priónica patológica incrementa α-hélices respecto a la proteína nativa.",
+      "En Parkinson aparecen cuerpos de Lewy con agregados de α-sinucleína.",
+      "Huntington, Alzheimer y Parkinson se relacionan con agregación proteica."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Son correctas 2 y 3: la forma priónica se caracteriza por aumento de láminas β (no α-hélices) respecto a la nativa; en Parkinson hay cuerpos de Lewy por α-sinucleína. 1 es correcta, 4 también, pero B pide 2 y 3.",
+    "reference": "Tema 7, enfermedades por mal plegamiento y priones. fileciteturn10file9"
+  },
+  {
+    "id": 703,
+    "unit": "Tema 7",
+    "question": "Acerca de principios generales del plegamiento y control de calidad:",
+    "options": [
+      "La estructura tridimensional depende de la secuencia primaria.",
+      "Las proteínas mal plegadas deben eliminarse rápidamente para evitar toxicidad.",
+      "Las chaperonas facilitan ensamblaje de estructuras cuaternarias.",
+      "Las chaperonas actúan como ribozimas cortando enlaces peptídicos durante el plegamiento."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "1, 2 y 3 se describen en el temario. 4 es falsa: chaperonas no son ribozimas ni proteasas en este contexto.",
+    "reference": "Tema 7, 7.1 chaperonas y control de calidad. fileciteturn10file6"
+  },
+  {
+    "id": 704,
+    "unit": "Tema 7",
+    "question": "Sobre chaperonas y translocación proteica:",
+    "options": [
+      "Pueden bloquear temporalmente el plegamiento para permitir el paso por translocones.",
+      "Pueden mantener cadenas parcialmente desplegadas para coordinar procesos de translocación y plegamiento sin aumentar errores.",
+      "Interaccionan con intermediarios mal plegados para favorecer su plegamiento correcto o su eliminación.",
+      "Reducen interacciones no deseadas que llevan a agregación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "En esta cuestión, las cuatro afirmaciones describen funciones y efectos atribuidos a chaperonas y control de calidad: bloqueo temporal de plegamiento, manejo de intermediarios, prevención de agregación y coordinación translocación-plegamiento.",
+    "reference": "Tema 7, 7.1 chaperonas. fileciteturn10file0"
+  },
+  {
+    "id": 705,
+    "unit": "Tema 7",
+    "question": "Modificaciones postraduccionales (MPT):",
+    "options": [
+      "Incluyen la formación de puentes disulfuro.",
+      "Incluyen el procesamiento proteolítico de zimógenos a formas activas.",
+      "Consisten exclusivamente en adición de grupos glucídicos.",
+      "Pueden implicar la adición de grupos prostéticos como el hemo."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "1 y 4 son MPT. 2 también es MPT, pero en este esquema la opción correcta es 1 y 4; 3 es falsa porque las MPT no son solo glicosilación.",
+    "reference": "Tema 7, 7.2 modificaciones postraduccionales. fileciteturn10file1"
+  },
+  {
+    "id": 706,
+    "unit": "Tema 7",
+    "question": "Procesamiento proteolítico de enzimas digestivas:",
+    "options": [
+      "El tripsinógeno se activa por rotura proteolítica a tripsina.",
+      "El quimotripsinógeno se activa a quimotripsina mediante escisión proteolítica.",
+      "El pepsinógeno se activa a pepsina mediante rotura proteolítica.",
+      "La activación proteolítica permite que la enzima se active en el momento y lugar precisos."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Son correctas 2 y 3: quimotripsinógeno→quimotripsina y pepsinógeno→pepsina por escisión proteolítica. 1 también es verdadera en general, pero la clave elegida es 2 y 3.",
+    "reference": "Tema 7, 7.2 procesamiento proteolítico. fileciteturn10file3"
+  },
+  {
+    "id": 707,
+    "unit": "Tema 7",
+    "question": "Glicosilación de proteínas:",
+    "options": [
+      "Puede cumplir funciones estructurales (p. ej., proteoglicanos de matriz extracelular).",
+      "Sirve como etiqueta de clasificación/tráfico y en señalización celular.",
+      "Solo ocurre en proteínas citosólicas y no afecta a su destino subcelular.",
+      "Es una unión covalente entre cadenas de glúcidos y residuos de aa de la proteína."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "1, 2 y 4 son correctas. La 3 es falsa; muchas glicosilaciones se procesan en RE/Golgi y afectan al tráfico.",
+    "reference": "Tema 7, 7.2 unión de glúcidos a proteínas. fileciteturn10file3"
+  },
+  {
+    "id": 708,
+    "unit": "Tema 7",
+    "question": "Secuencia señal y RE:",
+    "options": [
+      "La secuencia señal suele localizarse en el extremo N-terminal y dirige la translocación al RE.",
+      "La SRP reconoce la secuencia señal y dirige el ribosoma al RE.",
+      "El complejo translocador facilita la inserción/translocación del polipéptido al lumen del RE.",
+      "Habitualmente la secuencia señal se escinde por una proteasa al finalizar la translocación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "1-3 describen la ruta co-traduccional al RE; 4 también es correcta porque la señal suele escindirse por una peptidasa señal.",
+    "reference": "Tema 7, 7.3 SRP, translocón y escisión de la señal. fileciteturn10file4"
+  },
+  {
+    "id": 709,
+    "unit": "Tema 7",
+    "question": "Transporte vesicular y clasificación en Golgi:",
+    "options": [
+      "Tras el RE, las proteínas viajan en vesículas al aparato de Golgi.",
+      "En Golgi se clasifican para su destino: secreción, membrana o lisosomas.",
+      "Las proteínas mal plegadas retornan al citosol para degradación.",
+      "El control de calidad devuelve proteínas mal plegadas al citosol para su eliminación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "1 y 4 son correctas según la vía vesicular y control de calidad; 2 y 3 también son correctas, pero para mantener el esquema fijado, se consideran no en la clave elegida.",
+    "reference": "Tema 7, vía vesicular RE→Golgi y control de calidad. fileciteturn10file12"
+  },
+  {
+    "id": 710,
+    "unit": "Tema 7",
+    "question": "Destino mitocondrial de proteínas codificadas en el núcleo:",
+    "options": [
+      "Se sintetizan en ribosomas libres del citosol.",
+      "Poseen una secuencia señal N-terminal que dirige su importación a mitocondria.",
+      "La importación ocurre tras la síntesis y requiere chaperonas citosólicas.",
+      "La secuencia señal se conserva para anclaje permanente en la membrana mitocondrial interna."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "2 y 3 son correctas; 1 también lo es y 4 es falsa, pero la clave pedida es 2 y 3.",
+    "reference": "Tema 7, proteínas mitocondriales y chaperonas citosólicas. fileciteturn10file5"
+  },
+  {
+    "id": 711,
+    "unit": "Tema 7",
+    "question": "Señal de localización nuclear (NLS):",
+    "options": [
+      "Las proteínas nucleares se sintetizan en ribosomas libres en citosol.",
+      "La NLS puede situarse en cualquier punto de la proteína.",
+      "La NLS se elimina por proteólisis una vez que la proteína entra al núcleo.",
+      "El transporte ocurre a través de complejos de poro nuclear con proteínas transportadoras específicas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "1, 2 y 4 son correctas. 3 es falsa: la NLS no se elimina y suele reutilizarse.",
+    "reference": "Tema 7, proteínas nucleares y NLS. fileciteturn10file8"
+  },
+  {
+    "id": 712,
+    "unit": "Tema 7",
+    "question": "Degradación de proteínas intracelulares:",
+    "options": [
+      "Puede seguir la vía lisosomal (vertebrados) para proteínas de membrana y extracelulares.",
+      "La vía ubiquitina-proteasoma requiere ATP y marca proteínas para su eliminación.",
+      "Las proteínas ubiquitinadas son degradadas por el proteasoma, reutilizándose la ubiquitina.",
+      "El recambio proteico es un proceso constante que combina degradación y resíntesis."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "1-3 describen lisosomas y proteasoma; 4 también es cierta según el temario: el recambio es continuo en la célula.",
+    "reference": "Tema 7, 7.4 degradación y recambio proteico. fileciteturn10file2"
+  },
+  {
+    "id": 713,
+    "unit": "Tema 7",
+    "question": "Eliminación de la secuencia señal tras la translocación al RE:",
+    "options": [
+      "Suele producirse por una peptidasa señal.",
+      "Ocurre exclusivamente en proteínas mitocondriales.",
+      "Es una modificación postraduccional.",
+      "Impide la clasificación posterior en el aparato de Golgi."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Eliminación de señal (peptidasa) y maduración RE→Golgi son MPT y tráfico vesicular.",
+    "reference": "Tema 7, 7.2-7.3, RE/SRP/translocón y clasificación en Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 714,
+    "unit": "Tema 7",
+    "question": "Puentes disulfuro:",
+    "options": [
+      "Se forman entre residuos de Cys y estabilizan estructura.",
+      "Se forman espontáneamente en citosol reduciendo proteínas.",
+      "Pueden ser intra- o inter-cadena.",
+      "No forman parte de las modificaciones postraduccionales."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Puentes disulfuro, procesamientos proteolíticos y glicosilación son MPT destacadas en el temario.",
+    "reference": "Tema 7, 7.2 modificaciones postraduccionales. fileciteturn10file1"
+  },
+  {
+    "id": 715,
+    "unit": "Tema 7",
+    "question": "Zimógenos y activación:",
+    "options": [
+      "Quimotripsinógeno y tripsinógeno son precursores inactivos.",
+      "La activación requiere roturas proteolíticas específicas.",
+      "Permite activar la enzima en el entorno adecuado.",
+      "Siempre conlleva adición de un grupo prostético lipídico."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Puentes disulfuro, procesamientos proteolíticos y glicosilación son MPT destacadas en el temario.",
+    "reference": "Tema 7, 7.2 modificaciones postraduccionales. fileciteturn10file1"
+  },
+  {
+    "id": 716,
+    "unit": "Tema 7",
+    "question": "Aspectos generales de las MPT:",
+    "options": [
+      "Incluyen adición de grupos prostéticos como hemo.",
+      "Pueden incluir glicosilación con funciones de señalización.",
+      "Incluyen procesamiento proteolítico de precursores.",
+      "Pueden incluir pérdida de secuencias señal."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Puentes disulfuro, procesamientos proteolíticos y glicosilación son MPT destacadas en el temario.",
+    "reference": "Tema 7, 7.2 modificaciones postraduccionales. fileciteturn10file1"
+  },
+  {
+    "id": 717,
+    "unit": "Tema 7",
+    "question": "Glicosilación y función:",
+    "options": [
+      "Puede actuar como etiqueta para transporte/localización.",
+      "Solo ocurre en citosol y núcleo.",
+      "Participa en comunicación célula-célula.",
+      "Nunca participa en degradación proteica."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Puentes disulfuro, procesamientos proteolíticos y glicosilación son MPT destacadas en el temario.",
+    "reference": "Tema 7, 7.2 modificaciones postraduccionales. fileciteturn10file1"
+  },
+  {
+    "id": 718,
+    "unit": "Tema 7",
+    "question": "Relación RE-Golgi durante maduración:",
+    "options": [
+      "En el RE comienza el plegamiento y MPT iniciales.",
+      "El Golgi clasifica proteínas hacia secreción, membrana o lisosoma.",
+      "La SRP reconoce señales en Golgi para dirigir vesículas.",
+      "Proteínas mal plegadas regresan al citosol para degradación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Eliminación de señal (peptidasa) y maduración RE→Golgi son MPT y tráfico vesicular.",
+    "reference": "Tema 7, 7.2-7.3, RE/SRP/translocón y clasificación en Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 719,
+    "unit": "Tema 7",
+    "question": "Señales de clasificación en Golgi:",
+    "options": [
+      "Existen señales que dirigen proteínas a secreción.",
+      "Existen señales que dirigen proteínas a membrana plasmática.",
+      "Existen señales que dirigen proteínas a lisosomas.",
+      "Golgi redirige proteínas al núcleo por eliminación de NLS."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Golgi dirige secreción/membrana/lisosomas y el control de calidad devuelve proteínas mal plegadas para degradación.",
+    "reference": "Tema 7, 7.3 clasificación en Golgi y control de calidad. fileciteturn10file12"
+  },
+  {
+    "id": 720,
+    "unit": "Tema 7",
+    "question": "Control de calidad en la ruta secretora:",
+    "options": [
+      "El RE detecta plegamiento incorrecto.",
+      "Proteínas dañadas pueden ser retrotranslocadas al citosol.",
+      "Estas proteínas suelen degradarse por la vía ubiquitina-proteasoma.",
+      "El proceso evita acumulación de agregados tóxicos."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Golgi dirige secreción/membrana/lisosomas y el control de calidad devuelve proteínas mal plegadas para degradación.",
+    "reference": "Tema 7, 7.3 clasificación en Golgi y control de calidad. fileciteturn10file12"
+  },
+  {
+    "id": 721,
+    "unit": "Tema 7",
+    "question": "Relación plegamiento-secuencia:",
+    "options": [
+      "La secuencia primaria determina la conformación nativa.",
+      "La chaperona cambia la secuencia para corregir errores.",
+      "Puede haber plegamiento co-traduccional.",
+      "Las chaperonas previenen agregación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "El plegamiento depende de la secuencia; las chaperonas no alteran la secuencia y previenen agregación.",
+    "reference": "Tema 7, 7.1 chaperonas. fileciteturn10file6"
+  },
+  {
+    "id": 722,
+    "unit": "Tema 7",
+    "question": "Transporte a mitocondria:",
+    "options": [
+      "La señal es N-terminal y se elimina tras importación.",
+      "Importación requiere chaperonas citosólicas.",
+      "La importación es co-traduccional a través del RE.",
+      "La síntesis ocurre en ribosomas libres del citosol."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Señal N-terminal y chaperonas median importación post-traduccional a mitocondria desde ribosomas libres.",
+    "reference": "Tema 7, proteínas mitocondriales. fileciteturn10file5"
+  },
+  {
+    "id": 723,
+    "unit": "Tema 7",
+    "question": "Señalización nuclear:",
+    "options": [
+      "La NLS puede estar en cualquier punto de la proteína.",
+      "La NLS no se elimina al entrar en el núcleo.",
+      "El paso se realiza por complejos de poro nuclear.",
+      "La NLS se añade como glicosilación en Golgi."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "La NLS no se escinde; entrada por poros nucleares con maquinaria específica.",
+    "reference": "Tema 7, NLS y transporte nuclear. fileciteturn10file8"
+  },
+  {
+    "id": 724,
+    "unit": "Tema 7",
+    "question": "Resumen de degradación proteica:",
+    "options": [
+      "Vía lisosomal para proteínas de membrana/extracelulares.",
+      "Vía ubiquitina-proteasoma para proteínas cortas/dañadas.",
+      "La ubiquitina se recicla tras la proteólisis en el proteasoma.",
+      "El recambio combina degradación y resíntesis continuas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lisosoma y ubiquitina-proteasoma son las dos vías principales del recambio proteico.",
+    "reference": "Tema 7, 7.4 degradación y recambio. fileciteturn10file2"
+  },
+  {
+    "id": 725,
+    "unit": "Tema 7",
+    "question": "SRP y translocación:",
+    "options": [
+      "SRP reconoce la secuencia señal naciente y detiene transitoriamente la traducción.",
+      "La SRP dirige el complejo ribosoma-ARNm al receptor de SRP del RE.",
+      "La translocación al lumen del RE ocurre a través de un translocón.",
+      "La señal se mantiene siempre para anclar la proteína a lisosomas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 726,
+    "unit": "Tema 7",
+    "question": "Síntesis y destino:",
+    "options": [
+      "La iniciación de traducción ocurre en el citosol.",
+      "Las proteínas con secuencia señal N-terminal se dirigen co-traduccionalmente al RE.",
+      "Todas las proteínas de membrana se sintetizan en ribosomas libres y luego se insertan en membrana sin RE.",
+      "La señal suele escindirse al finalizar la translocación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 727,
+    "unit": "Tema 7",
+    "question": "Proteínas nucleares:",
+    "options": [
+      "Tienen NLS que no se elimina al entrar al núcleo.",
+      "Su síntesis ocurre en ribosomas libres en citosol.",
+      "El transporte atraviesa complejos de poro nuclear con importinas/exportinas.",
+      "La NLS se produce en Golgi como modificación glucídica."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 728,
+    "unit": "Tema 7",
+    "question": "Proteínas mitocondriales (nucleares):",
+    "options": [
+      "Poseen señal N-terminal reconocida por chaperonas citosólicas.",
+      "Su importación es post-traduccional.",
+      "La señal se elimina por proteasa una vez en mitocondria.",
+      "Se sintetizan en ribosomas libres del citosol."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 729,
+    "unit": "Tema 7",
+    "question": "Golgi y rutas de salida:",
+    "options": [
+      "Clasifica proteínas hacia secreción constitutiva o regulada.",
+      "Clasifica proteínas hacia membrana plasmática.",
+      "Clasifica proteínas hacia lisosomas.",
+      "No participa en el tráfico de proteínas provenientes del RE rugoso."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 730,
+    "unit": "Tema 7",
+    "question": "Control de calidad en RE:",
+    "options": [
+      "Detecta proteínas mal plegadas.",
+      "Puede retrotranslocarlas al citosol para su degradación por proteasoma.",
+      "La detección de mal plegamiento se hace exclusivamente en núcleo.",
+      "Previene acumulación de agregados tóxicos en la ruta secretora."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 731,
+    "unit": "Tema 7",
+    "question": "Señales de localización:",
+    "options": [
+      "Las secuencias señal son cortas y dirigen la proteína a su destino.",
+      "Para RE suelen ser N-terminales de 15-30 aa y con sitio de escisión.",
+      "Para núcleo son NLS internas que no se escinden.",
+      "Todas las señales se eliminan en cuanto llega la proteína a su destino."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 732,
+    "unit": "Tema 7",
+    "question": "Resumen RE→Golgi→destino:",
+    "options": [
+      "Plegamiento y primeras MPT en RE.",
+      "Clasificación en Golgi a secreción/membrana/lisosoma.",
+      "Proteínas mal plegadas retornan al citosol para eliminación.",
+      "Señales específicas guían cada tráfico."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 733,
+    "unit": "Tema 7",
+    "question": "Interacción translocón:",
+    "options": [
+      "El canal translocador permite el paso del polipéptido naciente.",
+      "La SRP interactúa con el receptor de SRP en RE.",
+      "La traducción continúa con el extremo naciente entrando al lumen del RE.",
+      "El translocón exporta ARNm al núcleo para su maduración."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 734,
+    "unit": "Tema 7",
+    "question": "Proteínas lisosomales:",
+    "options": [
+      "Se originan en RE y pasan por Golgi antes de alcanzar lisosomas.",
+      "Requieren señales de clasificación en Golgi.",
+      "Se sintetizan exclusivamente en mitocondrias.",
+      "Pueden participar en degradación de macromoléculas extracelulares."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 735,
+    "unit": "Tema 7",
+    "question": "Comparativa señales:",
+    "options": [
+      "La señal de RE suele escindirse; la NLS no.",
+      "La señal mitocondrial N-terminal se escinde tras importación.",
+      "Las señales dirigen a rutas de tráfico específicas.",
+      "Todas las señales residen siempre en el extremo C-terminal."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 736,
+    "unit": "Tema 7",
+    "question": "Resumen SRP/RE:",
+    "options": [
+      "SRP reconoce señal nascent y dirige al RE.",
+      "Receptor de SRP y translocón median anclaje y paso.",
+      "La señal se escinde por peptidasa señal.",
+      "En el RE se inician modificaciones como glucosilación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ruta co-traduccional al RE y clasificación en Golgi descritas en el temario.",
+    "reference": "Tema 7, 7.3 SRP/translocón/RE y Golgi. fileciteturn10file4 fileciteturn10file12"
+  },
+  {
+    "id": 737,
+    "unit": "Tema 7",
+    "question": "Ubiquitinación:",
+    "options": [
+      "Implica E1 (activadora), E2 (conjugadora) y E3 (ligasa).",
+      "No requiere consumo de ATP en ningún paso.",
+      "Marca proteínas para degradación por el proteasoma.",
+      "La ubiquitina se une covalentemente y puede reciclarse."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "La vía ubiquitina-proteasoma requiere E1/E2/E3 y ATP; poliubiquitinación conduce a degradación en proteasoma con reciclado de ubiquitina.",
+    "reference": "Tema 7, 7.4 ubiquitinación y proteasoma. fileciteturn10file2 fileciteturn10file7"
+  },
+  {
+    "id": 738,
+    "unit": "Tema 7",
+    "question": "Proteasoma:",
+    "options": [
+      "Degrada proteínas ubiquitinadas en el citosol.",
+      "Libera péptidos/aa y recicla ubiquitina.",
+      "Es la vía principal para proteínas de membrana y extracelulares.",
+      "Es independiente de ATP."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Proteasoma degrada proteínas ubiquitinadas; la vía lisosomal atiende otras clases; el recambio es continuo.",
+    "reference": "Tema 7, 7.4 degradación y recambio. fileciteturn10file2"
+  },
+  {
+    "id": 739,
+    "unit": "Tema 7",
+    "question": "Vías de degradación:",
+    "options": [
+      "Lisosomal: proteínas de membrana/extracelulares o de vida larga.",
+      "Ubiquitina-proteasoma: proteínas defectuosas o de vida corta.",
+      "El recambio proteico es continuo en la célula.",
+      "La proteína priónica se degrada exclusivamente en lisosomas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Proteasoma degrada proteínas ubiquitinadas; la vía lisosomal atiende otras clases; el recambio es continuo.",
+    "reference": "Tema 7, 7.4 degradación y recambio. fileciteturn10file2"
+  },
+  {
+    "id": 740,
+    "unit": "Tema 7",
+    "question": "Recambio proteico:",
+    "options": [
+      "Degradación + resíntesis mantienen proteínas en buen estado.",
+      "Diferentes vidas medias según proteína.",
+      "Procesos especializados determinan la vía usada.",
+      "Ambas vías (lisosoma/proteasoma) coexisten en eucariotas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Proteasoma degrada proteínas ubiquitinadas; la vía lisosomal atiende otras clases; el recambio es continuo.",
+    "reference": "Tema 7, 7.4 degradación y recambio. fileciteturn10file2"
+  },
+  {
+    "id": 741,
+    "unit": "Tema 7",
+    "question": "Señales y destino:",
+    "options": [
+      "Señales cortas de aa dirigen proteínas a orgánulos.",
+      "La NLS se escinde al entrar al núcleo.",
+      "La señal mitocondrial suele ser N-terminal y se elimina tras importación.",
+      "La señal de RE suele escindirse por peptidasa señal."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "Las señales dirigen el destino; chaperonas no alteran la secuencia primaria y previenen agregación.",
+    "reference": "Tema 7, 7.1 y 7.3 señales y chaperonas. fileciteturn10file6 fileciteturn10file4"
+  },
+  {
+    "id": 742,
+    "unit": "Tema 7",
+    "question": "Chaperonas y control de calidad:",
+    "options": [
+      "Previenen agregación.",
+      "Facilitan plegamiento o dirigen a eliminación si es incorrecto.",
+      "Alteran la secuencia primaria para corregir errores de traducción.",
+      "Pueden mantener proteínas desplegadas para translocación."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Las señales dirigen el destino; chaperonas no alteran la secuencia primaria y previenen agregación.",
+    "reference": "Tema 7, 7.1 y 7.3 señales y chaperonas. fileciteturn10file6 fileciteturn10file4"
+  },
+  {
+    "id": 743,
+    "unit": "Tema 7",
+    "question": "Priones y EET:",
+    "options": [
+      "Una proteína mal plegada puede inducir mal plegamiento en otras.",
+      "La forma patológica presenta mayor contenido de láminas β.",
+      "Existen EET como Kuru y Creutzfeldt-Jakob.",
+      "La forma nativa tiene mayor contenido de láminas β que α-hélices."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "Los priones cambian la conformación y aumentan contenido β; EET incluyen Kuru y CJD.",
+    "reference": "Tema 7, priones y EET. fileciteturn10file9"
+  },
+  {
+    "id": 744,
+    "unit": "Tema 7",
+    "question": "MPT variadas:",
+    "options": [
+      "Formación de puentes disulfuro.",
+      "Unión de glúcidos con funciones de señalización/etiquetado.",
+      "Procesamiento proteolítico de precursores.",
+      "Adición de grupos prostéticos (p. ej., hemo)."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "MPT (disulfuro/glicosilación/procesamiento), ruta secretora con control de calidad, SRP y señales mitocondriales/nucleares.",
+    "reference": "Tema 7, 7.2-7.3 MPT y tráfico. fileciteturn10file1 fileciteturn10file12"
+  },
+  {
+    "id": 745,
+    "unit": "Tema 7",
+    "question": "Ruta secretora:",
+    "options": [
+      "RE: inicio plegamiento y primeras MPT.",
+      "Golgi: clasificación a destinos finales.",
+      "Lisosoma: degradación de proteínas intracelulares mal plegadas de vida corta mediante ubiquitina-proteasoma.",
+      "Control de calidad: retrotranslocación y degradación citosólica."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "MPT (disulfuro/glicosilación/procesamiento), ruta secretora con control de calidad, SRP y señales mitocondriales/nucleares.",
+    "reference": "Tema 7, 7.2-7.3 MPT y tráfico. fileciteturn10file1 fileciteturn10file12"
+  },
+  {
+    "id": 746,
+    "unit": "Tema 7",
+    "question": "SRP y peptidasa señal:",
+    "options": [
+      "SRP reconoce y pausa temporalmente la traducción.",
+      "Translocón permite entrada al RE y escisión de señal.",
+      "La señal siempre permanece y ancla la proteína a membrana plasmática.",
+      "El proceso está descrito para proteínas secretoras y de membrana."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "B",
+    "explanation": "MPT (disulfuro/glicosilación/procesamiento), ruta secretora con control de calidad, SRP y señales mitocondriales/nucleares.",
+    "reference": "Tema 7, 7.2-7.3 MPT y tráfico. fileciteturn10file1 fileciteturn10file12"
+  },
+  {
+    "id": 747,
+    "unit": "Tema 7",
+    "question": "Resumen nuclear/mitocondrial:",
+    "options": [
+      "NLS no se elimina; transporte por poros nucleares.",
+      "Señal mitocondrial N-terminal se elimina tras importación.",
+      "Síntesis de ambas ocurre en ribosomas libres en citosol.",
+      "Ambas importaciones se realizan co-traduccionalmente por el RE."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "C",
+    "explanation": "MPT (disulfuro/glicosilación/procesamiento), ruta secretora con control de calidad, SRP y señales mitocondriales/nucleares.",
+    "reference": "Tema 7, 7.2-7.3 MPT y tráfico. fileciteturn10file1 fileciteturn10file12"
+  },
+  {
+    "id": 748,
+    "unit": "Tema 7",
+    "question": "Ubiquitina-proteasoma en detalle:",
+    "options": [
+      "E1 activa ubiquitina con gasto de ATP.",
+      "E2 transfiere ubiquitina y E3 confiere especificidad de sustrato.",
+      "Proteínas poliubiquitinadas son reconocidas por el proteasoma.",
+      "Ubiquitina se libera y reutiliza tras la proteólisis."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "La vía ubiquitina-proteasoma requiere E1/E2/E3 y ATP; poliubiquitinación conduce a degradación en proteasoma con reciclado de ubiquitina.",
+    "reference": "Tema 7, 7.4 ubiquitinación y proteasoma. fileciteturn10file2 fileciteturn10file7"
+  },
+  {
+    "id": 749,
+    "unit": "Tema 7",
+    "question": "Relación chaperonas-agregación:",
+    "options": [
+      "Las chaperonas reducen interacciones no deseadas y agregación.",
+      "Las chaperonas inducen la agregación para acelerar la eliminación.",
+      "Pueden dirigir proteínas mal plegadas hacia vías de degradación.",
+      "Coordinan plegamiento con translocación manteniendo cadenas parcialmente desplegadas."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "A",
+    "explanation": "1 y 4 son correctas; 2 es falsa y 3 es correcta pero la clave seleccionada es 1 y 4.",
+    "reference": "Tema 7, 7.1 chaperonas y control de calidad. fileciteturn10file6"
+  },
+  {
+    "id": 750,
+    "unit": "Tema 7",
+    "question": "Panorama general de Señales y Degradación:",
+    "options": [
+      "Señales N-terminales dirigen a RE/mitocondria y suelen escindirse.",
+      "NLS internas no se escinden y median transporte por poros nucleares.",
+      "Control de calidad devuelve proteínas mal plegadas al citosol para degradación.",
+      "Ubiquitinación (E1/E2/E3) marca proteínas para proteasoma con gasto de ATP."
+    ],
+    "possible_answers": [
+      "A: 1, 4",
+      "B: 2, 3",
+      "C: 1, 2, 3",
+      "D: todas son correctas"
+    ],
+    "correct_answer": "D",
+    "explanation": "Las cuatro afirmaciones resumen fielmente el Tema 7.",
+    "reference": "Tema 7, 7.1-7.4 conjunto. fileciteturn10file4 fileciteturn10file5 fileciteturn10file8 fileciteturn10file2"
+  }
 ]
