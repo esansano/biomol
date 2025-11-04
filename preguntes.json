@@ -998,5 +998,1005 @@
 "correct_answer": "A",
 "explanation": "Tema 1 agrupa el control en cantidad, actividad y accesibilidad; negar cambios intracelulares es erróneo. ",
 "reference": "Tema 1, 1.3 (síntesis). "
+},
+{
+"id": 1,
+"unit": "Tema 2",
+"question": "La comunicación intercelular en organismos multicelulares:",
+"options": [
+"Coordina actividades metabólicas de distintos tipos celulares",
+"Requiere receptores específicos en la superficie celular",
+"Se transmite mediante vías de transducción de señales",
+"No necesita receptores para ocurrir"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario introduce la comunicación intercelular como coordinación entre tejidos mediante señales que actúan sobre receptores y activan vías de transducción.",
+"reference": "Tema 2 (2.1 Tipos de señales y concepto general). "
+},
+{
+"id": 2,
+"unit": "Tema 2",
+"question": "Entre los tipos de señales reconocidas por las células se incluyen:",
+"options": [
+"Hormonas",
+"Factores de crecimiento",
+"ARNs no codificantes",
+"Exclusivamente neurotransmisores"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 enumera hormonas, factores de crecimiento, neurotransmisores, toxinas/mediadores, disruptores endocrinos, ARNs no codificantes y vesículas extracelulares.",
+"reference": "Tema 2 (2.1 Listado de señales). "
+},
+{
+"id": 3,
+"unit": "Tema 2",
+"question": "Las hormonas, según Tema 2:",
+"options": [
+"Se producen en un tejido y actúan en otros tras viajar por sangre",
+"Siempre son hidrofílicas y entran por difusión simple",
+"Actúan mediante receptores específicos en la célula diana",
+"Coordinan actividades metabólicas entre órganos/tejidos"
+],
+"possible_answers": [
+"A: 1, 3, 4",
+"B: 2, 3",
+"C: 1, 2",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario define hormonas como señales circulantes que actúan sobre receptores específicos y coordinan funciones entre tejidos; no ‘siempre’ son hidrofílicas.",
+"reference": "Tema 2 (Hormonas: definición y función). "
+},
+{
+"id": 4,
+"unit": "Tema 2",
+"question": "Sobre el óxido nítrico (NO) en el contexto de las hormonas:",
+"options": [
+"Se incluye en definiciones amplias de ‘hormona’ como señal local de corta duración",
+"Actúa exclusivamente a largas distancias",
+"Puede activar receptores guanilil ciclasa solubles",
+"Es hidrofóbico y siempre necesita transportadores plasmáticos"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 3",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "En Tema 2 se menciona NO como señal local de corta duración; su diana clásica es la guanilil ciclasa soluble (ampliado en apartados posteriores).",
+"reference": "Tema 2 (nota sobre NO) y Receptores guanilil ciclasa. "
+},
+{
+"id": 5,
+"unit": "Tema 2",
+"question": "Los factores de crecimiento:",
+"options": [
+"Son señales reconocidas por receptores específicos",
+"Suelen promover proliferación y/o diferenciación",
+"No se consideran dentro de la comunicación intercelular",
+"Forman parte del repertorio de señales del Tema 2"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 los incluye explícitamente como señales y su papel típico está ligado a crecimiento y diferenciación.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 6,
+"unit": "Tema 2",
+"question": "Los neurotransmisores, según la introducción del Tema 2:",
+"options": [
+"Son un tipo de señal reconocido por receptores",
+"Actúan únicamente mediante receptores nucleares",
+"Participan en comunicación célula–célula",
+"No intervienen en vías de transducción de señales"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 2, 4",
+"C: 1, 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario los cita como señales; no actúan ‘únicamente’ por receptores nucleares y disparan vías de transducción.",
+"reference": "Tema 2 (2.1 Tipos de señales). "
+},
+{
+"id": 7,
+"unit": "Tema 2",
+"question": "Los ARNs no codificantes (ncRNA) en el contexto de señales:",
+"options": [
+"Se incluyen como señales reconocidas por las células",
+"Pueden modular la expresión génica",
+"Siempre actúan como hormonas clásicas",
+"Forman parte del listado de Tema 2"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 los incluye como señales; su efecto típico es modulador de expresión génica, no hormonas ‘clásicas’.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 8,
+"unit": "Tema 2",
+"question": "Sobre ‘toxinas y mediadores químicos’ en Tema 2:",
+"options": [
+"Se contemplan como señales externas",
+"No requieren receptores para ejercer efectos",
+"Pueden activar vías de transducción intracelular",
+"No se mencionan en el listado del Tema 2"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "El listado de señales de Tema 2 incluye toxinas/mediadores; su acción suele mediarse por receptores.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 9,
+"unit": "Tema 2",
+"question": "Los disruptores endocrinos, de acuerdo con la introducción:",
+"options": [
+"Se consideran señales que interfieren con rutas hormonales",
+"Son moléculas exógenas",
+"No alteran la comunicación intercelular",
+"Aparecen en el catálogo de señales del Tema 2"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 los lista como señales; por definición, interfieren la señalización endocrina.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 10,
+"unit": "Tema 2",
+"question": "Las vesículas extracelulares, en el marco de Tema 2:",
+"options": [
+"Se consideran un tipo de señal",
+"Pueden transportar proteínas, lípidos y ARN",
+"No median comunicación intercelular",
+"Incluyen a los exosomas como subtipo"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario las incluye como señales; el examen de ejemplo detalla su contenido y papel (exosomas).",
+"reference": "Tema 2 (2.1) y ejemplo de test. "
+},
+{
+"id": 11,
+"unit": "Tema 2",
+"question": "Respecto a los ‘modos de acción’ de señales hormonales en conjunto:",
+"options": [
+"Pueden actuar vía receptores de membrana",
+"Pueden actuar vía receptores nucleares",
+"No pueden modular factores de transcripción",
+"Un mismo sistema puede converger en regulación génica"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario presenta acción por receptores de membrana o nucleares, y convergencia en regulación génica.",
+"reference": "Tema 2 (visión general) y síntesis posterior de modos de acción. "
+},
+{
+"id": 12,
+"unit": "Tema 2",
+"question": "Concepto general de ‘segundos mensajeros’ en Tema 2:",
+"options": [
+"Se generan tras la activación del receptor",
+"Amplifican la señal intracelular",
+"Se difunden en compartimentos para modular múltiples procesos",
+"Son exclusivos de una única vía de señalización sin crosstalk"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 enfatiza su papel en amplificación, difusión y comunicación cruzada entre vías.",
+"reference": "Tema 2 (2.3.3). "
+},
+{
+"id": 13,
+"unit": "Tema 2",
+"question": "Efectos celulares finales de la transmisión de la información (Tema 2):",
+"options": [
+"Activación/inhibición de enzimas",
+"Modulación de factores de transcripción",
+"Regulación de bombas/canales y permeabilidad iónica",
+"Ausencia de cambios en vías metabólicas"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La sección 2.3.4 indica que la señalización regula enzimas, TFs y transporte iónico, alterando metabolismo y expresión génica.",
+"reference": "Tema 2 (2.3.4). "
+},
+{
+"id": 14,
+"unit": "Tema 2",
+"question": "Finalización de la señalización en Tema 2:",
+"options": [
+"Permite recuperar sensibilidad a nuevas señales",
+"Puede implicar desfosforilación por fosfatasas",
+"Debe producirse tras completarse la respuesta",
+"No es necesaria si la señal es beneficiosa"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario resalta la importancia de terminar la señal; las fosfatasas son uno de los mecanismos generales.",
+"reference": "Tema 2 (2.3.5). "
+},
+{
+"id": 15,
+"unit": "Tema 2",
+"question": "Sobre la amplificación de señal por segundos mensajeros:",
+"options": [
+"Pocos receptores activados pueden generar grandes cambios intracelulares",
+"Los segundos mensajeros pueden regular quinasas",
+"Siempre permanecen confinados en la membrana plasmática",
+"Pueden difundir y afectar diferentes procesos celulares"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 destaca amplificación, regulación de quinasas y difusión; no están ‘siempre’ confinados a membrana.",
+"reference": "Tema 2 (2.3.3–2.3.4). "
+},
+{
+"id": 16,
+"unit": "Tema 2",
+"question": "Sobre la existencia de ‘crosstalk’ entre vías de señalización:",
+"options": [
+"Puede ocurrir al compartirse un mismo segundo mensajero",
+"Hace imposible la regulación específica",
+"Está contemplado en Tema 2",
+"Implicaría que los segundos mensajeros no tienen función alguna"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "El temario menciona comunicación cruzada (cross talk) por uso de mensajeros comunes; no invalida la especificidad contextual.",
+"reference": "Tema 2 (2.3.3). "
+},
+{
+"id": 17,
+"unit": "Tema 2",
+"question": "Respecto a los receptores en la membrana plasmática (en la introducción):",
+"options": [
+"Las células expresan receptores específicos para las señales",
+"La unión señal–receptor inicia procesos de transducción",
+"No se requiere especificidad para la unión ligando–receptor",
+"Pueden existir familias de receptores con funciones diversas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 remarca especificidad de receptores y desencadenamiento de vías de señalización.",
+"reference": "Tema 2 (2.1 y concepto de receptor). "
+},
+{
+"id": 18,
+"unit": "Tema 2",
+"question": "Los efectos de la señalización sobre la expresión génica, a nivel general:",
+"options": [
+"Pueden ser mediados por fosforilación de factores de transcripción",
+"Pueden ser mediados por receptores nucleares",
+"No aparecen mencionados en el temario",
+"Son incompatibles con la regulación enzimática rápida"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario presenta ambos caminos como rutas de impacto sobre la transcripción (visión global).",
+"reference": "Síntesis de modos de acción y convergencia a genes. "
+},
+{
+"id": 19,
+"unit": "Tema 2",
+"question": "Sobre el tiempo de respuesta de distintas rutas de señalización (visión general):",
+"options": [
+"Vías que actúan sobre TFs via membrana pueden ser relativamente rápidas",
+"Receptores nucleares suelen producir efectos más a largo plazo",
+"Todas las vías tienen el mismo tiempo de respuesta",
+"El temario contempla diferencias temporales entre mecanismos"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Se distingue entre efectos rápidos (modificaciones postraduccionales) y cambios transcripcionales más lentos.",
+"reference": "Resumen de receptores nucleares vs membrana. "
+},
+{
+"id": 20,
+"unit": "Tema 2",
+"question": "En la transmisión de la información (Tema 2):",
+"options": [
+"Se regulan bombas y canales iónicos",
+"Se modulan vías metabólicas",
+"No existe regulación de la permeabilidad iónica",
+"Se afectan procesos como exocitosis o contracción vía quinasas dependientes de Ca2+-calmodulina"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 describe efectos sobre transporte iónico y quinasas dependientes de mensajeros (p. ej., Ca2+-calmodulina) afectando funciones celulares.",
+"reference": "Tema 2 (2.3.4) y nota sobre Ca2+-calmodulina. "
+},
+{
+"id": 21,
+"unit": "Tema 2",
+"question": "Objetivo de finalizar la señalización (Tema 2):",
+"options": [
+"Evitar respuestas sostenidas innecesarias",
+"Restaurar la capacidad de respuesta",
+"Se consigue, entre otros, por fosfatasas",
+"Es irrelevante para la homeostasis"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario subraya que la terminación adecuada evita consecuencias indeseadas y mantiene la homeostasis.",
+"reference": "Tema 2 (2.3.5). "
+},
+{
+"id": 22,
+"unit": "Tema 2",
+"question": "En el repertorio de señales de Tema 2:",
+"options": [
+"Las vesículas extracelulares se consideran mensajeros",
+"Los ncRNA pueden intervenir como señales",
+"Los disruptores endocrinos son irrelevantes",
+"Los factores de crecimiento están incluidos"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Todos ellos aparecen en el listado; los disruptores no son irrelevantes, interfieren la señalización.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 23,
+"unit": "Tema 2",
+"question": "Sobre el papel de la especificidad en la comunicación intercelular:",
+"options": [
+"Los receptores confieren especificidad a la respuesta",
+"Una misma señal siempre provoca la misma respuesta en cualquier célula",
+"El contexto celular condiciona la respuesta a una señal",
+"La existencia de familias de receptores contribuye a diversidad de efectos"
+],
+"possible_answers": [
+"A: 1, 3, 4",
+"B: 2, 4",
+"C: 1, 2",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 destaca receptores específicos y, por extensión, la dependencia del contexto y diversidad de familias receptoras.",
+"reference": "Tema 2 (2.1; concepto de receptor). "
+},
+{
+"id": 24,
+"unit": "Tema 2",
+"question": "Segundo mensajero y quinasas (visión Tema 2):",
+"options": [
+"Los 2º mensajeros pueden activar quinasas específicas",
+"Las quinasas transducen cambios en concentración del mensajero a fosforilación de dianas",
+"No existe relación entre 2º mensajeros y quinasas",
+"PKA es un ejemplo de quinasa regulada por un 2º mensajero"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 (2.3.4) menciona regulación de quinasas por 2º mensajeros; PKA es el ejemplo canónico mediado por AMPc.",
+"reference": "Tema 2 (2.3.4). "
+},
+{
+"id": 25,
+"unit": "Tema 2",
+"question": "Acerca de la difusión de segundos mensajeros:",
+"options": [
+"Permite coordinar múltiples procesos intracelulares",
+"Impide la amplificación de señal",
+"Contribuye a la comunicación cruzada entre vías",
+"No está contemplada en el temario"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "Se menciona explícitamente la difusión y el crosstalk como rasgos de los 2º mensajeros.",
+"reference": "Tema 2 (2.3.3). "
+},
+{
+"id": 26,
+"unit": "Tema 2",
+"question": "En la introducción, un ejemplo de señal y su receptor:",
+"options": [
+"Factor de crecimiento y receptor específico",
+"Cualquier señal entra sin receptor",
+"Disruptor endocrino y receptor hormonal al que interfiere",
+"ncRNA actuando sin interacción molecular alguna"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 subraya la necesidad de receptores y da ejemplo de factores de crecimiento; los disruptores actúan interfiriendo receptores/enzimas.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 27,
+"unit": "Tema 2",
+"question": "Sobre la naturaleza química de las hormonas en general:",
+"options": [
+"Existe diversidad estructural",
+"Comparten modos de acción básicos (membrana/nuclear)",
+"Todas son peptídicas",
+"Coordinan procesos como desarrollo y metabolismo"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 destaca diversidad química y funciones amplias, con modos de acción principales bien definidos.",
+"reference": "Tema 2 (2.1, clases y modos). "
+},
+{
+"id": 28,
+"unit": "Tema 2",
+"question": "Respecto a los agonistas y antagonistas (nociones generales):",
+"options": [
+"Un agonista imita la acción del mensajero endógeno",
+"Un antagonista bloquea el receptor sin activarlo",
+"Son conceptos ajenos a la señalización celular",
+"Aparecen en el ejemplo de examen"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El ejemplo de test del bloque I introduce expresamente agonistas y antagonistas.",
+"reference": "Actividad S4 (pregunta 10). "
+},
+{
+"id": 29,
+"unit": "Tema 2",
+"question": "Sobre la relación señal–respuesta a nivel de tejidos:",
+"options": [
+"La diferenciación celular implica especialización de respuestas",
+"La ‘división del trabajo’ requiere coordinación por señales",
+"Todas las células responden idénticamente a cualquier señal",
+"La comunicación intercelular integra actividades metabólicas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "En la introducción se alude a diferenciación, especialización y coordinación entre tejidos por señales.",
+"reference": "Tema 2 (introducción). "
+},
+{
+"id": 30,
+"unit": "Tema 2",
+"question": "Acerca de vesículas extracelulares como señales (visión general):",
+"options": [
+"Actúan como vehículos de información entre células",
+"Su carga puede incluir ARN y proteínas",
+"No se consideran dentro del temario",
+"Solo se originan en bacterias"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 las enumera como señales; el ejemplo de examen concreta su contenido y funciones.",
+"reference": "Tema 2 (2.1) y Actividad S4 (p. 2–3). "
+},
+{
+"id": 31,
+"unit": "Tema 2",
+"question": "Segundo mensajero → quinasa (ejemplo conceptual del temario):",
+"options": [
+"El AMPc regula PKA",
+"El Ca2+ puede activar quinasas dependientes de calmodulina",
+"El crosstalk impide cualquier regulación por quinasas",
+"Los 2º mensajeros traducen señales extracelulares a modificaciones proteicas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario usa PKA como ejemplo e incluye el módulo Ca2+-calmodulina; la lógica es transducir concentraciones en fosforilación de dianas.",
+"reference": "Tema 2 (2.3.4) y nota Ca2+-calmodulina. "
+},
+{
+"id": 32,
+"unit": "Tema 2",
+"question": "La terminación de señalización defectuosa:",
+"options": [
+"Puede acarrear consecuencias indeseadas",
+"No afecta a la capacidad de responder a nuevas señales",
+"Justifica mecanismos como fosfatasas o catabolismo de mensajeros",
+"No se menciona en Tema 2"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 2, 3"
+],
+"correct_answer": "A",
+"explanation": "La sección 2.3.5 lo indica explícitamente.",
+"reference": "Tema 2 (2.3.5). "
+},
+{
+"id": 33,
+"unit": "Tema 2",
+"question": "En la introducción se menciona que las señales:",
+"options": [
+"Se reconocen mediante receptores específicos",
+"Pueden ser de distinta naturaleza química",
+"No desencadenan procesos químicos intracelulares",
+"Actúan para integrar funciones celulares"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 presenta los conceptos de especificidad, diversidad y función integradora.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 34,
+"unit": "Tema 2",
+"question": "Los segundos mensajeros NO se caracterizan por:",
+"options": [
+"Permitir amplificación de señal",
+"Difundir en el citosol o compartimentos",
+"Restringirse de forma absoluta a una vía sin crosstalk",
+"Regular quinasas o fosfatasas"
+],
+"possible_answers": [
+"A: 3",
+"B: 1",
+"C: 2",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "El temario subraya la posibilidad de comunicación cruzada; por ello, ‘restricción absoluta’ es incorrecta.",
+"reference": "Tema 2 (2.3.3–2.3.4). "
+},
+{
+"id": 35,
+"unit": "Tema 2",
+"question": "Con relación a hormonas esteroideas (visión general ligada a Tema 2):",
+"options": [
+"Suelen ser hidrofóbicas y viajar unidas a proteínas transportadoras",
+"Actúan vía receptores nucleares que regulan transcripción",
+"Producen efectos generalmente más duraderos",
+"Actúan siempre por receptores de membrana"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Resumen de los modos de acción citados en el temario (se amplía en secciones posteriores).",
+"reference": "Síntesis de receptores nucleares. "
+},
+{
+"id": 36,
+"unit": "Tema 2",
+"question": "‘Vías de transducción de señales’ (concepto introductorio):",
+"options": [
+"Son series de procesos químicos intracelulares",
+"Se activan tras la unión señal–receptor",
+"No pueden modular el metabolismo",
+"Convergen a veces en cambios de expresión génica"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 define vías de transducción como cascadas químicas que modulan metabolismo y expresión génica.",
+"reference": "Tema 2 (definición de vías). "
+},
+{
+"id": 37,
+"unit": "Tema 2",
+"question": "Sobre la naturaleza de los mensajeros intracelulares (Tema 2):",
+"options": [
+"Su concentración codifica información",
+"Pueden ser nucleótidos cíclicos o iones",
+"No están sujetos a degradación o remoción",
+"Regulan efectores como quinasas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario ilustra AMPc/PKA y Ca2+-calmodulina como ejes representativos.",
+"reference": "Tema 2 (2.3.3–2.3.4). "
+},
+{
+"id": 38,
+"unit": "Tema 2",
+"question": "Comunicación intercelular y ‘división del trabajo’ tisular:",
+"options": [
+"Las señales aseguran coordinación entre tipos celulares especializados",
+"La diferenciación celular elimina la necesidad de señales",
+"Los receptores posibilitan respuestas específicas",
+"El temario lo introduce al inicio del Tema 2"
+],
+"possible_answers": [
+"A: 1, 3, 4",
+"B: 2, 3",
+"C: 1, 2",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "La coordinación entre tejidos diferenciados se basa en señales y receptores.",
+"reference": "Tema 2 (introducción). "
+},
+{
+"id": 39,
+"unit": "Tema 2",
+"question": "Ca2+ como segundo mensajero (marco Tema 2):",
+"options": [
+"Su aumento citosólico puede activar PKC (junto con DAG)",
+"Se une a calmodulina y activa quinasas específicas",
+"No participa en procesos como exocitosis o contracción",
+"Su homeostasis implica bombas y canales"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario menciona la pareja DAG/PKC, la calmodulina y el papel de transportes iónicos de Ca2+.",
+"reference": "Notas de Ca2+, calmodulina y PKC. "
+},
+{
+"id": 40,
+"unit": "Tema 2",
+"question": "Sobre la naturaleza de las vías de señalización (visión global):",
+"options": [
+"Pueden usar los mismos 2º mensajeros en distintos contextos",
+"Siempre actúan de forma aislada sin interacción entre vías",
+"Conducen a respuestas ajustadas al tipo celular",
+"Son indiferentes al entorno celular"
+],
+"possible_answers": [
+"A: 1, 3",
+"B: 1, 4",
+"C: 2, 3",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 resalta crosstalk y especificidad contextual.",
+"reference": "Tema 2 (2.3.3). "
+},
+{
+"id": 41,
+"unit": "Tema 2",
+"question": "Neurotransmisores y su inclusión en Tema 2:",
+"options": [
+"Son parte del repertorio de señales",
+"Actúan por receptores específicos",
+"No desencadenan vías de transducción",
+"Quedan fuera del temario de comunicación intercelular"
+],
+"possible_answers": [
+"A: 1, 2",
+"B: 2, 3",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Enumerados en 2.1; su acción se explica dentro del marco general de receptores y vías.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 42,
+"unit": "Tema 2",
+"question": "Factores de crecimiento (visión general en la introducción):",
+"options": [
+"Pueden activar proliferación",
+"Actúan vía receptores específicos",
+"No forman parte de la comunicación intercelular",
+"Se citan como ejemplo ya en el inicio del Tema 2"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 los menciona de forma temprana como ejemplo de señal y receptor.",
+"reference": "Tema 2 (introducción). "
+},
+{
+"id": 43,
+"unit": "Tema 2",
+"question": "Mensajeros intracelulares (resumen de funciones):",
+"options": [
+"Conectan señales externas con efectores internos",
+"Permiten modular expresión génica indirectamente",
+"Inhabilitan cualquier regulación enzimática",
+"Son esenciales para amplificar señales"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 presenta su papel como ‘traductores’ y amplificadores, con impacto en TFs y enzimas.",
+"reference": "Tema 2 (2.3.3–2.3.4). "
+},
+{
+"id": 44,
+"unit": "Tema 2",
+"question": "Sobre el papel de fosfatasas en la terminación:",
+"options": [
+"Desfosforilan componentes de la vía para apagarla",
+"Son uno de varios mecanismos de terminación",
+"Su función es contraria a la de quinasas",
+"No están implicadas en la finalización de señales"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El temario las cita explícitamente como mecanismo de finalización.",
+"reference": "Tema 2 (2.3.5). "
+},
+{
+"id": 45,
+"unit": "Tema 2",
+"question": "Relación señal–receptor–respuesta (marco general del Tema 2):",
+"options": [
+"La unión al receptor inicia procesos químicos intracelulares",
+"Sin receptores no hay reconocimiento de señal",
+"Los receptores no aportan especificidad",
+"La respuesta depende del tipo de célula y contexto"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Se insiste en especificidad y en dependencia del contexto celular.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 46,
+"unit": "Tema 2",
+"question": "Señales incluidas y NO incluidas en Tema 2:",
+"options": [
+"ncRNA y vesículas extracelulares están incluidos",
+"Disruptores endocrinos están incluidos",
+"Solo hormonas y neurotransmisores aparecen",
+"Factores de crecimiento están incluidos"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El listado de 2.1 es amplio, no exclusivo a hormonas/NT.",
+"reference": "Tema 2 (2.1). "
+},
+{
+"id": 47,
+"unit": "Tema 2",
+"question": "Efectos posibles de la señalización sobre membranas:",
+"options": [
+"Modificación de la permeabilidad iónica",
+"Regulación de bombas y canales",
+"Ausencia de efecto sobre transporte iónico",
+"Ajustes rápidos de flujo iónico como parte de la respuesta"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Tema 2 (2.3.4) lo incluye dentro de los efectos finales de la señalización.",
+"reference": "Tema 2 (2.3.4). "
+},
+{
+"id": 48,
+"unit": "Tema 2",
+"question": "Acerca de la integración de señales (visión general):",
+"options": [
+"Varias señales pueden converger en un mismo efector",
+"Los segundos mensajeros permiten integrar información",
+"No existe integración entre vías distintas",
+"La célula opera con múltiples entradas y salidas reguladas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La idea de crosstalk y múltiples efectos se enuncia en el temario.",
+"reference": "Tema 2 (2.3.3–2.3.4). "
+},
+{
+"id": 49,
+"unit": "Tema 2",
+"question": "La ‘división del trabajo’ en tejidos implica que:",
+"options": [
+"Las señales ajustan la actividad de cada tipo celular",
+"No hay necesidad de coordinación por señales",
+"El reconocimiento depende de receptores en células diana",
+"El temario vincula diferenciación a comunicación intercelular"
+],
+"possible_answers": [
+"A: 1, 3, 4",
+"B: 2, 3",
+"C: 1, 2",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "Se expone en la apertura del Tema 2.",
+"reference": "Tema 2 (introducción). "
+},
+{
+"id": 50,
+"unit": "Tema 2",
+"question": "Resumen de ‘Tema 2 – Introducción a la comunicación intercelular’:",
+"options": [
+"Catálogo amplio de señales (hormonas, factores, NT, toxinas, disruptores, ncRNA, EVs)",
+"Concepto de receptores específicos y vías de transducción",
+"Roles de segundos mensajeros (amplificación, difusión, crosstalk)",
+"Innecesariedad de finalizar la señalización"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: todas son correctas"
+],
+"correct_answer": "A",
+"explanation": "Este conjunto sintetiza los pilares del Tema 2: señales, receptores, 2º mensajeros y terminación adecuada.",
+"reference": "Tema 2 (2.1 y 2.3.3–2.3.5). "
 }
 ]
