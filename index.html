@@ -91,6 +91,11 @@
         background: #fef2f2;
       }
 
+      .question.unanswered {
+        border-color: #fb923c;
+        background: #fff7ed;
+      }
+
       .question header {
         display: flex;
         justify-content: space-between;
@@ -234,6 +239,11 @@
 
         .question.incorrect {
           background: rgba(239, 68, 68, 0.15);
+        }
+
+        .question.unanswered {
+          border-color: #fb923c;
+          background: rgba(251, 146, 60, 0.15);
         }
 
         .unit-tag {
@@ -416,21 +426,31 @@
         }
 
         let correctCount = 0;
+        let incorrectCount = 0;
+        let unansweredCount = 0;
 
         Array.from(questionList.querySelectorAll(".question")).forEach((questionEl) => {
           const selected = questionEl.querySelector("input[type='radio']:checked");
           const correctAnswer = questionEl.dataset.correctAnswer;
           const feedback = createFeedbackBlock(questionEl.dataset.questionId);
 
-          if (selected && selected.value === correctAnswer) {
-            correctCount += 1;
-            questionEl.classList.remove("incorrect");
-            questionEl.classList.add("correct");
-            feedback.classList.add("correct");
+          questionEl.classList.remove("correct", "incorrect", "unanswered");
+          feedback.classList.remove("correct", "incorrect", "unanswered");
+
+          if (selected) {
+            if (selected.value === correctAnswer) {
+              correctCount += 1;
+              questionEl.classList.add("correct");
+              feedback.classList.add("correct");
+            } else {
+              incorrectCount += 1;
+              questionEl.classList.add("incorrect");
+              feedback.classList.add("incorrect");
+            }
           } else {
-            questionEl.classList.remove("correct");
-            questionEl.classList.add("incorrect");
-            feedback.classList.add("incorrect");
+            unansweredCount += 1;
+            questionEl.classList.add("unanswered");
+            feedback.classList.add("unanswered");
           }
 
           const questionData = currentQuestions.find(
@@ -438,13 +458,23 @@
           );
 
           if (questionData) {
-            feedback.innerHTML = [
-              `<strong>Respuesta correcta: ${questionData.correct_answer}</strong>`,
-              `<div>${questionData.explanation || "Consulta la documentación para más detalles."}</div>`,
-              questionData.reference
-                ? `<div><em>Referencia:</em> ${questionData.reference}</div>`
-                : ""
-            ].join("");
+            const segments = [
+              `<strong>Respuesta correcta: ${questionData.correct_answer}</strong>`
+            ];
+
+            if (!selected) {
+              segments.push("<div>No respondiste esta pregunta.</div>");
+            }
+
+            segments.push(
+              `<div>${questionData.explanation || "Consulta la documentación para más detalles."}</div>`
+            );
+
+            if (questionData.reference) {
+              segments.push(`<div><em>Referencia:</em> ${questionData.reference}</div>`);
+            }
+
+            feedback.innerHTML = segments.join("");
           }
 
           const existingFeedback = questionEl.querySelector(".feedback");
@@ -455,9 +485,10 @@
         });
 
         const totalQuestions = currentQuestions.length;
+        const rawScore = correctCount - incorrectCount / 3;
         const scoreOverTen =
-          totalQuestions === 0 ? 0 : (correctCount / totalQuestions) * 10;
-        resultsBox.textContent = `Nota: ${scoreOverTen.toFixed(2)} / 10 (${correctCount} de ${totalQuestions} respuestas correctas)`;
+          totalQuestions === 0 ? 0 : (rawScore / totalQuestions) * 10;
+        resultsBox.textContent = `Nota: ${scoreOverTen.toFixed(2)} / 10 (correctas: ${correctCount}, incorrectas: ${incorrectCount}, sin responder: ${unansweredCount})`;
       }
 
       function createFeedbackBlock(questionId) {
@@ -487,7 +518,7 @@
       function clearResults() {
         resultsBox.textContent = "";
         Array.from(questionList.children).forEach((questionEl) => {
-          questionEl.classList.remove("correct", "incorrect");
+          questionEl.classList.remove("correct", "incorrect", "unanswered");
           const feedback = questionEl.querySelector(".feedback");
           if (feedback) {
             feedback.remove();
