@@ -1998,5 +1998,1005 @@
 "correct_answer": "A",
 "explanation": "Este conjunto sintetiza los pilares del Tema 2: señales, receptores, 2º mensajeros y terminación adecuada.",
 "reference": "Tema 2 (2.1 y 2.3.3–2.3.5). "
+},
+{
+"id": 1,
+"unit": "Tema 3",
+"question": "Los receptores acoplados a proteína G (GPCR) se caracterizan por:",
+"options": [
+"Poseer 7 segmentos transmembrana (7TM)",
+"Ser una familia muy amplia, con cientos de receptores en humanos",
+"Constituir aproximadamente un tercio de las dianas farmacológicas",
+"Unir directamente ADN para regular la transcripción"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Los GPCR son 7TM, muy numerosos y relevantes como dianas; no se unen al ADN.",
+"reference": "Tema 3, 3.2.1 GPCR y adenilato ciclasa. "
+},
+{
+"id": 2,
+"unit": "Tema 3",
+"question": "En el ciclo de activación de una proteína G heterotrimérica:",
+"options": [
+"La subunidad Gα intercambia GDP por GTP",
+"Gα-GTP se disocia de Gβγ",
+"La actividad GTPasa de Gα limita la duración de la señal",
+"El intercambio GDP→GTP ocurre en Gβγ"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El intercambio ocurre en Gα, que luego se separa y se apaga por su GTPasa intrínseca.",
+"reference": "Tema 3, 3.2.1 Proteínas G y activación. "
+},
+{
+"id": 3,
+"unit": "Tema 3",
+"question": "En la vía de la adenilato ciclasa activada por GPCR:",
+"options": [
+"La adenilato ciclasa produce AMPc",
+"El AMPc activa la PKA",
+"Las fosfodiesterasas hidrolizan el AMPc",
+"El AMPc abre canales de Ca2+ del RE de forma directa"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "AMPc activa PKA y es degradado por PDE; la liberación de Ca2+ del RE no es por AMPc directo.",
+"reference": "Tema 3, 3.2.1 (esquema general AC–AMPc–PKA y terminación por PDE). "
+},
+{
+"id": 4,
+"unit": "Tema 3",
+"question": "La desensibilización del receptor β-adrenérgico incluye:",
+"options": [
+"Fosforilación del receptor",
+"Reclutamiento de β-arrestina",
+"Endocitosis del complejo receptor–β-arrestina",
+"Activación directa de DNA polimerasa"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Quinasa/PKA fosforilan el receptor, se une β-arrestina y se internaliza; no hay DNA polimerasa.",
+"reference": "Tema 3, desensibilización β-adrenérgico. "
+},
+{
+"id": 5,
+"unit": "Tema 3",
+"question": "Sobre la PKA dependiente de AMPc:",
+"options": [
+"Tiene subunidades reguladoras y catalíticas",
+"El AMPc libera subunidades catalíticas activas",
+"Puede modificar actividad enzimática y expresión génica",
+"Solo actúa fosforilando ADN"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La PKA es tetramérica regulada por AMPc y regula enzimas y TFs; no fosforila ADN.",
+"reference": "Actividad S4, pregunta 6; Tema 3 contexto AMPc–PKA. "
+},
+{
+"id": 6,
+"unit": "Tema 3",
+"question": "En la vía de los fosfoinosítidos (GPCR–Gαq–PLC):",
+"options": [
+"La PLC hidroliza PIP2",
+"Se generan DAG e IP3 como segundos mensajeros",
+"El DAG activa PKC (con Ca2+)",
+"El IP3 permanece anclado en la membrana plasmática"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "IP3 es soluble; DAG queda en membrana y activa PKC junto con Ca2+ liberado.",
+"reference": "Tema 3, 3.2.2 Fosfoinosítidos (PLC, PIP2→DAG+IP3). "
+},
+{
+"id": 7,
+"unit": "Tema 3",
+"question": "El IP3 en la señalización celular:",
+"options": [
+"Abre canales de Ca2+ en el retículo endoplasmático",
+"Aumenta Ca2+ citosólico",
+"Activa directamente PKA",
+"Es un segundo mensajero soluble"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "IP3 es soluble, libera Ca2+ del RE; PKA no es su efector directo.",
+"reference": "Tema 3, IP3–canales de Ca2+. Actividad S4, p. 3 (preg. 12). "
+},
+{
+"id": 8,
+"unit": "Tema 3",
+"question": "La terminación de la vía PLC–PIP2–DAG–IP3 puede implicar:",
+"options": [
+"Desfosforilación de IP3",
+"Hidrolizar DAG o fosforilarlo a ácido fosfatídico",
+"Rebombeo de Ca2+ al RE",
+"Aumento de síntesis de IP3 por PKA"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El apagado incluye metabolizar IP3/DAG y restaurar Ca2+ al RE.",
+"reference": "Tema 3, inactivación de la vía de fosfoinosítidos. "
+},
+{
+"id": 9,
+"unit": "Tema 3",
+"question": "Calcio–calmodulina:",
+"options": [
+"Calmodulina es un sensor de Ca2+",
+"Activa quinasas dependientes de calmodulina (CaMK)",
+"Participa en contracción y exocitosis",
+"Se une a ADN para iniciar replicación"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 4",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La pareja Ca2+–calmodulina regula CaMK y procesos como contracción y exocitosis.",
+"reference": "Tema 3, Ca2+–calmodulina (EF-hand) y funciones. "
+},
+{
+"id": 10,
+"unit": "Tema 3",
+"question": "Los receptores con actividad tirosina quinasa intrínseca (RTK):",
+"options": [
+"Suelen dimerizar y autofosforilarse tras unir ligando",
+"Incluyen el receptor de insulina",
+"Tienen un solo segmento transmembrana por monómero",
+"Son GPCR de 7 hélices"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Los RTK como INSR son dímeros 1TM por monómero; no son GPCR.",
+"reference": "Tema 3, 3.2.3 RTK (INSR/EGFR). "
+},
+{
+"id": 11,
+"unit": "Tema 3",
+"question": "Señala lo correcto sobre el receptor de insulina (INSR):",
+"options": [
+"Es un dímero (2α2β)",
+"Autofosforila residuos Tyr al activarse",
+"Fosforila IRS-1, que deriva señal a PIP3-AKT o MAPK",
+"Activa exclusivamente la vía JAK-STAT"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "INSR se activa por autofosforilación y señaliza vía PI3K–AKT y MAPK; no es JAK-STAT.",
+"reference": "Tema 3, INSR→IRS-1→PI3K/GRB2–SOS. "
+},
+{
+"id": 12,
+"unit": "Tema 3",
+"question": "Ruta PI3K–PIP3–PDK1–AKT en señalización de insulina:",
+"options": [
+"IRS-1 activado recluta PI3K",
+"PI3K convierte PIP2 en PIP3",
+"PDK1 fosforila y activa AKT",
+"PTEN desfosforila PIP3 a PIP2 para terminar la señal"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 2, 3",
+"C: 2, 4",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "Todos los pasos forman la vía PIP3–AKT, con PTEN apagándola.",
+"reference": "Tema 3, vía PIP3–AKT y PTEN. "
+},
+{
+"id": 13,
+"unit": "Tema 3",
+"question": "En la derivación hacia MAPK de la señal de insulina:",
+"options": [
+"IRS-1 fosforilado une GRB2 (dominio SH2)",
+"GRB2 recluta y activa SOS",
+"SOS activa RAS promoviendo RAS-GTP",
+"RAS-GTP fosforila directamente ERK"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La cascada es RAS→RAF→MEK→ERK; RAS no fosforila ERK directamente.",
+"reference": "Tema 3, GRB2/SOS→RAS→RAF→MEK→ERK. "
+},
+{
+"id": 14,
+"unit": "Tema 3",
+"question": "Sobre ERK en la vía MAPK:",
+"options": [
+"ERK activa se transloca al núcleo",
+"Modula factores de transcripción",
+"Participa en respuesta a insulina y factores de crecimiento",
+"Es una GTPasa monomérica"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "ERK es una quinasa que entra al núcleo; la GTPasa es RAS.",
+"reference": "Tema 3, ERK nuclear y ejemplos (EGF/PDGF). "
+},
+{
+"id": 15,
+"unit": "Tema 3",
+"question": "La señalización mediada por JAK-STAT puede ser activada por:",
+"options": [
+"Receptor de leptina",
+"Receptor de la hormona de crecimiento",
+"Múltiples receptores de citoquinas",
+"INSR en su dominio tirosina quinasa intrínseca"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "LEPR y otros receptores sin TK intrínseca reclutan JAK; INSR no usa JAK-STAT.",
+"reference": "Tema 3, receptores ligados a quinasas (JAK2). "
+},
+{
+"id": 16,
+"unit": "Tema 3",
+"question": "Secuencia canónica en la vía JAK-STAT de leptina:",
+"options": [
+"Dimerización del receptor de leptina",
+"Activación/fosforilación por JAK",
+"Union y fosforilación de STAT",
+"Dímero STAT fosforilado se une a HRE en ADN"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 3, 4",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "STAT dimeriza y se une a sitios específicos en ADN (no HRE, que es de receptores nucleares).",
+"reference": "Tema 3, vía leptina–JAK–STAT. "
+},
+{
+"id": 17,
+"unit": "Tema 3",
+"question": "Los receptores guanilil ciclasa:",
+"options": [
+"Existen en forma de receptores de membrana homodímeros",
+"Existen como enzimas solubles activadas por NO",
+"Producen GMPc",
+"Se desactivan por fosfodiesterasas específicas de GMPc"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 2, 3",
+"C: 2, 4",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "Hay formas de membrana y solubles; generan GMPc y se regulan por PDEs.",
+"reference": "Tema 3, 3.2.4 Guanilil ciclasa y NO. "
+},
+{
+"id": 18,
+"unit": "Tema 3",
+"question": "Entre los tipos de receptores del Tema 3 NO se incluye:",
+"options": [
+"GPCR",
+"Receptores con actividad tirosina quinasa intrínseca",
+"Receptores guanilil ciclasa",
+"ARN polimerasas receptoras de membrana"
+],
+"possible_answers": [
+"A: 4",
+"B: 1, 2, 3",
+"C: 1",
+"D: 2"
+],
+"correct_answer": "A",
+"explanation": "La ARN polimerasa no es un receptor de membrana.",
+"reference": "Tema 3, 3.1 Tipos de receptores. "
+},
+{
+"id": 19,
+"unit": "Tema 3",
+"question": "Los canales iónicos activados por ligando:",
+"options": [
+"Se incluyen como receptores de membrana",
+"Transducen señal variando la permeabilidad iónica",
+"Son siempre GPCR",
+"Pueden producir respuestas rápidas"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 2, 3",
+"C: 1, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Son receptores iónicos, no GPCR, y median respuestas rápidas.",
+"reference": "Tema 3, 3.1 listado de receptores. "
+},
+{
+"id": 20,
+"unit": "Tema 3",
+"question": "Sobre la finalización de señalización en vías de membrana:",
+"options": [
+"Gα hidroliza GTP a GDP",
+"Las fosfodiesterasas degradan AMPc/GMPc",
+"PTEN desfosforila PIP3 a PIP2",
+"No existen mecanismos de terminación"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Cada vía tiene mecanismos específicos de apagado; la afirmación 4 es falsa.",
+"reference": "Tema 3, terminación: GTPasa, PDE, PTEN. "
+},
+{
+"id": 21,
+"unit": "Tema 3",
+"question": "Respecto a GRB2 en la vía MAPK:",
+"options": [
+"Contiene dominio SH2 que reconoce Tyr fosforilada",
+"Actúa como proteína adaptadora",
+"Activa RAS por su actividad GEF intrínseca",
+"Se une a IRS-1 fosforilado en señal de insulina"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "GRB2 es adaptadora (no GEF); recluta SOS (GEF) para activar RAS.",
+"reference": "Tema 3, GRB2–SOS–RAS. "
+},
+{
+"id": 22,
+"unit": "Tema 3",
+"question": "Señala lo correcto sobre RAS en la cascada MAPK:",
+"options": [
+"Es una GTPasa monomérica",
+"Alterna entre estados GDP (inactivo) y GTP (activo)",
+"Activa RAF-1 al estar en forma GTP",
+"Fosforila directamente MEK"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "RAS activa RAF; la fosforilación de MEK la realiza RAF, no RAS.",
+"reference": "Tema 3, RAS→RAF→MEK→ERK. "
+},
+{
+"id": 23,
+"unit": "Tema 3",
+"question": "La señalización por receptores nucleares (clase I):",
+"options": [
+"Implica hormonas esteroideas hidrofóbicas",
+"Forman homodímeros hormona–receptor",
+"Se unen a elementos de respuesta a hormonas (HRE)",
+"Actúan típicamente con efectos más duraderos"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 3",
+"C: 2, 4",
+"D: 1, 2"
+],
+"correct_answer": "A",
+"explanation": "Las esteroideas difunden, dimerizan con su receptor y regulan transcripción vía HRE.",
+"reference": "Tema 3, receptores nucleares clase I. "
+},
+{
+"id": 24,
+"unit": "Tema 3",
+"question": "Los receptores nucleares clase II se caracterizan por:",
+"options": [
+"Formar heterodímeros ya unidos al ADN",
+"Unirse a HRE y liberar un represor tras unión de la hormona",
+"Activarse por hormonas hidrofílicas sin difusión",
+"Promover trans-activación tras reclutar coactivadores y ARN Pol II"
+],
+"possible_answers": [
+"A: 1, 2, 4",
+"B: 1, 3",
+"C: 2, 3",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Clase II está pre-unida al ADN y libera represores tras unión hormonal; actúan con coactivadores.",
+"reference": "Tema 3, receptores nucleares clase II. "
+},
+{
+"id": 25,
+"unit": "Tema 3",
+"question": "Comparando receptores de membrana vs nucleares:",
+"options": [
+"Los nucleares suelen tener efectos más lentos",
+"Los de membrana activan cascadas de quinasas",
+"Ambos pueden afectar la expresión génica",
+"Los nucleares son GPCR"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Los de membrana regulan quinasas; ambos pueden modular transcripción.",
+"reference": "Tema 3, síntesis de modos de acción. "
+},
+{
+"id": 26,
+"unit": "Tema 3",
+"question": "Señala lo incorrecto sobre GPCR:",
+"options": [
+"Son 7TM",
+"Actúan con proteínas G heterotriméricas",
+"Su ligando activa directamente JAK2",
+"Pueden desensibilizarse vía β-arrestina"
+],
+"possible_answers": [
+"A: 3",
+"B: 1",
+"C: 2",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "JAK2 se asocia a otros receptores; no es la vía directa de GPCR.",
+"reference": "Tema 3, GPCR vs receptores ligados a JAK. "
+},
+{
+"id": 27,
+"unit": "Tema 3",
+"question": "En la terminación de señalización por insulina:",
+"options": [
+"Fosfatasas desfosforilan componentes de la vía",
+"RAS inactiva su GTP por hidrólisis a GDP",
+"PTEN reconvierte PIP3 a PIP2",
+"Se incrementa la producción de PIP3 por PI3K"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La vía se apaga por fosfatasas, GTPasa de RAS y PTEN; no por aumentar PIP3.",
+"reference": "Tema 3, apagado de MAPK y PIP3–AKT. "
+},
+{
+"id": 28,
+"unit": "Tema 3",
+"question": "Sobre los dominios SH2:",
+"options": [
+"Reconocen residuos de tirosina fosforilados",
+"Están presentes en adaptadoras como GRB2",
+"Permiten acoplar IRS-1 con SOS",
+"Son dominios catalíticos de quinasa"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "SH2 es de reconocimiento; GRB2 conecta IRS-1 con SOS; no es catalítico.",
+"reference": "Tema 3, GRB2 (SH2) y ensamblaje de complejos. "
+},
+{
+"id": 29,
+"unit": "Tema 3",
+"question": "En la vía de fosfoinosítidos, la PKC:",
+"options": [
+"Se activa por DAG",
+"Requiere Ca2+ para su activación",
+"Fosforila proteínas diana",
+"Es una GTPasa"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "PKC es quinasa activada por DAG y Ca2+; no es GTPasa.",
+"reference": "Tema 3, DAG–PKC y Ca2+. "
+},
+{
+"id": 30,
+"unit": "Tema 3",
+"question": "Sobre AMPc y su control:",
+"options": [
+"Se produce por adenilato ciclasa",
+"Se degrada por fosfodiesterasas",
+"Activa PKA",
+"Activa directamente canales IP3 del RE"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "AMPc activa PKA y es degradado por PDE; no abre canales IP3.",
+"reference": "Tema 3, 3.2.1 AC–AMPc–PKA; terminación por PDE. "
+},
+{
+"id": 31,
+"unit": "Tema 3",
+"question": "Acerca de los receptores guanilil ciclasa de membrana:",
+"options": [
+"Suelen ser homodímeros 1TM por monómero",
+"Responden a péptidos natriuréticos",
+"Generan GMPc como segundo mensajero",
+"Se activan por unión de NO al hemo del receptor de membrana"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "El NO activa la ciclasa soluble; la de membrana responde a hormonas peptídicas.",
+"reference": "Tema 3, 3.2.4 (membrana vs soluble). "
+},
+{
+"id": 32,
+"unit": "Tema 3",
+"question": "La guanilil ciclasa soluble:",
+"options": [
+"Es una enzima citosólica con grupo hemo",
+"Se activa por NO",
+"Produce GMPc",
+"Se desactiva al aumentar PTEN"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 3",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "La GC soluble responde a NO y hace GMPc; PTEN actúa en PIP3, no en GMPc.",
+"reference": "Tema 3, GC soluble y NO. "
+},
+{
+"id": 33,
+"unit": "Tema 3",
+"question": "Los efectos de la ERK fosforilada incluyen:",
+"options": [
+"Activación de factores de transcripción",
+"Cambios en expresión génica",
+"Translocación nuclear",
+"Hidrolizar GTP en GDP"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "ERK es quinasa y entra al núcleo; la GTPasa corresponde a RAS o Gα.",
+"reference": "Tema 3, ERK nuclear. "
+},
+{
+"id": 34,
+"unit": "Tema 3",
+"question": "Sobre STAT en la vía JAK-STAT:",
+"options": [
+"Se une al receptor fosforilado",
+"Es fosforilado por JAK",
+"Dimeriza tras fosforilación",
+"Permanece en el citosol y no entra al núcleo"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "STAT dimeriza y migra al núcleo donde regula genes.",
+"reference": "Tema 3, pasos JAK-STAT. "
+},
+{
+"id": 35,
+"unit": "Tema 3",
+"question": "Señalización que puede alterar expresión génica de forma indirecta vía receptores de membrana:",
+"options": [
+"AMPc/PKA",
+"MAPK",
+"JAK-STAT",
+"Ninguna de las anteriores"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 2",
+"C: 3",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "El temario recoge que estas vías pueden fosforilar TFs y cambiar expresión génica.",
+"reference": "Tema 3, regulación de TFs por vías de membrana. "
+},
+{
+"id": 36,
+"unit": "Tema 3",
+"question": "Los efectos temporales típicos de receptores nucleares frente a membrana:",
+"options": [
+"Nucleares: efectos más a largo plazo",
+"Membrana: efectos rápidos (enzimáticos, iónicos)",
+"Nucleares: regulan transcripción vía HRE",
+"Membrana: siempre tardíos"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Se enfatiza la latencia de receptores nucleares y rapidez de los de membrana.",
+"reference": "Tema 3, receptores nucleares vs membrana. "
+},
+{
+"id": 37,
+"unit": "Tema 3",
+"question": "Acerca de β-arrestina en GPCR:",
+"options": [
+"Se une a GPCR fosforilado",
+"Favorece endocitosis del receptor",
+"Contribuye a la desensibilización",
+"Aumenta de forma sostenida la señal de AMPc"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "β-arrestina apaga la señal del receptor y promueve su internalización.",
+"reference": "Tema 3, desensibilización GPCR. "
+},
+{
+"id": 38,
+"unit": "Tema 3",
+"question": "Sobre PLC en la vía de fosfoinosítidos:",
+"options": [
+"Es activada por Gαq",
+"Está localizada en membrana",
+"Reconoce específicamente PIP2",
+"Convierte PIP2 en PIP3"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "PLC hidroliza PIP2 en DAG e IP3; PIP3 lo genera PI3K, no PLC.",
+"reference": "Tema 3, Gαq–PLC–PIP2. "
+},
+{
+"id": 39,
+"unit": "Tema 3",
+"question": "En la cascada MAPK, el orden correcto de activación es:",
+"options": [
+"RAS → RAF → MEK → ERK",
+"RAS → MEK → RAF → ERK",
+"RAF → RAS → MEK → ERK",
+"RAS → ERK → RAF → MEK"
+],
+"possible_answers": [
+"A: 1",
+"B: 2",
+"C: 3",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "La secuencia canónica tras SOS es RAS-GTP→RAF→MEK→ERK.",
+"reference": "Tema 3, vía MAPK. "
+},
+{
+"id": 40,
+"unit": "Tema 3",
+"question": "Sobre la proteína SOS:",
+"options": [
+"Es una GEF que activa RAS (GDP→GTP)",
+"Es una quinasa que fosforila RAF",
+"Se recluta por GRB2",
+"Interacciona con IRS-1 fosforilado indirectamente vía GRB2"
+],
+"possible_answers": [
+"A: 1, 3, 4",
+"B: 2, 3",
+"C: 1, 2",
+"D: 2, 4"
+],
+"correct_answer": "A",
+"explanation": "SOS es GEF reclutada por GRB2; RAF lo activa RAS-GTP, no SOS por fosforilación.",
+"reference": "Tema 3, complejo GRB2–SOS. "
+},
+{
+"id": 41,
+"unit": "Tema 3",
+"question": "En relación con cGMP:",
+"options": [
+"Es producido por guanilil ciclasa",
+"Se degrada por PDE específicas",
+"Media respuestas en músculo liso vascular",
+"Es degradado por PTEN"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "cGMP lo degradan PDE de GMPc; PTEN actúa en PIP3/PIP2.",
+"reference": "Tema 3, guanilil ciclasa y PDE de GMPc. "
+},
+{
+"id": 42,
+"unit": "Tema 3",
+"question": "Sobre el receptor de leptina (LEPR):",
+"options": [
+"No posee actividad TK intrínseca",
+"Se asocia a JAK2",
+"Activa STAT que regula transcripción",
+"Es un GPCR de 7TM"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "LEPR recluta JAK2 para activar STAT; no es GPCR.",
+"reference": "Tema 3, LEPR y JAK-STAT. "
+},
+{
+"id": 43,
+"unit": "Tema 3",
+"question": "Las hormonas esteroideas:",
+"options": [
+"Viajan unidas a proteínas transportadoras",
+"Difunden a través de la membrana plasmática",
+"Se unen a receptores nucleares",
+"Se unen a HRE para modular transcripción"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 3",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Todas las afirmaciones describen su modo de acción nuclear clásico.",
+"reference": "Tema 3, receptores nucleares (clase I). "
+},
+{
+"id": 44,
+"unit": "Tema 3",
+"question": "El factor de transcripción CRE se activa típicamente por:",
+"options": [
+"Aumento de AMPc",
+"Activación de PKA",
+"Fosforilación dependiente de vías de membrana",
+"Unión directa de GPCR al ADN"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "AMPc–PKA fosforila TF como CREB; GPCR no se une a ADN.",
+"reference": "Tema 3, vías de membrana regulando TFs (CRE). "
+},
+{
+"id": 45,
+"unit": "Tema 3",
+"question": "Sobre la especificidad de RTK:",
+"options": [
+"INSR y EGFR son ejemplos de RTK",
+"Su activación requiere dimerización",
+"Autofosforilan Tyr en sus colas citosólicas",
+"Se acoplan a Gαq para activar PLC"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "RTK dimerizan y autofosforilan Tyr; PLC-Gαq es propio de GPCR.",
+"reference": "Tema 3, 3.2.3 INSR/EGFR. "
+},
+{
+"id": 46,
+"unit": "Tema 3",
+"question": "En la vía de fosfoinosítidos, ¿qué mecanismo NO apaga la señal?",
+"options": [
+"Desfosforilar IP3 a inositol",
+"Bombear Ca2+ de vuelta al RE",
+"Fosforilar DAG a ácido fosfatídico",
+"Activar más PLC por retroalimentación positiva"
+],
+"possible_answers": [
+"A: 4",
+"B: 1",
+"C: 2",
+"D: 3"
+],
+"correct_answer": "A",
+"explanation": "Los tres primeros son mecanismos de terminación; activar PLC no apaga la vía.",
+"reference": "Tema 3, inactivación de IP3/DAG y Ca2+. "
+},
+{
+"id": 47,
+"unit": "Tema 3",
+"question": "En la señal de insulina, PTEN:",
+"options": [
+"Es una fosfatasa de lípidos",
+"Convierte PIP3 en PIP2",
+"Contribuye a finalizar la vía PIP3–AKT",
+"Activa MEK por fosforilación"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 2, 4",
+"C: 1, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "PTEN apaga la rama PI3K-AKT; no activa MEK.",
+"reference": "Tema 3, PTEN en PIP3–AKT. "
+},
+{
+"id": 48,
+"unit": "Tema 3",
+"question": "Sobre la activación inicial de INSR por insulina:",
+"options": [
+"La insulina se une a subunidades α",
+"Se activa la actividad TK del dominio β",
+"Hay autofosforilación cruzada",
+"Se recluta IRS-1 para fosforilarlo"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 3",
+"C: 2, 4",
+"D: 3, 4"
+],
+"correct_answer": "A",
+"explanation": "Todos los pasos ocurren en la activación temprana del INSR.",
+"reference": "Tema 3, activación del INSR. "
+},
+{
+"id": 49,
+"unit": "Tema 3",
+"question": "Indica cuáles de estas vías de transducción pueden alterar la expresión génica:",
+"options": [
+"MAPK",
+"JAK-STAT",
+"PIP3–AKT",
+"Ninguna"
+],
+"possible_answers": [
+"A: 1, 2, 3",
+"B: 1, 2",
+"C: 3",
+"D: 4"
+],
+"correct_answer": "A",
+"explanation": "Todas se vinculan con regulación de TFs o del programa de expresión.",
+"reference": "Tema 3, vías que modulan TFs/genes. "
+},
+{
+"id": 50,
+"unit": "Tema 3",
+"question": "Resumen integrador del Tema 3:",
+"options": [
+"GPCR→AMPc/PKA y PLC→DAG/IP3/Ca2+",
+"RTK (INSR/EGFR)→PI3K–AKT y MAPK",
+"Receptores guanilil ciclasa→GMPc (NO en forma soluble)",
+"Receptores nucleares→HRE; efectos más duraderos"
+],
+"possible_answers": [
+"A: 1, 2, 3, 4",
+"B: 1, 2, 3",
+"C: 2, 4",
+"D: 1, 4"
+],
+"correct_answer": "A",
+"explanation": "Las cuatro líneas resumen tipos de receptores y vías centrales del tema.",
+"reference": "Tema 3, 3.1–3.3 (síntesis de vías). "
 }
 ]
